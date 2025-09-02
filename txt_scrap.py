@@ -11,13 +11,10 @@ import time
 import re
 import os
 
-# List of product page URLs
+# URLs for HBK software apps
 product_urls = [
-    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-noise-partner",
-    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise",
-    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-work-noise",
-    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-exhaust-noise",
-    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-product-noise"
+    "https://www.hbkworld.com/en/products/instruments/handheld/hand-held-software/desktop-applications/dirac-room-acoustics-software-7841",
+    "https://www.hbkworld.com/en/products/instruments/handheld/hand-held-software/desktop-applications/measurement-partner-suite-bz-5503"
 ]
 
 def setup_driver():

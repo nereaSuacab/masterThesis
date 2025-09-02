@@ -13,11 +13,11 @@ import csv
 
 # List of product page URLs
 product_urls = [
-    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-noise-partner",
-    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise",
-    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-work-noise",
-    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-exhaust-noise",
-    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-product-noise"
+    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2255/2255-noise-partner",
+    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2255/2255-building-acoustics",
+    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2255/2255-enviro-noise",
+    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2255/2255-work-noise",
+    "https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2255/product-noise"
 ]
 
 def setup_driver():
