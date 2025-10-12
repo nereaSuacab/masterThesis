@@ -13,8 +13,7 @@ import os
 
 # URLs for HBK software apps
 product_urls = [
-    "https://www.hbkworld.com/en/products/instruments/handheld/hand-held-software/desktop-applications/dirac-room-acoustics-software-7841",
-    "https://www.hbkworld.com/en/products/instruments/handheld/hand-held-software/desktop-applications/measurement-partner-suite-bz-5503"
+   "https://www.hbkworld.com/en/products/instruments/handheld/vibration-meters/3656-a"
 ]
 
 def setup_driver():
@@ -205,17 +204,16 @@ def scrape_product_overview(driver, wait, url):
                 filename = f"{safe_filename}.txt"
                 counter += 1
             
-            # Write content to file
+            # Write content to file in continuous format
             with open(filename, 'w', encoding='utf-8') as f:
                 f.write(f"Product: {product_name}\n")
                 f.write(f"URL: {url}\n")
                 f.write("=" * 80 + "\n\n")
                 
-                for i, content in enumerate(overview_content, 1):
-                    f.write(f"Section {i}:\n")
-                    f.write("-" * 40 + "\n")
-                    f.write(content)
-                    f.write("\n\n")
+                # Join all content with double line breaks for readability
+                continuous_text = '\n\n'.join(overview_content)
+                f.write(continuous_text)
+                f.write("\n")
             
             print(f"  Saved overview to: {filename}")
             return filename
