@@ -13,7 +13,7 @@ import os
 
 # URLs for HBK software apps
 product_urls = [
-   "https://www.hbkworld.com/en/products/instruments/handheld/vibration-meters/3656-a"
+   "https://www.hbkworld.com/en/products/transducers/acoustic/sound-sources/power-amplifier/2755"
 ]
 
 def setup_driver():
