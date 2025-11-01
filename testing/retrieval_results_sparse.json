@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": "2025-11-01T13:31:40.054306",
+    "query": "Which solution should a researcher use if they want High accuracy and data export?",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "ab8eba0a-b5dd-4d7e-9a64-d629c1e2a90d",
+        "window": "It is possible to override all data.  Adjust \nthe slope of the decay, if needed, or edit data to test theories \nabout the effects of changes you can make to get specific results. \n Data edited in this way is marked so the manual changes are \nvisible.  Should you want to remove the edits, the original data will \nstill be available.\n Export the data.  To perform custom analysis or check \ncalculations, or to upload your data to a database, you can export \ndata to Microsoft Excel\u00ae.\n Create reports. ",
+        "original_text": "Should you want to remove the edits, the original data will \nstill be available.\n",
+        "metadata": {
+          "file_name": "output_PRODUCT DATA - 2250 2270.txt",
+          "doc_id": "fadc3696-2bd0-475c-8223-08703aebb290",
+          "window": "It is possible to override all data.  Adjust \nthe slope of the decay, if needed, or edit data to test theories \nabout the effects of changes you can make to get specific results. \n Data edited in this way is marked so the manual changes are \nvisible.  Should you want to remove the edits, the original data will \nstill be available.\n Export the data.  To perform custom analysis or check \ncalculations, or to upload your data to a database, you can export \ndata to Microsoft Excel\u00ae.\n Create reports. ",
+          "original_text": "Should you want to remove the edits, the original data will \nstill be available.\n"
+        },
+        "score": 5.613397598266602
+      },
+      {
+        "rank": 2,
+        "id": "ead2eae3-9d9d-48e4-a692-64d793fb0e45",
+        "window": "3.  Specify the name and location of the export file in the Destination file field.\n 4.  Choose the format into which you want to export the measurement data:\nFile extension *.xlsx is compatible with Microsoft Excel 2007 and newer.\n l Tab separated values (*.txt)\n5.  If you are exporting to a workbook, you have the option to use a master file.\n When you export a measurement to a workbook, master files tell the PC application what to do with the data.\n",
+        "original_text": "Choose the format into which you want to export the measurement data:\nFile extension *.xlsx is compatible with Microsoft Excel 2007 and newer.\n",
+        "metadata": {
+          "file_name": "output_UserGuide - Noise Partner.txt",
+          "doc_id": "cf26fb27-ef5a-4ec9-8a23-f73ea227bbef",
+          "window": "3.  Specify the name and location of the export file in the Destination file field.\n 4.  Choose the format into which you want to export the measurement data:\nFile extension *.xlsx is compatible with Microsoft Excel 2007 and newer.\n l Tab separated values (*.txt)\n5.  If you are exporting to a workbook, you have the option to use a master file.\n When you export a measurement to a workbook, master files tell the PC application what to do with the data.\n",
+          "original_text": "Choose the format into which you want to export the measurement data:\nFile extension *.xlsx is compatible with Microsoft Excel 2007 and newer.\n"
+        },
+        "score": 5.0183234214782715
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:33:04.095366",
+    "query": "Which solution should I use if I want compatibility with analysis tools like matlab?",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "ead2eae3-9d9d-48e4-a692-64d793fb0e45",
+        "window": "3.  Specify the name and location of the export file in the Destination file field.\n 4.  Choose the format into which you want to export the measurement data:\nFile extension *.xlsx is compatible with Microsoft Excel 2007 and newer.\n l Tab separated values (*.txt)\n5.  If you are exporting to a workbook, you have the option to use a master file.\n When you export a measurement to a workbook, master files tell the PC application what to do with the data.\n",
+        "original_text": "Choose the format into which you want to export the measurement data:\nFile extension *.xlsx is compatible with Microsoft Excel 2007 and newer.\n",
+        "metadata": {
+          "file_name": "output_UserGuide - Noise Partner.txt",
+          "doc_id": "cf26fb27-ef5a-4ec9-8a23-f73ea227bbef",
+          "window": "3.  Specify the name and location of the export file in the Destination file field.\n 4.  Choose the format into which you want to export the measurement data:\nFile extension *.xlsx is compatible with Microsoft Excel 2007 and newer.\n l Tab separated values (*.txt)\n5.  If you are exporting to a workbook, you have the option to use a master file.\n When you export a measurement to a workbook, master files tell the PC application what to do with the data.\n",
+          "original_text": "Choose the format into which you want to export the measurement data:\nFile extension *.xlsx is compatible with Microsoft Excel 2007 and newer.\n"
+        },
+        "score": 5.024500846862793
+      },
+      {
+        "rank": 2,
+        "id": "66823492-1e3c-47a2-9edd-e81a4e1b9ee0",
+        "window": "3.  Specify the name and location of the export file in the Destination file field.\n 4.  Choose the format into which you want to export the measurement data:\nFile extension *.xlsx is compatible with Microsoft Excel 2007 and newer.\n l Tab separated values (*.txt)\n5.  If you are exporting to a workbook, you have the option to use a master file.\n When you export a measurement to a workbook, master files tell the PC application what to do with the data.\n",
+        "original_text": "Choose the format into which you want to export the measurement data:\nFile extension *.xlsx is compatible with Microsoft Excel 2007 and newer.\n",
+        "metadata": {
+          "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+          "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+          "window": "3.  Specify the name and location of the export file in the Destination file field.\n 4.  Choose the format into which you want to export the measurement data:\nFile extension *.xlsx is compatible with Microsoft Excel 2007 and newer.\n l Tab separated values (*.txt)\n5.  If you are exporting to a workbook, you have the option to use a master file.\n When you export a measurement to a workbook, master files tell the PC application what to do with the data.\n",
+          "original_text": "Choose the format into which you want to export the measurement data:\nFile extension *.xlsx is compatible with Microsoft Excel 2007 and newer.\n"
+        },
+        "score": 5.024500846862793
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:33:51.782918",
+    "query": "Which solution is better for a university group? They want to use this solution in different applications.",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "2705ae05-8288-4a39-9651-b7fcdb535b4d",
+        "window": "Refer to product data sheet for details.\n\n Modern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Br\u00fcel & Kj\u00e6r, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Br\u00fcel & Kj\u00e6r, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n B&K 2245 sound level meter is a task-tailored, class 1 measurement solution.  While the instrument can be used as a stand-alone noise measurement device, this instruments works seamlessly with specially-created mobile apps, PC software, and features an open API interface, bringing an entirely new level of efficiency and control.  Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier. ",
+        "original_text": "B&K 2245 sound level meter is a task-tailored, class 1 measurement solution. ",
+        "metadata": {
+          "file_name": "B&K_2245.txt",
+          "doc_id": "87e6578b-858c-4164-979d-ed7fca758d63",
+          "window": "Refer to product data sheet for details.\n\n Modern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Br\u00fcel & Kj\u00e6r, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Br\u00fcel & Kj\u00e6r, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n B&K 2245 sound level meter is a task-tailored, class 1 measurement solution.  While the instrument can be used as a stand-alone noise measurement device, this instruments works seamlessly with specially-created mobile apps, PC software, and features an open API interface, bringing an entirely new level of efficiency and control.  Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier. ",
+          "original_text": "B&K 2245 sound level meter is a task-tailored, class 1 measurement solution. "
+        },
+        "score": 4.936692714691162
+      },
+      {
+        "rank": 2,
+        "id": "b7e48e6d-9825-42f8-9f87-f1b32d0a51d6",
+        "window": "Measurement applications\nRoom and building acoustics\nSound power\u00a0and\u00a0noise source identification\nAssessing workplace noise\u00a0and OHS evaluations\nEnvironmental noise\u00a0measurements\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Br\u00fcel & Kj\u00e6r, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Br\u00fcel & Kj\u00e6r, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n Class 1 sound level meter instruments and analyzers featuring class 1 measurement accuracy, ease-of-use, and enhanced flexibility with our sound level meter apps and software.\n\n B&K 2245 sound level meter is a task-tailored, class 1 measurement solution.  While the instrument can be used as a stand-alone noise measurement device, this instruments works seamlessly with specially-created mobile apps, PC software, and features an open API interface, bringing an entirely new level of efficiency and control.  Accurate noise measurement, analysis and reporting has never been more simple.\n\n HBK 2255 Sound Level Meter is an advanced, single-channel, class 1 measurement solution. ",
+        "original_text": "B&K 2245 sound level meter is a task-tailored, class 1 measurement solution. ",
+        "metadata": {
+          "file_name": "Sound_Level_Meters.txt",
+          "doc_id": "20b1a7ac-e4e4-42e8-b824-b6a3d0284672",
+          "window": "Measurement applications\nRoom and building acoustics\nSound power\u00a0and\u00a0noise source identification\nAssessing workplace noise\u00a0and OHS evaluations\nEnvironmental noise\u00a0measurements\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Br\u00fcel & Kj\u00e6r, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Br\u00fcel & Kj\u00e6r, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n Class 1 sound level meter instruments and analyzers featuring class 1 measurement accuracy, ease-of-use, and enhanced flexibility with our sound level meter apps and software.\n\n B&K 2245 sound level meter is a task-tailored, class 1 measurement solution.  While the instrument can be used as a stand-alone noise measurement device, this instruments works seamlessly with specially-created mobile apps, PC software, and features an open API interface, bringing an entirely new level of efficiency and control.  Accurate noise measurement, analysis and reporting has never been more simple.\n\n HBK 2255 Sound Level Meter is an advanced, single-channel, class 1 measurement solution. ",
+          "original_text": "B&K 2245 sound level meter is a task-tailored, class 1 measurement solution. "
+        },
+        "score": 4.936692714691162
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:34:21.961141",
+    "query": "I need a solution that complies with noise regulations and does automated reports.",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "1733e3a6-9cc4-40e3-ab32-9b8c770a576c",
+        "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+        "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+        "metadata": {
+          "file_name": "B&K_2245.txt",
+          "doc_id": "87e6578b-858c-4164-979d-ed7fca758d63",
+          "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+          "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+        },
+        "score": 8.168882369995117
+      },
+      {
+        "rank": 2,
+        "id": "ad17156e-d2f7-4e19-b3d9-56120b8e70ad",
+        "window": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n Together with an B&K 2245 sound level meter, Enviro Noise Partner is a complete, focused toolset for measuring and reporting on environmental noise concerns.  With an Enviro Noise Partner license installed, your sound level meter can acquire a wide range of broadband parameters including statistics, provide 1/1- or 1/3-octave band frequency analysis, and conduct logging down to 1 s intervals.  These capabilities ensure that you get the right data for your job to do. ",
+        "original_text": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+        "metadata": {
+          "file_name": "Enviro_Noise_Partner_2245.txt",
+          "doc_id": "13560abd-9fa1-4456-af59-29a84d67a727",
+          "window": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n Together with an B&K 2245 sound level meter, Enviro Noise Partner is a complete, focused toolset for measuring and reporting on environmental noise concerns.  With an Enviro Noise Partner license installed, your sound level meter can acquire a wide range of broadband parameters including statistics, provide 1/1- or 1/3-octave band frequency analysis, and conduct logging down to 1 s intervals.  These capabilities ensure that you get the right data for your job to do. ",
+          "original_text": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+        },
+        "score": 5.472614288330078
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:34:33.737702",
+    "query": "Which solution should I use to measure noise levels in a factory floor?",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "44f238b6-e69b-480e-b33e-1ffa3726d06c",
+        "window": "For these reasons, the names and descriptions should be meaningful and unique within\na single project.  Consider creating a naming convention to create unique, relevant names with minimal effort.\n Another option is to use the room numbers defined by the architect, if possible.\n l Floor/Level: The storey of the building in which the room lies.\n l Volume: The volume of the room.\n You can enter a single calculated value, or you can enter the three dimensions of the room separated by spaces.\n l Reuse measurements from: The room from which to reuse measurements.\n",
+        "original_text": "l Floor/Level: The storey of the building in which the room lies.\n",
+        "metadata": {
+          "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+          "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+          "window": "For these reasons, the names and descriptions should be meaningful and unique within\na single project.  Consider creating a naming convention to create unique, relevant names with minimal effort.\n Another option is to use the room numbers defined by the architect, if possible.\n l Floor/Level: The storey of the building in which the room lies.\n l Volume: The volume of the room.\n You can enter a single calculated value, or you can enter the three dimensions of the room separated by spaces.\n l Reuse measurements from: The room from which to reuse measurements.\n",
+          "original_text": "l Floor/Level: The storey of the building in which the room lies.\n"
+        },
+        "score": 5.758708953857422
+      },
+      {
+        "rank": 2,
+        "id": "bcb5d458-5574-40f8-a312-2dfaa24bf67e",
+        "window": "Ideally, the building is\nessentially finished, with all doors and windows installed, but unfurnished.  Ideally, electrical work is complete and elec-\ntricity is supplied to the building.  Work at the building should be stopped when measuring.  Soft floor coverings, unless a\npermanent installation, should not be installed.\n It is very hard to get a good average of low-frequency levels in small rooms.  For this reason, some standards (such as\nISO\u00a016283) include measurement procedures which are used to adjust low-frequency bands in sound insulation cal-\nculations.  For ISO\u00a016283, the procedures are for measurements below 100\u00a0Hz where the source or receiving room is\nBuilding Acoustics Partner includes an option to extend the lower limit of the frequency range down to 20\u00a0Hz. ",
+        "original_text": "Soft floor coverings, unless a\npermanent installation, should not be installed.\n",
+        "metadata": {
+          "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+          "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+          "window": "Ideally, the building is\nessentially finished, with all doors and windows installed, but unfurnished.  Ideally, electrical work is complete and elec-\ntricity is supplied to the building.  Work at the building should be stopped when measuring.  Soft floor coverings, unless a\npermanent installation, should not be installed.\n It is very hard to get a good average of low-frequency levels in small rooms.  For this reason, some standards (such as\nISO\u00a016283) include measurement procedures which are used to adjust low-frequency bands in sound insulation cal-\nculations.  For ISO\u00a016283, the procedures are for measurements below 100\u00a0Hz where the source or receiving room is\nBuilding Acoustics Partner includes an option to extend the lower limit of the frequency range down to 20\u00a0Hz. ",
+          "original_text": "Soft floor coverings, unless a\npermanent installation, should not be installed.\n"
+        },
+        "score": 5.572037220001221
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:34:44.712204",
+    "query": "What solution should I use to see if a construction site follows the noise regulations?",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "93f78f8e-f0f8-4fcf-adf2-ec67a7ef53b6",
+        "window": "You may want to reuse \nsome of your earlier measurements (like a T2 spectrum known \nfrom a similar receiving room), to save time.  This is also possible, \nby using a reuse facility in the Explorer display.\n The calculations use a reference curve for frequency weighting of \nthe sound reduction spectrum, resulting in a single number like \nR'w = 52 dB (the weighted field sound reduction index according \nto the ISO 140-4).  This means that you will know on site whether \nyour construction under test fulfils the minimum requirements of \nthe local building regulations. \n Fig.  9  Left: With the required data measured, final results are shown, including the reference curve.  For some results, the volume of the receiving room and the area of the \npartition must be entered; Right: Example of the final results\nOther Tasks\nFacade Sound Insulation\nFacade sound insulation is a variant of airborne sound insulation, \nwith its own standards. ",
+        "original_text": "This means that you will know on site whether \nyour construction under test fulfils the minimum requirements of \nthe local building regulations. \n",
+        "metadata": {
+          "file_name": "output_PRODUCT DATA - 2250 2270.txt",
+          "doc_id": "fadc3696-2bd0-475c-8223-08703aebb290",
+          "window": "You may want to reuse \nsome of your earlier measurements (like a T2 spectrum known \nfrom a similar receiving room), to save time.  This is also possible, \nby using a reuse facility in the Explorer display.\n The calculations use a reference curve for frequency weighting of \nthe sound reduction spectrum, resulting in a single number like \nR'w = 52 dB (the weighted field sound reduction index according \nto the ISO 140-4).  This means that you will know on site whether \nyour construction under test fulfils the minimum requirements of \nthe local building regulations. \n Fig.  9  Left: With the required data measured, final results are shown, including the reference curve.  For some results, the volume of the receiving room and the area of the \npartition must be entered; Right: Example of the final results\nOther Tasks\nFacade Sound Insulation\nFacade sound insulation is a variant of airborne sound insulation, \nwith its own standards. ",
+          "original_text": "This means that you will know on site whether \nyour construction under test fulfils the minimum requirements of \nthe local building regulations. \n"
+        },
+        "score": 7.106603145599365
+      },
+      {
+        "rank": 2,
+        "id": "1733e3a6-9cc4-40e3-ab32-9b8c770a576c",
+        "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+        "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+        "metadata": {
+          "file_name": "B&K_2245.txt",
+          "doc_id": "87e6578b-858c-4164-979d-ed7fca758d63",
+          "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+          "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+        },
+        "score": 5.3943867683410645
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:35:02.954775",
+    "query": "Which solution should I use to conduct noise impact assessments? I need GPS tagging and the device to be weatherproof.",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "1733e3a6-9cc4-40e3-ab32-9b8c770a576c",
+        "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+        "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+        "metadata": {
+          "file_name": "B&K_2245.txt",
+          "doc_id": "87e6578b-858c-4164-979d-ed7fca758d63",
+          "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+          "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+        },
+        "score": 7.076186656951904
+      },
+      {
+        "rank": 2,
+        "id": "ad17156e-d2f7-4e19-b3d9-56120b8e70ad",
+        "window": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n Together with an B&K 2245 sound level meter, Enviro Noise Partner is a complete, focused toolset for measuring and reporting on environmental noise concerns.  With an Enviro Noise Partner license installed, your sound level meter can acquire a wide range of broadband parameters including statistics, provide 1/1- or 1/3-octave band frequency analysis, and conduct logging down to 1 s intervals.  These capabilities ensure that you get the right data for your job to do. ",
+        "original_text": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+        "metadata": {
+          "file_name": "Enviro_Noise_Partner_2245.txt",
+          "doc_id": "13560abd-9fa1-4456-af59-29a84d67a727",
+          "window": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n Together with an B&K 2245 sound level meter, Enviro Noise Partner is a complete, focused toolset for measuring and reporting on environmental noise concerns.  With an Enviro Noise Partner license installed, your sound level meter can acquire a wide range of broadband parameters including statistics, provide 1/1- or 1/3-octave band frequency analysis, and conduct logging down to 1 s intervals.  These capabilities ensure that you get the right data for your job to do. ",
+          "original_text": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+        },
+        "score": 4.812012672424316
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:35:15.053424",
+    "query": "I want to monitore a contruction site. What should I use? I need long term logging and report generation.",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "eabb12d9-f519-44c5-824c-586a187de7aa",
+        "window": "2.  Attach the output cable to the instrument.\n For HBK 2255, the Timer settings group of settings allows you to set up the instrument to switch on and make a meas-\nurement at a specific time on a specific day.  This allows you to make measurements without being present, which is use-\nful for long-term environmental monitoring.  The timer functionality requires the BZ-7450 licence to be installed and\nMenu location: System settings > Timer settings\nHow to set up a timer on the instrument\nThere are 9 timers on the instrument, numbered from 01 to 09.  Each timer can be set for one specific time, and applied\nto one or more days of the week.\n 1. ",
+        "original_text": "This allows you to make measurements without being present, which is use-\nful for long-term environmental monitoring. ",
+        "metadata": {
+          "file_name": "output_UserGuide-Enviro noise Partner.txt",
+          "doc_id": "d6ba8203-3a82-4079-9c1a-df94dbe838d1",
+          "window": "2.  Attach the output cable to the instrument.\n For HBK 2255, the Timer settings group of settings allows you to set up the instrument to switch on and make a meas-\nurement at a specific time on a specific day.  This allows you to make measurements without being present, which is use-\nful for long-term environmental monitoring.  The timer functionality requires the BZ-7450 licence to be installed and\nMenu location: System settings > Timer settings\nHow to set up a timer on the instrument\nThere are 9 timers on the instrument, numbered from 01 to 09.  Each timer can be set for one specific time, and applied\nto one or more days of the week.\n 1. ",
+          "original_text": "This allows you to make measurements without being present, which is use-\nful for long-term environmental monitoring. "
+        },
+        "score": 7.849765777587891
+      },
+      {
+        "rank": 2,
+        "id": "be658d90-4a8b-4d08-8e67-f621e4077715",
+        "window": "l Reject the measurement to remeasure the position automatically.\n The Overview page in the mobile app gives you a test-level view of your data.  The page helps you to keep track of meas-\nurements, to visualise the measurement data, and to evaluate the quality of each measurement.  Use the page to make\nsure you have the data you need to complete your report before you leave the site.\n l See which positions have been measured and which positions have not been measured.\n l See the range of position averages in a room (sound insulation tests).\n l View position and room averages in the same graph (sound insulation tests).\n",
+        "original_text": "Use the page to make\nsure you have the data you need to complete your report before you leave the site.\n",
+        "metadata": {
+          "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+          "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+          "window": "l Reject the measurement to remeasure the position automatically.\n The Overview page in the mobile app gives you a test-level view of your data.  The page helps you to keep track of meas-\nurements, to visualise the measurement data, and to evaluate the quality of each measurement.  Use the page to make\nsure you have the data you need to complete your report before you leave the site.\n l See which positions have been measured and which positions have not been measured.\n l See the range of position averages in a room (sound insulation tests).\n l View position and room averages in the same graph (sound insulation tests).\n",
+          "original_text": "Use the page to make\nsure you have the data you need to complete your report before you leave the site.\n"
+        },
+        "score": 5.629279136657715
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:35:27.911839",
+    "query": "I need a solution that covers, Long term logging, GPS tagging, weatherproofing and report generation.",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "0737915f-2cf0-4eda-b140-eaadfc65254b",
+        "window": "View measurement locations on a map, and review the \nembedded annotations. \n Share data\nUse the simple, login-free cloud-sharing tool to share a project \nwith colleagues and stakeholders.  The PC app is free to \ndownload so everyone will be able to view the project.\n Create reports \nA report generation tool quickly generates basic reports in \nMicrosoft Word or PDF.  Alternatively, export data to Microsoft \nExcel with master files, which allows you to create your own \ncustom report template and to include your own calculations on \nexported data.\n The complete solution\nA sound level meter, B&K 2245 (as shown below) or HBK 2255, \nand the Noise Partner app installed on a mobile device and PC\nSee \u201cOrdering information\u201d for an overview.\n B&K 2245\nHBK 2225\nStart, stop, \npause and \nannotate the \nQuickly confirm \nconnection to \nthe instrument\nView any \nJob done.\n",
+        "original_text": "Create reports \nA report generation tool quickly generates basic reports in \nMicrosoft Word or PDF. ",
+        "metadata": {
+          "file_name": "output_PRODUCT DATA - Noise Partner.txt",
+          "doc_id": "1f6a2ae3-52d7-4814-a96e-6484de77fddd",
+          "window": "View measurement locations on a map, and review the \nembedded annotations. \n Share data\nUse the simple, login-free cloud-sharing tool to share a project \nwith colleagues and stakeholders.  The PC app is free to \ndownload so everyone will be able to view the project.\n Create reports \nA report generation tool quickly generates basic reports in \nMicrosoft Word or PDF.  Alternatively, export data to Microsoft \nExcel with master files, which allows you to create your own \ncustom report template and to include your own calculations on \nexported data.\n The complete solution\nA sound level meter, B&K 2245 (as shown below) or HBK 2255, \nand the Noise Partner app installed on a mobile device and PC\nSee \u201cOrdering information\u201d for an overview.\n B&K 2245\nHBK 2225\nStart, stop, \npause and \nannotate the \nQuickly confirm \nconnection to \nthe instrument\nView any \nJob done.\n",
+          "original_text": "Create reports \nA report generation tool quickly generates basic reports in \nMicrosoft Word or PDF. "
+        },
+        "score": 5.305628776550293
+      },
+      {
+        "rank": 2,
+        "id": "eabb12d9-f519-44c5-824c-586a187de7aa",
+        "window": "2.  Attach the output cable to the instrument.\n For HBK 2255, the Timer settings group of settings allows you to set up the instrument to switch on and make a meas-\nurement at a specific time on a specific day.  This allows you to make measurements without being present, which is use-\nful for long-term environmental monitoring.  The timer functionality requires the BZ-7450 licence to be installed and\nMenu location: System settings > Timer settings\nHow to set up a timer on the instrument\nThere are 9 timers on the instrument, numbered from 01 to 09.  Each timer can be set for one specific time, and applied\nto one or more days of the week.\n 1. ",
+        "original_text": "This allows you to make measurements without being present, which is use-\nful for long-term environmental monitoring. ",
+        "metadata": {
+          "file_name": "output_UserGuide-Enviro noise Partner.txt",
+          "doc_id": "d6ba8203-3a82-4079-9c1a-df94dbe838d1",
+          "window": "2.  Attach the output cable to the instrument.\n For HBK 2255, the Timer settings group of settings allows you to set up the instrument to switch on and make a meas-\nurement at a specific time on a specific day.  This allows you to make measurements without being present, which is use-\nful for long-term environmental monitoring.  The timer functionality requires the BZ-7450 licence to be installed and\nMenu location: System settings > Timer settings\nHow to set up a timer on the instrument\nThere are 9 timers on the instrument, numbered from 01 to 09.  Each timer can be set for one specific time, and applied\nto one or more days of the week.\n 1. ",
+          "original_text": "This allows you to make measurements without being present, which is use-\nful for long-term environmental monitoring. "
+        },
+        "score": 4.863801002502441
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:35:38.520184",
+    "query": "Which solution should I use to measure a building design?",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "2ec8546a-f5b1-46cd-bb6b-e5105fca404a",
+        "window": "Sound insulation tests can be performed on new buildings or on renovations of existing buildings.  Ideally, the building is\nessentially finished, with all doors and windows installed, but unfurnished.  Ideally, electrical work is complete and elec-\ntricity is supplied to the building.  Work at the building should be stopped when measuring.  Soft floor coverings, unless a\npermanent installation, should not be installed.\n It is very hard to get a good average of low-frequency levels in small rooms.  For this reason, some standards (such as\nISO\u00a016283) include measurement procedures which are used to adjust low-frequency bands in sound insulation cal-\nculations. ",
+        "original_text": "Work at the building should be stopped when measuring. ",
+        "metadata": {
+          "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+          "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+          "window": "Sound insulation tests can be performed on new buildings or on renovations of existing buildings.  Ideally, the building is\nessentially finished, with all doors and windows installed, but unfurnished.  Ideally, electrical work is complete and elec-\ntricity is supplied to the building.  Work at the building should be stopped when measuring.  Soft floor coverings, unless a\npermanent installation, should not be installed.\n It is very hard to get a good average of low-frequency levels in small rooms.  For this reason, some standards (such as\nISO\u00a016283) include measurement procedures which are used to adjust low-frequency bands in sound insulation cal-\nculations. ",
+          "original_text": "Work at the building should be stopped when measuring. "
+        },
+        "score": 5.257826328277588
+      },
+      {
+        "rank": 2,
+        "id": "1d51bc39-f531-48aa-bd22-5605ad98df3a",
+        "window": "D2m\u00a0=\u00a0L1.2m\u00a0\u2013\u00a0L2\nL1.2m is the average outdoor sound pressure level at a distance of 2\u00a0m in front of the fa\u00e7ade, and L2 is the\nenergy-average sound pressure level in a room.\n D2m,nT\u00a0= D2m\u00a0+\u00a010log(T/T0)\nD2m is the level difference, T is the reverberation in the receiving room, and T0 is the reference reverberation\nl Apparent sound reduction index\nR'45\u00b0\u00a0=\u00a0L1,s\u00a0\u2013\u00a0L2\u00a0+\u00a010log(S/A)\u00a0\u2013\u00a01.5\u00a0dB\nL1,s is the average outdoor sound pressure level on the test surface, and L2 is the energy-average sound pressure\nlevel in a room.  S is the area of the test specimen, and A is the equivalent absorption area of the receiving room\nMeasurements in the field are performed in situ on partitions of buildings.  The results are used to document con-\nformance to building regulations and design criteria.  In field measurements, sound and vibration propagate not just via\nthe partition under investigation, but also via other partitions, structures and leaks.  This propagation is called \u2018flanking\u2019\nMeasurements in the laboratory are made on building elements such as wall panels or windows mounted in special test\nrooms, designed and tested to prevent \u2018flanking\u2019.  The measurements follow uniform and strict procedures, and the\nmeasuring equipment is usually permanently installed. ",
+        "original_text": "The results are used to document con-\nformance to building regulations and design criteria. ",
+        "metadata": {
+          "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+          "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+          "window": "D2m\u00a0=\u00a0L1.2m\u00a0\u2013\u00a0L2\nL1.2m is the average outdoor sound pressure level at a distance of 2\u00a0m in front of the fa\u00e7ade, and L2 is the\nenergy-average sound pressure level in a room.\n D2m,nT\u00a0= D2m\u00a0+\u00a010log(T/T0)\nD2m is the level difference, T is the reverberation in the receiving room, and T0 is the reference reverberation\nl Apparent sound reduction index\nR'45\u00b0\u00a0=\u00a0L1,s\u00a0\u2013\u00a0L2\u00a0+\u00a010log(S/A)\u00a0\u2013\u00a01.5\u00a0dB\nL1,s is the average outdoor sound pressure level on the test surface, and L2 is the energy-average sound pressure\nlevel in a room.  S is the area of the test specimen, and A is the equivalent absorption area of the receiving room\nMeasurements in the field are performed in situ on partitions of buildings.  The results are used to document con-\nformance to building regulations and design criteria.  In field measurements, sound and vibration propagate not just via\nthe partition under investigation, but also via other partitions, structures and leaks.  This propagation is called \u2018flanking\u2019\nMeasurements in the laboratory are made on building elements such as wall panels or windows mounted in special test\nrooms, designed and tested to prevent \u2018flanking\u2019.  The measurements follow uniform and strict procedures, and the\nmeasuring equipment is usually permanently installed. ",
+          "original_text": "The results are used to document con-\nformance to building regulations and design criteria. "
+        },
+        "score": 4.702634811401367
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:35:50.755252",
+    "query": "I need a solution for covering Frequency analysis, reverberation time and standards compliance.",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "8d24ebca-949c-4bb2-91e3-c53cdcf2d20a",
+        "window": "For this\nreason, the Measurement assistant setting is enabled only when Planned measurement is set to On.\n l Reuse B2 measurements = Off\nl Reuse T2 measurements = Automatic (default)\nIt is highly unlikely that the amount of acoustical absorption in the receiving room will change during your sur-\nvey, so it is generally safe to automatically reuse T2 measurements.\n l Reuse L1 measurements = Off (default)\nTo enable settings for low-frequency measurements in the Measurement plan group of settings:\nl Standard = ISO\u00a016283\nl Bottom frequency = 50\u00a0Hz\nTo enable low-frequency measurements (B2 LF, L2 LF and L1 LF) in the Measurement order setting at least one partition\nwith a room (source or receiving) with a volume less than 25\u00a0m3 must be set up in the project.\n Low-frequency reverberation time measurements are measured simultaneously with normal reverberation time meas-\nurements, so there are no settings specific to low-frequency reverberation time measurements.\n l Planned measurement = Enabled\nl Measurement order = B2, B2 LF, L2 LF, L2, L1, L1 LF, T2\nT2 includes low-frequency and normal reverberation time measurements.\n You can set the measurement plan for your room background noise tests in the Room background noise setup group of\nSee Room background noise for more information.\n l Planned measurement = Enabled\nl B2: No. ",
+        "original_text": "Low-frequency reverberation time measurements are measured simultaneously with normal reverberation time meas-\nurements, so there are no settings specific to low-frequency reverberation time measurements.\n",
+        "metadata": {
+          "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+          "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+          "window": "For this\nreason, the Measurement assistant setting is enabled only when Planned measurement is set to On.\n l Reuse B2 measurements = Off\nl Reuse T2 measurements = Automatic (default)\nIt is highly unlikely that the amount of acoustical absorption in the receiving room will change during your sur-\nvey, so it is generally safe to automatically reuse T2 measurements.\n l Reuse L1 measurements = Off (default)\nTo enable settings for low-frequency measurements in the Measurement plan group of settings:\nl Standard = ISO\u00a016283\nl Bottom frequency = 50\u00a0Hz\nTo enable low-frequency measurements (B2 LF, L2 LF and L1 LF) in the Measurement order setting at least one partition\nwith a room (source or receiving) with a volume less than 25\u00a0m3 must be set up in the project.\n Low-frequency reverberation time measurements are measured simultaneously with normal reverberation time meas-\nurements, so there are no settings specific to low-frequency reverberation time measurements.\n l Planned measurement = Enabled\nl Measurement order = B2, B2 LF, L2 LF, L2, L1, L1 LF, T2\nT2 includes low-frequency and normal reverberation time measurements.\n You can set the measurement plan for your room background noise tests in the Room background noise setup group of\nSee Room background noise for more information.\n l Planned measurement = Enabled\nl B2: No. ",
+          "original_text": "Low-frequency reverberation time measurements are measured simultaneously with normal reverberation time meas-\nurements, so there are no settings specific to low-frequency reverberation time measurements.\n"
+        },
+        "score": 5.216526508331299
+      },
+      {
+        "rank": 2,
+        "id": "1733e3a6-9cc4-40e3-ab32-9b8c770a576c",
+        "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+        "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+        "metadata": {
+          "file_name": "B&K_2245.txt",
+          "doc_id": "87e6578b-858c-4164-979d-ed7fca758d63",
+          "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+          "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+        },
+        "score": 5.12879753112793
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:36:02.442863",
+    "query": "I need to measure a residential building and I need to follow the standard ISO 3382. Which solution should I use?",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "146117f7-9c1d-4477-9562-776e8d3f4b05",
+        "window": "We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Br\u00fcel & Kj\u00e6r, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n The loudspeaker weighs less than 8 kg and is fitted with a convenient lifting handle that does not measurably interfere with the sound field.\n\n For most architectural acoustics measurements, the OmniPower sound source radiates sound evenly in all directions and gives reproducible and reliable results.  The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n\n Background noise is the enemy of good architectural acoustics measurements particularly at low frequencies where traffic noise and air conditioning systems are some of the main culprits i.e.  between 100 Hz and 200 Hz.The OmniPower sound source is designed to deliver its peak performance in this very same range delivering maximum power where it\u2019s needed most.\n\n This will bring together HBM, Br\u00fcel & Kj\u00e6r, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n",
+        "original_text": "The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n\n",
+        "metadata": {
+          "file_name": "Type_4292-L.txt",
+          "doc_id": "1a9d52d5-0eca-4335-a09c-4de993c109d7",
+          "window": "We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Br\u00fcel & Kj\u00e6r, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n The loudspeaker weighs less than 8 kg and is fitted with a convenient lifting handle that does not measurably interfere with the sound field.\n\n For most architectural acoustics measurements, the OmniPower sound source radiates sound evenly in all directions and gives reproducible and reliable results.  The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n\n Background noise is the enemy of good architectural acoustics measurements particularly at low frequencies where traffic noise and air conditioning systems are some of the main culprits i.e.  between 100 Hz and 200 Hz.The OmniPower sound source is designed to deliver its peak performance in this very same range delivering maximum power where it\u2019s needed most.\n\n This will bring together HBM, Br\u00fcel & Kj\u00e6r, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n",
+          "original_text": "The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n\n"
+        },
+        "score": 7.310649871826172
+      },
+      {
+        "rank": 2,
+        "id": "decc396d-6a38-4deb-9243-78bd172efc16",
+        "window": "All speakers are connected in a series-parallel network to ensure both in-phase operation and an impedance that matches the power amplifier.\n The loudspeaker weighs less than 8 kg and is fitted with a convenient lifting handle that does not measurably interfere with the sound field.\n\n USE SCENARIOS\nRoom and building acoustics\nMeasuring airborne sound insulation\nMeasuring reverberation time\nFor most architectural acoustics measurements, the OmniPower sound source radiates sound evenly in all directions and gives reproducible and reliable results.  The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n Background noise is the enemy of good architectural acoustics measurements particularly at low frequencies where traffic noise and air conditioning systems are some of the main culprits i.e.  between 100 Hz and 200 Hz.\n The OmniPower sound source is designed to deliver its peak performance in this very same range delivering maximum power where it\u2019s needed most.\n",
+        "original_text": "The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n",
+        "metadata": {
+          "file_name": "Type_4292-L.txt",
+          "doc_id": "1a9d52d5-0eca-4335-a09c-4de993c109d7",
+          "window": "All speakers are connected in a series-parallel network to ensure both in-phase operation and an impedance that matches the power amplifier.\n The loudspeaker weighs less than 8 kg and is fitted with a convenient lifting handle that does not measurably interfere with the sound field.\n\n USE SCENARIOS\nRoom and building acoustics\nMeasuring airborne sound insulation\nMeasuring reverberation time\nFor most architectural acoustics measurements, the OmniPower sound source radiates sound evenly in all directions and gives reproducible and reliable results.  The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n Background noise is the enemy of good architectural acoustics measurements particularly at low frequencies where traffic noise and air conditioning systems are some of the main culprits i.e.  between 100 Hz and 200 Hz.\n The OmniPower sound source is designed to deliver its peak performance in this very same range delivering maximum power where it\u2019s needed most.\n",
+          "original_text": "The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n"
+        },
+        "score": 7.310649871826172
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:36:13.782259",
+    "query": "Which is the best solution to measure room acoustics?",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "4ebbf36e-42a5-45dc-8797-4ca97d763cbe",
+        "window": "l Floor/Level: The storey of the building in which the room lies.\n l Volume: The volume of the room.\n You can enter a single calculated value, or you can enter the three dimensions of the room separated by spaces.\n l Reuse measurements from: The room from which to reuse measurements.\n You can choose any room that has been added to the project or None if you do not want to specify a single room\nfrom which to reuse measurements.  See Measurement reuse for more information.\n l Background noise: Adds a room background noise test for the room.\n",
+        "original_text": "l Reuse measurements from: The room from which to reuse measurements.\n",
+        "metadata": {
+          "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+          "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+          "window": "l Floor/Level: The storey of the building in which the room lies.\n l Volume: The volume of the room.\n You can enter a single calculated value, or you can enter the three dimensions of the room separated by spaces.\n l Reuse measurements from: The room from which to reuse measurements.\n You can choose any room that has been added to the project or None if you do not want to specify a single room\nfrom which to reuse measurements.  See Measurement reuse for more information.\n l Background noise: Adds a room background noise test for the room.\n",
+          "original_text": "l Reuse measurements from: The room from which to reuse measurements.\n"
+        },
+        "score": 3.7739624977111816
+      },
+      {
+        "rank": 2,
+        "id": "1dc518be-dd21-4b03-8c20-a5b0eeac9ccd",
+        "window": "l Off: Measurements will not be reused.  L1, B2 and T2 shall be measured for each partition (as applicable).\n Default: Reuse L1 measurements = Off.\n l Rooms > Room X > Reuse measurements from\nThe Reuse measurements from setting allows you to specify from which room you want to reuse measurements.\n This setting can be useful in large surveys which contain many rooms.  You can choose any room that has been\nadded to the project or None if you do not want to specify a single room.\n \u2710Note: Keep the setting in mind when you choose the order in which to test the partitions. ",
+        "original_text": "l Rooms > Room X > Reuse measurements from\nThe Reuse measurements from setting allows you to specify from which room you want to reuse measurements.\n",
+        "metadata": {
+          "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+          "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+          "window": "l Off: Measurements will not be reused.  L1, B2 and T2 shall be measured for each partition (as applicable).\n Default: Reuse L1 measurements = Off.\n l Rooms > Room X > Reuse measurements from\nThe Reuse measurements from setting allows you to specify from which room you want to reuse measurements.\n This setting can be useful in large surveys which contain many rooms.  You can choose any room that has been\nadded to the project or None if you do not want to specify a single room.\n \u2710Note: Keep the setting in mind when you choose the order in which to test the partitions. ",
+          "original_text": "l Rooms > Room X > Reuse measurements from\nThe Reuse measurements from setting allows you to specify from which room you want to reuse measurements.\n"
+        },
+        "score": 3.614224433898926
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:36:24.247328",
+    "query": "I need to perform sound power measurements with a multi channel setup. Which solution should I use?",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "a1e7bf3f-08f4-4eb7-aff6-0e62e1d7cb29",
+        "window": "DIRAC is a valuable acoustics measurement tool for field and laboratory acoustics engineers, researchers and educational institutions.  Users can compare the acoustics of one room with another, validate sound systems and perform scale model measurements.Based on the measurement and analysis of impulse responses, the tool supports a variety of measurement configurations.\n\n DIRAC supports wireless room acoustics measurements when connected toHBK 2255\u00a0Sound Level Meteras a wireless microphone, and/orHBK 2755 Smart Power Amplifieras a wireless sound source.  Multi-channel measurements can be made using multiple HBK 2255\u2019s, or with most Windows compatible multi-channel sound devices.\n\n Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n\n In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily.  The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters. ",
+        "original_text": "Multi-channel measurements can be made using multiple HBK 2255\u2019s, or with most Windows compatible multi-channel sound devices.\n\n",
+        "metadata": {
+          "file_name": "Dirac_Room_Acoustics_Software_-_7841.txt",
+          "doc_id": "075e7bd1-08f7-4b9f-a9e4-61a6b7c75ee8",
+          "window": "DIRAC is a valuable acoustics measurement tool for field and laboratory acoustics engineers, researchers and educational institutions.  Users can compare the acoustics of one room with another, validate sound systems and perform scale model measurements.Based on the measurement and analysis of impulse responses, the tool supports a variety of measurement configurations.\n\n DIRAC supports wireless room acoustics measurements when connected toHBK 2255\u00a0Sound Level Meteras a wireless microphone, and/orHBK 2755 Smart Power Amplifieras a wireless sound source.  Multi-channel measurements can be made using multiple HBK 2255\u2019s, or with most Windows compatible multi-channel sound devices.\n\n Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n\n In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily.  The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters. ",
+          "original_text": "Multi-channel measurements can be made using multiple HBK 2255\u2019s, or with most Windows compatible multi-channel sound devices.\n\n"
+        },
+        "score": 8.021492958068848
+      },
+      {
+        "rank": 2,
+        "id": "7c762a08-0e71-424b-92b8-48f6b74f39cd",
+        "window": "Users can compare the acoustics of one room with another, validate sound systems and perform scale model measurements.\n Based on the measurement and analysis of impulse responses, the tool supports a variety of measurement configurations.\n DIRAC supports wireless room acoustics measurements when connected to\nHBK 2255\u00a0Sound Level Meter\nas a wireless microphone, and/or\nHBK 2755 Smart Power Amplifier\nas a wireless sound source.  Multi-channel measurements can be made using multiple HBK 2255\u2019s, or with most Windows compatible multi-channel sound devices.\n Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily.  The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters. ",
+        "original_text": "Multi-channel measurements can be made using multiple HBK 2255\u2019s, or with most Windows compatible multi-channel sound devices.\n",
+        "metadata": {
+          "file_name": "Dirac_Room_Acoustics_Software_-_7841.txt",
+          "doc_id": "075e7bd1-08f7-4b9f-a9e4-61a6b7c75ee8",
+          "window": "Users can compare the acoustics of one room with another, validate sound systems and perform scale model measurements.\n Based on the measurement and analysis of impulse responses, the tool supports a variety of measurement configurations.\n DIRAC supports wireless room acoustics measurements when connected to\nHBK 2255\u00a0Sound Level Meter\nas a wireless microphone, and/or\nHBK 2755 Smart Power Amplifier\nas a wireless sound source.  Multi-channel measurements can be made using multiple HBK 2255\u2019s, or with most Windows compatible multi-channel sound devices.\n Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily.  The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters. ",
+          "original_text": "Multi-channel measurements can be made using multiple HBK 2255\u2019s, or with most Windows compatible multi-channel sound devices.\n"
+        },
+        "score": 8.021492958068848
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:36:37.094712",
+    "query": "I need a solution that covers standard compliance to perform sound power measurements.",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "1733e3a6-9cc4-40e3-ab32-9b8c770a576c",
+        "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+        "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+        "metadata": {
+          "file_name": "B&K_2245.txt",
+          "doc_id": "87e6578b-858c-4164-979d-ed7fca758d63",
+          "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+          "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+        },
+        "score": 5.12879753112793
+      },
+      {
+        "rank": 2,
+        "id": "98971630-bb70-4831-8abd-765c3de4e5b8",
+        "window": "This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n Exhaust noise measurement solution for testing light vehicles and noise level enforcement with a streamlined workflow and toolset that minimizes the risk of error while still requiring minimal training.\n\n",
+        "original_text": "This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n",
+        "metadata": {
+          "file_name": "B&K_2245.txt",
+          "doc_id": "87e6578b-858c-4164-979d-ed7fca758d63",
+          "window": "This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n Exhaust noise measurement solution for testing light vehicles and noise level enforcement with a streamlined workflow and toolset that minimizes the risk of error while still requiring minimal training.\n\n",
+          "original_text": "This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n"
+        },
+        "score": 4.845353126525879
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:36:47.130142",
+    "query": "I want a solution with a simple interface and affordabe.",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "83a6e339-8f37-4948-ba93-63d957eb5b7b",
+        "window": "Automatic measurement transfer via network or USB to storage media for backup and analysis including NAS.  The B&K 2245 is designed from the ground up to support both in IOS and Android apps.  This enables us to add new features and updates without the need to update the sound level meter.\n\n The PC software is simple to install and use.  Data is quickly and easily transferred to your PC and organized intuitively, ready for analysis and reporting, using preconfigured, user-friendly tools.\n\n * Available measurement features depend on installed software licenses.  Refer to product data sheet for details.\n\n",
+        "original_text": "The PC software is simple to install and use. ",
+        "metadata": {
+          "file_name": "B&K_2245.txt",
+          "doc_id": "87e6578b-858c-4164-979d-ed7fca758d63",
+          "window": "Automatic measurement transfer via network or USB to storage media for backup and analysis including NAS.  The B&K 2245 is designed from the ground up to support both in IOS and Android apps.  This enables us to add new features and updates without the need to update the sound level meter.\n\n The PC software is simple to install and use.  Data is quickly and easily transferred to your PC and organized intuitively, ready for analysis and reporting, using preconfigured, user-friendly tools.\n\n * Available measurement features depend on installed software licenses.  Refer to product data sheet for details.\n\n",
+          "original_text": "The PC software is simple to install and use. "
+        },
+        "score": 3.098158597946167
+      },
+      {
+        "rank": 2,
+        "id": "b81dae8e-8f9e-4d02-bcda-b5c580cdbcae",
+        "window": "Made Smarter\nAutomatic measurement transfer via network or USB to storage media for backup and analysis including NAS.  The B&K 2245 is designed from the ground up to support both in IOS and Android apps.  This enables us to add new features and updates without the need to update the sound level meter.\n Made Faster\nThe PC software is simple to install and use.  Data is quickly and easily transferred to your PC and organized intuitively, ready for analysis and reporting, using preconfigured, user-friendly tools.\n\n CHARACTERISTICS\nSingle measurement range: 23.2 \u2013 140.3 dB from the noise floor to maximum level,\nA-weighted\nIntegrated GPS for time and location\nErgonomic design for comfortable single-handed operation\nColour LCD with a bright, clean layout that clearly displays measured level and measurement status\nMeasurement status light-ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 13 hours operation with Wi-Fi enabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth\u00ae Low Energy for connection to mobile and PC apps\nMEASUREMENT CAPABILITIES\nIEC 61672-1 class 1 sound level meter\nBroadband level measurements with two simultaneous frequency weightings\n1/1- and/or 1/3-octave band frequency analysis for one frequency weighting\nLogging of all parameters at intervals between 1 second and 1 minute\nBroadband and spectral statistics for 5 percentiles.  Full level distribution stored allowing re-calculation of arbitrary percentiles in HBK apps.\n",
+        "original_text": "Made Faster\nThe PC software is simple to install and use. ",
+        "metadata": {
+          "file_name": "B&K_2245.txt",
+          "doc_id": "87e6578b-858c-4164-979d-ed7fca758d63",
+          "window": "Made Smarter\nAutomatic measurement transfer via network or USB to storage media for backup and analysis including NAS.  The B&K 2245 is designed from the ground up to support both in IOS and Android apps.  This enables us to add new features and updates without the need to update the sound level meter.\n Made Faster\nThe PC software is simple to install and use.  Data is quickly and easily transferred to your PC and organized intuitively, ready for analysis and reporting, using preconfigured, user-friendly tools.\n\n CHARACTERISTICS\nSingle measurement range: 23.2 \u2013 140.3 dB from the noise floor to maximum level,\nA-weighted\nIntegrated GPS for time and location\nErgonomic design for comfortable single-handed operation\nColour LCD with a bright, clean layout that clearly displays measured level and measurement status\nMeasurement status light-ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 13 hours operation with Wi-Fi enabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth\u00ae Low Energy for connection to mobile and PC apps\nMEASUREMENT CAPABILITIES\nIEC 61672-1 class 1 sound level meter\nBroadband level measurements with two simultaneous frequency weightings\n1/1- and/or 1/3-octave band frequency analysis for one frequency weighting\nLogging of all parameters at intervals between 1 second and 1 minute\nBroadband and spectral statistics for 5 percentiles.  Full level distribution stored allowing re-calculation of arbitrary percentiles in HBK apps.\n",
+          "original_text": "Made Faster\nThe PC software is simple to install and use. "
+        },
+        "score": 2.8299851417541504
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:37:01.180272",
+    "query": "I would like to have a solution for noise monitoring that is portable.",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "9d961266-eaea-4011-8d0d-52f6b1c106bd",
+        "window": "1.  Open an existing project, or create a new one.\n 3.  Tap on the template you would like to use.\n l The name of the template applied to the project appears in the Apply template field.  If no template is applied or\nthe template is deleted, the word 'None' appears.\n l For multiple instrument setups, the project is stored on the primary instrument. ",
+        "original_text": "Tap on the template you would like to use.\n",
+        "metadata": {
+          "file_name": "output_UserGuide-Enviro noise Partner.txt",
+          "doc_id": "d6ba8203-3a82-4079-9c1a-df94dbe838d1",
+          "window": "1.  Open an existing project, or create a new one.\n 3.  Tap on the template you would like to use.\n l The name of the template applied to the project appears in the Apply template field.  If no template is applied or\nthe template is deleted, the word 'None' appears.\n l For multiple instrument setups, the project is stored on the primary instrument. ",
+          "original_text": "Tap on the template you would like to use.\n"
+        },
+        "score": 6.336236000061035
+      },
+      {
+        "rank": 2,
+        "id": "0eca8f5a-3cda-4b63-8df6-a0e6097bbc6e",
+        "window": "Decide where you want the data to go:\nl To an existing project: Open the Enviro Noise Partner project before you export from MPS.\n l To a new project: You do not need to start the Enviro Noise Partner PC application before you export.\n 3.  Select the data you would like to import in the project browser of MPS.\n 5.  Select the Export to Enviro Noise Partner option.\n \u2710Note: The option is only enabled if the application supports the selected data.\n",
+        "original_text": "Select the data you would like to import in the project browser of MPS.\n",
+        "metadata": {
+          "file_name": "output_UserGuide-Enviro noise Partner.txt",
+          "doc_id": "d6ba8203-3a82-4079-9c1a-df94dbe838d1",
+          "window": "Decide where you want the data to go:\nl To an existing project: Open the Enviro Noise Partner project before you export from MPS.\n l To a new project: You do not need to start the Enviro Noise Partner PC application before you export.\n 3.  Select the data you would like to import in the project browser of MPS.\n 5.  Select the Export to Enviro Noise Partner option.\n \u2710Note: The option is only enabled if the application supports the selected data.\n",
+          "original_text": "Select the data you would like to import in the project browser of MPS.\n"
+        },
+        "score": 5.579087257385254
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-01T13:37:12.911339",
+    "query": "Which solutions gives basic logging and a simple interface?",
+    "retriever": "BM25 (bm25s)",
+    "top_k": 2,
+    "results": [
+      {
+        "rank": 1,
+        "id": "203126a7-e20a-43fb-9c99-c7238b7dda20",
+        "window": "The instrument can log broadband parameters as well as spectrum parameters.\n l Disabled: Turn off Logging mode.\n l Enabled: Turn on Logging mode.\n The Logging interval setting controls the length of the interval at which measurements are logged.\n To enable the setting: Logging mode = Enabled.\n This setting controls how the measurement stops: automatically or manually.\n l Preset: The instrument measures for the time specified in Preset time, then stops and saves automatically.\n",
+        "original_text": "The Logging interval setting controls the length of the interval at which measurements are logged.\n",
+        "metadata": {
+          "file_name": "output_UserGuide-Enviro noise Partner.txt",
+          "doc_id": "d6ba8203-3a82-4079-9c1a-df94dbe838d1",
+          "window": "The instrument can log broadband parameters as well as spectrum parameters.\n l Disabled: Turn off Logging mode.\n l Enabled: Turn on Logging mode.\n The Logging interval setting controls the length of the interval at which measurements are logged.\n To enable the setting: Logging mode = Enabled.\n This setting controls how the measurement stops: automatically or manually.\n l Preset: The instrument measures for the time specified in Preset time, then stops and saves automatically.\n",
+          "original_text": "The Logging interval setting controls the length of the interval at which measurements are logged.\n"
+        },
+        "score": 3.9108619689941406
+      },
+      {
+        "rank": 2,
+        "id": "d02c04ff-1114-4f5a-a9c8-20f71c386b58",
+        "window": "l Rising: Creates selections that only contain levels above the defined level.  Rising is the default setting.\n l Falling: Creates selections that only contain levels below the defined level.\n Enviro Noise Partner can perform two types of impulse searches: Simple impulse and Fast logging impulsivity.\n A simple impulse search looks at the difference between two parameters, one of which is expected to respond to\nimpulsive noise more than the other, resulting in a larger difference when impulses are present.\n l Spain \u2013 RD 1367: Search for instances where LAIeq \u2013 LAeq > 10\u00a0dB (+3\u00a0dB penalty) or 15 dB (+6\u00a0dB penalty).\n l Germany \u2013 TA Laerm: Search for LAFTeq \u2013 LAeq, no set criterion.\n",
+        "original_text": "Enviro Noise Partner can perform two types of impulse searches: Simple impulse and Fast logging impulsivity.\n",
+        "metadata": {
+          "file_name": "output_UserGuide-Enviro noise Partner.txt",
+          "doc_id": "d6ba8203-3a82-4079-9c1a-df94dbe838d1",
+          "window": "l Rising: Creates selections that only contain levels above the defined level.  Rising is the default setting.\n l Falling: Creates selections that only contain levels below the defined level.\n Enviro Noise Partner can perform two types of impulse searches: Simple impulse and Fast logging impulsivity.\n A simple impulse search looks at the difference between two parameters, one of which is expected to respond to\nimpulsive noise more than the other, resulting in a larger difference when impulses are present.\n l Spain \u2013 RD 1367: Search for instances where LAIeq \u2013 LAeq > 10\u00a0dB (+3\u00a0dB penalty) or 15 dB (+6\u00a0dB penalty).\n l Germany \u2013 TA Laerm: Search for LAFTeq \u2013 LAeq, no set criterion.\n",
+          "original_text": "Enviro Noise Partner can perform two types of impulse searches: Simple impulse and Fast logging impulsivity.\n"
+        },
+        "score": 3.7177610397338867
+      }
+    ]
+  }
+]
