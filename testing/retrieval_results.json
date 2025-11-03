@@ -1,0 +1,434 @@
+{
+    "Which solution should a researcher use if they want High accuracy and data export?": [
+        {
+            "rank": 1,
+            "score": 0.6613261377506128,
+            "text": "Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+                "window": "Microphones may be mounted on a tripod or hand-held.\n Hint: Microphone Extension UA-0049 is a great accessory for measuring in corners.\n See Low-frequency measurements for more information about sound insulation tests at low frequencies.\n Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n Fixed positions require you to reposition equip-\nMeasurements at multiple fixed positions can take\nWith Building Acoustics Partner, you can stream live audio to your mobile device, which can eliminate the need\nto be in the room while measuring.  See Listening to audio for more information about live audio.\n Sometimes only the loudest position is measured, other times a room average may be used (measure at multiple fixed\npoints or along a traverse). ",
+                "original_text": "Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.6613261377506128,
+            "text": "Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "03c2bd27-dc18-41d0-afd3-b741c052030e",
+                "window": "Microphones may be mounted on a tripod or hand-held.\n Hint: Microphone Extension UA-0049 is a great accessory for measuring in corners.\n See Low-frequency measurements for more information about sound insulation tests at low frequencies.\n Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n Fixed positions require you to reposition equip-\nMeasurements at multiple fixed positions can take\nWith Building Acoustics Partner, you can stream live audio to your mobile device, which can eliminate the need\nto be in the room while measuring.  See Listening to audio for more information about live audio.\n Sometimes only the loudest position is measured, other times a room average may be used (measure at multiple fixed\npoints or along a traverse). ",
+                "original_text": "Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n"
+            }
+        }
+    ],
+    "Which solution should I use if I want compatibility with analysis tools like matlab?": [
+        {
+            "rank": 1,
+            "score": 0.6348368456949813,
+            "text": "To perform frequency analysis on \nthe data, you will need 1/1- and 1/3-octave Frequency Analysis \nSoftware BZ-7132, an optional software license (not included \nUpgrade your Analyzer to MATRON 4\nMATRON 4 is only supplied with Type 2250-L. ",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 3668.txt",
+                "doc_id": "952291cd-4ed5-42e8-b0b0-a534362446a6",
+                "window": "The included analyzer comes with the simplified, preconfigured \nMATRON 4 measurement template which is sufficient for the \nmajority of noise-complaint cases when accompanied by sound \nrecordings of disturbances.  It has broadband logging of the \nequivalent continuous level (LAeq) at one second intervals without \nfrequency and statistics to keep the measurement project small.\n If you are familiar with how to set up a measurement template, \nthe analyzer also comes with two additional templates: Logging \nSLM and Logging 1/3 Octave.  To perform frequency analysis on \nthe data, you will need 1/1- and 1/3-octave Frequency Analysis \nSoftware BZ-7132, an optional software license (not included \nUpgrade your Analyzer to MATRON 4\nMATRON 4 is only supplied with Type 2250-L.  If you already own \na Hand-held Analyzer Type 2250, 2270 or 2250-L, purchase the \nupgrade kit (MATRON 4 Type 3668-W) and install the free \nMATRON 4 firmware on your analyzer.\n Use the Included Analyzer as a Stand-alone Analyzer \nIf you wish to use the included analyzer as a standard hand-held \nanalyzer, you will need additional hardware, such as a battery. \n The suggested hardware for performing standard environmental \nQB-0061: Lithium-ion battery for hand-held analyzers \nKE-0441: Leather equipment cover for hand-held analyzers \nUA-1651: Tripod extension for hand-held analyzers \nUA-0237: Windscreen for 1/2 microphones\nSee Product Data BP 2151 for information about hardware and \nsoftware options for Type 2250-L.\n",
+                "original_text": "To perform frequency analysis on \nthe data, you will need 1/1- and 1/3-octave Frequency Analysis \nSoftware BZ-7132, an optional software license (not included \nUpgrade your Analyzer to MATRON 4\nMATRON 4 is only supplied with Type 2250-L. "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.6168503813169681,
+            "text": "MATRON 4 includes a 1 year licence for one analyzer for \nMeasurement Partner Suite BZ-5503, the post-processing platform \n(PC software) for Brüel & Kjær Hand-held Analyzers and the \nsystems built on them, covering all the post processing \nfunctionality you will need when working with measurement data. \n",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 3668.txt",
+                "doc_id": "952291cd-4ed5-42e8-b0b0-a534362446a6",
+                "window": "MATRON 4 is typically used for domestic noise assessments in the \nUnited Kingdom according to the Environmental Protection Act \n1990.  The system is installed in an indoor environment, such as a \nhome or an office, and left to continuously log noise data for up to \n14 days.  During this period, the noise levels are measured and \nstored, and the complainant makes sound recordings of \ndisturbances by simply pressing a button.\n MATRON 4 includes a 1 year licence for one analyzer for \nMeasurement Partner Suite BZ-5503, the post-processing platform \n(PC software) for Brüel & Kjær Hand-held Analyzers and the \nsystems built on them, covering all the post processing \nfunctionality you will need when working with measurement data. \n Measurement Partner Suite also includes data storage in MP Cloud \nwhich can be useful when sharing data between offices.\n General indoor noise logging tasks \nSimple, preconfigured, ready-to-use MATRON 4 \n2 Gb industrial quality SD card \nPower supply via mains (battery optional) \nFull analysis capability in Measurement Partner Suite\n– Type 3668-L-SC: The complete kit\n– Type 3668-L-S: The complete kit minus the sound calibrator\n– Type 3668-W: The upgrade kit \nMATRON 4 is built around Brüel & Kjær® Hand-held Analyzer \nType 2250-L.  The analyzer is supplied without a battery and \ninstalled in a lockable hard-shell case. ",
+                "original_text": "MATRON 4 includes a 1 year licence for one analyzer for \nMeasurement Partner Suite BZ-5503, the post-processing platform \n(PC software) for Brüel & Kjær Hand-held Analyzers and the \nsystems built on them, covering all the post processing \nfunctionality you will need when working with measurement data. \n"
+            }
+        }
+    ],
+    "Which solution is better for a university group? They want to use this solution in different applications.": [
+        {
+            "rank": 1,
+            "score": 0.6008087138298832,
+            "text": "In some cases it is easier to set up the project in the office using the PC app, such as for surveys with a large number of\npartitions to test. ",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+                "window": "When you create a new project, the project settings of\nthe last open project are reused but the room and partition settings are cleared.  Project setup is then just a matter of\ndefining geometries and making small adjustments before you can start to measure.  The advantage of defining geo-\nmetries on site is that it allows you to select the best rooms to use based on the actual conditions of the site.\n In some cases it is easier to set up the project in the office using the PC app, such as for surveys with a large number of\npartitions to test.  To transfer the project setup to the mobile app, you will upload what is called the project definition to\nthe instrument.  A project definition is a copy of a project settings minus any measurement data, if it exists.  When you\nconnect the mobile app to the instrument, you will be able to work with the project you created on the PC app. ",
+                "original_text": "In some cases it is easier to set up the project in the office using the PC app, such as for surveys with a large number of\npartitions to test. "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.6008087138298832,
+            "text": "In some cases it is easier to set up the project in the office using the PC app, such as for surveys with a large number of\npartitions to test. ",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "61b80a37-a52f-4a77-81ad-f1c8925a7d1d",
+                "window": "When you create a new project, the project settings of\nthe last open project are reused but the room and partition settings are cleared.  Project setup is then just a matter of\ndefining geometries and making small adjustments before you can start to measure.  The advantage of defining geo-\nmetries on site is that it allows you to select the best rooms to use based on the actual conditions of the site.\n In some cases it is easier to set up the project in the office using the PC app, such as for surveys with a large number of\npartitions to test.  To transfer the project setup to the mobile app, you will upload what is called the project definition to\nthe instrument.  A project definition is a copy of a project settings minus any measurement data, if it exists.  When you\nconnect the mobile app to the instrument, you will be able to work with the project you created on the PC app. ",
+                "original_text": "In some cases it is easier to set up the project in the office using the PC app, such as for surveys with a large number of\npartitions to test. "
+            }
+        }
+    ],
+    "I need a solution that complies with noise regulations and does automated reports.": [
+        {
+            "rank": 1,
+            "score": 0.7353845436028237,
+            "text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+            "metadata": {
+                "file_name": "B&K_2245.txt",
+                "doc_id": "87e6578b-858c-4164-979d-ed7fca758d63",
+                "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+                "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7353845436028237,
+            "text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+            "metadata": {
+                "file_name": "B&K_2245.txt",
+                "doc_id": "6811f104-e49d-4e5d-b329-31b05a0cdeb0",
+                "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+                "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+            }
+        }
+    ],
+    "Which solution should I use to measure noise levels in a factory floor?": [
+        {
+            "rank": 1,
+            "score": 0.7334265507383173,
+            "text": "Measurement Procedure\nConsider a noise source standing on a reflecting floor. ",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 2270.txt",
+                "doc_id": "7bc6e172-29d3-42f0-ae24-546fa37114ef",
+                "window": "This gives \nwarnings regarding overloads and failed criteria, and a periodic \nsound signal assists you in keeping a steady scanning pace.\n During the measurement you can use the Surface View for \nhousekeeping.  The coloured segments on top of the image of the \nmeasurement object are ideal for keeping track of the \nmeasurement process.\n Measurement Procedure\nConsider a noise source standing on a reflecting floor.  Imagine a \nvirtual box that completely envelops the source.  The sound power \nfrom the source will radiate through the five free segments of the \nbox (right, left, front, rear, top).  Measure the average sound intensity \nfor each of the five segments and the analyzer will calculate the \nresulting sound intensity and sound power for each segment and \nfor the total box, taking the segment areas into account.\n",
+                "original_text": "Measurement Procedure\nConsider a noise source standing on a reflecting floor. "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7231244932773542,
+            "text": "They are often employed in environmental noise assessment from sound sources, such as industrial plants, road and rail traffic, and construction work.\n",
+            "metadata": {
+                "file_name": "Sound_Level_Meters.txt",
+                "doc_id": "2996d44b-6d52-451f-9750-4d9b118dc85d",
+                "window": "The electrical signal produced by the microphone is at a very low level and must be enhanced by a preamplifier, before reaching the main processor.\n Signal processing applies frequency weightings and time weightings to the signal, as specified by international standards such as IEC 61672 – 1, which a sound level meter complies with.\n MEASUREMENT APPLICATIONS\nSound level meters and analyzers are used to measure and manage noise from a variety of sources.  They are often employed in environmental noise assessment from sound sources, such as industrial plants, road and rail traffic, and construction work.\n In urban environments, noise pollution - or excessive noise exposure - directly affects the people who live and work in the affected areas.  To ensure noise regulations are followed, noise is measured from a variety of sources as sports events, outdoor concerts, parks, and residential- or commercial neighbours.  Each sound/noise source is defined by its own set of characteristics, which can pose challenges for the professionals assessing them.\n\n",
+                "original_text": "They are often employed in environmental noise assessment from sound sources, such as industrial plants, road and rail traffic, and construction work.\n"
+            }
+        }
+    ],
+    "What solution should I use to see if a construction site follows the noise regulations?": [
+        {
+            "rank": 1,
+            "score": 0.7315207123710459,
+            "text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+            "metadata": {
+                "file_name": "B&K_2245.txt",
+                "doc_id": "166f4005-9d98-486f-ad4f-bd3b0ce5f02c",
+                "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+                "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7315207123710459,
+            "text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+            "metadata": {
+                "file_name": "B&K_2245.txt",
+                "doc_id": "87e6578b-858c-4164-979d-ed7fca758d63",
+                "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+                "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+            }
+        }
+    ],
+    "Which solution should I use to conduct noise impact assessments? I need GPS tagging and the device to be weatherproof.": [
+        {
+            "rank": 1,
+            "score": 0.7258591031992188,
+            "text": "Therefore, windscreens are gen-\nerally used for outdoor measurements, but they can be used any time you want to protect measurements from\nunwanted noise caused by air movement.\n",
+            "metadata": {
+                "file_name": "output_UserGuide - Noise Partner.txt",
+                "doc_id": "a4151ad1-6026-4778-8a46-e40380ee49aa",
+                "window": "✐Note: Generally, ISO requires free-field conditions and ANSI requires diffuse-field conditions.  Be sure to check your\nlocal standards for the setting you require.\n Windscreens are used to reduce the amount of wind-induced noise in measurements.  Therefore, windscreens are gen-\nerally used for outdoor measurements, but they can be used any time you want to protect measurements from\nunwanted noise caused by air movement.\n Windscreen detect is the setting that enables or disables automatic detection of Windscreen UA-1650.\n l Enabled: The instrument detects the windscreen and applies the appropriate correction.\n l Disabled: Specify the windscreen manually under Windscreen type.\n",
+                "original_text": "Therefore, windscreens are gen-\nerally used for outdoor measurements, but they can be used any time you want to protect measurements from\nunwanted noise caused by air movement.\n"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7258591031992188,
+            "text": "Therefore, windscreens are gen-\nerally used for outdoor measurements, but they can be used any time you want to protect measurements from\nunwanted noise caused by air movement.\n",
+            "metadata": {
+                "file_name": "output_UserGuide - Noise Partner.txt",
+                "doc_id": "3abe49db-c56e-4c6e-8563-0409c53e3ef1",
+                "window": "✐Note: Generally, ISO requires free-field conditions and ANSI requires diffuse-field conditions.  Be sure to check your\nlocal standards for the setting you require.\n Windscreens are used to reduce the amount of wind-induced noise in measurements.  Therefore, windscreens are gen-\nerally used for outdoor measurements, but they can be used any time you want to protect measurements from\nunwanted noise caused by air movement.\n Windscreen detect is the setting that enables or disables automatic detection of Windscreen UA-1650.\n l Enabled: The instrument detects the windscreen and applies the appropriate correction.\n l Disabled: Specify the windscreen manually under Windscreen type.\n",
+                "original_text": "Therefore, windscreens are gen-\nerally used for outdoor measurements, but they can be used any time you want to protect measurements from\nunwanted noise caused by air movement.\n"
+            }
+        }
+    ],
+    "I want to monitore a contruction site. What should I use? I need long term logging and report generation.": [
+        {
+            "rank": 1,
+            "score": 0.6196045903542698,
+            "text": "Keep an eye on things\nReal-time measurement views keep you in touch with your \nmeasurements and allow you to monitor your measurements and \nEmbed photo, video, text and voice annotations in your \nShare projects using a simple, login-free cloud-sharing tool.\n ",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - Noise Partner.txt",
+                "doc_id": "f0ba4db4-767c-4ab6-b754-acf1aea2646e",
+                "window": "Basic, broadband sound measurements with B&K 2245 or \nHBK 2255 Sound Level Meters\nReal-time, interactive interface to sound level meter\nEmbedded annotations: photos, video, voice commentary and \nSimple, login-free project sharing via HBK’s cloud storage\nMeasurement data import (USB or network connection)\nMeasurement data in tabular and graphical formats\nMeasurement annotation viewing and export\nSimple report generation in Microsoft® Word or PDF \nAbility to copy and paste graphs, tables and annotations\nData export in Microsoft® Excel® format, with master file \nSimple, login-free project sharing via HBK’s cloud storage\nfor B&K 2245 and HBK 2255 Sound Level Meters\nSimple broadband sound level measurements and analysis\nB&K 2245 and HBK 2255 are simple \nand easy-to-use class 1 sound level \ndesigned.  Their dust- and water-\nresistant bodies are rubberized for a \nEach sound level meter can be used as \ndevice or with specially-created apps \nlicences installed on the sound level \nmeter unlock functionality and enable \nThe Noise Partner licence enables all \nthe measurement capabilities you need \nmeasurement and analysis using either B&K 2245 or HBK 2255.\n Intuitive touch controls allow you to set up the instrument and \nmake measurements from a distance.\n Keep an eye on things\nReal-time measurement views keep you in touch with your \nmeasurements and allow you to monitor your measurements and \nEmbed photo, video, text and voice annotations in your \nShare projects using a simple, login-free cloud-sharing tool.\n  Control, view and annotate measurements directly from your mobile \nAll measurement data is stored on the sound level meter.  Import \nmeasurement data to the PC app directly from the sound level \nmeter or from a backup storage device.  The sound level meter \ncan be set up to transfer data automatically when it connects to \nthe storage device, which can be a network-attached storage \ndevice or a USB key. \n",
+                "original_text": "Keep an eye on things\nReal-time measurement views keep you in touch with your \nmeasurements and allow you to monitor your measurements and \nEmbed photo, video, text and voice annotations in your \nShare projects using a simple, login-free cloud-sharing tool.\n "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.6176666648879903,
+            "text": "It has broadband logging of the \nequivalent continuous level (LAeq) at one second intervals without \nfrequency and statistics to keep the measurement project small.\n",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 3668.txt",
+                "doc_id": "a39e47c7-a26e-46a8-9494-74092c39fdbc",
+                "window": "The case provides protection for \nthe analyzer and prevents tampering when installed.  The case \nalso stores the stylus, microphone cover and microphone when \nthe system is not in use. \n Measurement Templates\nThe included analyzer comes with the simplified, preconfigured \nMATRON 4 measurement template which is sufficient for the \nmajority of noise-complaint cases when accompanied by sound \nrecordings of disturbances.  It has broadband logging of the \nequivalent continuous level (LAeq) at one second intervals without \nfrequency and statistics to keep the measurement project small.\n If you are familiar with how to set up a measurement template, \nthe analyzer also comes with two additional templates: Logging \nSLM and Logging 1/3 Octave.  To perform frequency analysis on \nthe data, you will need 1/1- and 1/3-octave Frequency Analysis \nSoftware BZ-7132, an optional software license (not included \nwith Type 3668). \n Upgrade your Analyzer to MATRON 4\nMATRON 4 is only supplied with Type 2250-L. ",
+                "original_text": "It has broadband logging of the \nequivalent continuous level (LAeq) at one second intervals without \nfrequency and statistics to keep the measurement project small.\n"
+            }
+        }
+    ],
+    "I need a solution that covers, Long term logging, GPS tagging, weatherproofing and report generation.": [
+        {
+            "rank": 1,
+            "score": 0.6130110501518548,
+            "text": "Drift <0.26 s per 24-hour period (±3 ppm)\nLogging requires one of the following licences: BZ-7301 or BZ-7302. \n",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 2245.txt",
+                "doc_id": "3318febb-f1ac-4624-9ddd-6b3c99c92164",
+                "window": "F, S and I exponential time \nweightings, linear averaging and peak detector \nsimultaneously for each frequency weighting\nMonitors the overload outputs of all the \nX = frequency weightings A, B, C or Z, up to two weightings in parallel\nY = time weightings F or S\n1/1-octave or 1/3-octave frequency analysis\nX = frequency weightings A, B, C or Z \nY = time weightings F or S\nListen-quality audio recording requires one of the following licences: \nBZ-7301, BZ-7302, BZ-7303 or BZ-7404.\n Precision of coordinates given as ±xx m\nAudio recordings are stored on the instrument \nand transferred with measurement to PC or \nVariable bit rate, approximately 22 MB per \nFiles are compressed to 3% of original signal. \n 24-bit covering full measurement range \n7 buttons optimized for measurement control \nPress centre button 1 s to switch on; press 2 s \nto switch off; press and hold to restart\nLED light ring visible from a distance, and from \nmost angles: Red, yellow, green, blue, purple\nTransflective back-lit colour 240 × 320 dot \ncharge, data transfer, output signal (frequency-\nweighted input signal or DC voltage \ncorresponding to measured LAF, LBF, LCF or \nSystem time updated from GPS when possible. \n Drift <0.26 s per 24-hour period (±3 ppm)\nLogging requires one of the following licences: BZ-7301 or BZ-7302. \n 1, 5, 10, 30 or 60 s intervals\nPreset measurement time from 1 second to 31 \ndays in 1 s steps (exactly 31 days, 23 hours, 59 \nminutes and 59 seconds, that is 31.23.59.59)\nStart, Pause, Continue and Stop the \nSingle measurements only: The last 1 to 10 s \nof data can be erased without resetting the \nInformation such as overload and running/\npaused are displayed on screen as icons\nOne quasi-analogue instantaneous bar and \nOne quasi-analogue instantaneous bar and \n1/1- and /or 1/3-octave spectrum column \nGraphical profile for one broadband parameter \nat a time.  Moveable cursor for last 100 logging \nmicrophone sensitivity, calibrated date, time \nzone, software version and hardware version \nDate, time and number formats can \nUser interface in Bulgarian, Catalan, Chinese, \nCroatian, Czech, Danish, Dutch, English, \nFrench, German, Hungarian, Italian, Japanese, \nOn app: Concise context-sensitive help in \nEnglish, French, German, Italian and Spanish\nUpdate to latest version via Internet*\nFor WELMEC type-approved instruments, updates must be performed at a \nBrüel & Kjær service centre.\n Connect to the instrument via mobile device \n• Other optional apps also available. \n",
+                "original_text": "Drift <0.26 s per 24-hour period (±3 ppm)\nLogging requires one of the following licences: BZ-7301 or BZ-7302. \n"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.612316424170743,
+            "text": "It can also include the loc-\nation of the instrument (latitude and longitude) using GPS (global positioning system).\n",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+                "window": "The Parameter setting defines the parameter to display in the area below the bar graph.\n The Display setting allows you to enable or disable each type of display.\n About data view displays information about the instrument with which you are measuring.  It can also include the loc-\nation of the instrument (latitude and longitude) using GPS (global positioning system).\n To enable latitude and longitude coordinates in About data view:\n1.  Enable Service mode on the instrument.\n briefly to open the menu.\n",
+                "original_text": "It can also include the loc-\nation of the instrument (latitude and longitude) using GPS (global positioning system).\n"
+            }
+        }
+    ],
+    "Which solution should I use to measure a building design?": [
+        {
+            "rank": 1,
+            "score": 0.6603425496589329,
+            "text": "Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "61b80a37-a52f-4a77-81ad-f1c8925a7d1d",
+                "window": "Microphones may be mounted on a tripod or hand-held.\n Hint: Microphone Extension UA-0049 is a great accessory for measuring in corners.\n See Low-frequency measurements for more information about sound insulation tests at low frequencies.\n Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n Fixed positions require you to reposition equip-\nMeasurements at multiple fixed positions can take\nWith Building Acoustics Partner, you can stream live audio to your mobile device, which can eliminate the need\nto be in the room while measuring.  See Listening to audio for more information about live audio.\n Sometimes only the loudest position is measured, other times a room average may be used (measure at multiple fixed\npoints or along a traverse). ",
+                "original_text": "Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.6603425496589329,
+            "text": "Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+                "window": "Microphones may be mounted on a tripod or hand-held.\n Hint: Microphone Extension UA-0049 is a great accessory for measuring in corners.\n See Low-frequency measurements for more information about sound insulation tests at low frequencies.\n Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n Fixed positions require you to reposition equip-\nMeasurements at multiple fixed positions can take\nWith Building Acoustics Partner, you can stream live audio to your mobile device, which can eliminate the need\nto be in the room while measuring.  See Listening to audio for more information about live audio.\n Sometimes only the loudest position is measured, other times a room average may be used (measure at multiple fixed\npoints or along a traverse). ",
+                "original_text": "Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n"
+            }
+        }
+    ],
+    "I need a solution for covering Frequency analysis, reverberation time and standards compliance.": [
+        {
+            "rank": 1,
+            "score": 0.710612617289502,
+            "text": "See Frequency range and\nmeasurement time for more information about averaging times and Fixed or scanned measurements for information\nFor reverberation time measurements (T2), you should measure a minimum of 6 decays at a minimum of 3 fixed micro-\nThe low-frequency procedure of ISO 16283 requires fixed microphone positions in a minimum of four corners, with two\ncorners at ground level and two corners at ceiling level. ",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+                "window": "For manually-scanned measurements, you should per-\nform a minimum of one scan.  Ideally, the background noise in the receiving room (B2) should be measured con-\nsecutively with the sound level in the receiving room (L2) at the same measurement positions or traverse.\n ✐Note: It is important that the time spent measuring, for either a single manually-scanned measurement or multiple\nmeasurements at fixed points, meets the averaging time requirements of the standard used.  See Frequency range and\nmeasurement time for more information about averaging times and Fixed or scanned measurements for information\nFor reverberation time measurements (T2), you should measure a minimum of 6 decays at a minimum of 3 fixed micro-\nThe low-frequency procedure of ISO 16283 requires fixed microphone positions in a minimum of four corners, with two\ncorners at ground level and two corners at ceiling level.  Microphones may be mounted on a tripod or hand-held.\n For room background noise tests, you have the option to measure at one position only (the worst affected position) or\nat multiple positions to determine the average noise levels in the room.\n See Room background noise for more information.\n",
+                "original_text": "See Frequency range and\nmeasurement time for more information about averaging times and Fixed or scanned measurements for information\nFor reverberation time measurements (T2), you should measure a minimum of 6 decays at a minimum of 3 fixed micro-\nThe low-frequency procedure of ISO 16283 requires fixed microphone positions in a minimum of four corners, with two\ncorners at ground level and two corners at ceiling level. "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.710612617289502,
+            "text": "See Frequency range and\nmeasurement time for more information about averaging times and Fixed or scanned measurements for information\nFor reverberation time measurements (T2), you should measure a minimum of 6 decays at a minimum of 3 fixed micro-\nThe low-frequency procedure of ISO 16283 requires fixed microphone positions in a minimum of four corners, with two\ncorners at ground level and two corners at ceiling level. ",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "03c2bd27-dc18-41d0-afd3-b741c052030e",
+                "window": "For manually-scanned measurements, you should per-\nform a minimum of one scan.  Ideally, the background noise in the receiving room (B2) should be measured con-\nsecutively with the sound level in the receiving room (L2) at the same measurement positions or traverse.\n ✐Note: It is important that the time spent measuring, for either a single manually-scanned measurement or multiple\nmeasurements at fixed points, meets the averaging time requirements of the standard used.  See Frequency range and\nmeasurement time for more information about averaging times and Fixed or scanned measurements for information\nFor reverberation time measurements (T2), you should measure a minimum of 6 decays at a minimum of 3 fixed micro-\nThe low-frequency procedure of ISO 16283 requires fixed microphone positions in a minimum of four corners, with two\ncorners at ground level and two corners at ceiling level.  Microphones may be mounted on a tripod or hand-held.\n For room background noise tests, you have the option to measure at one position only (the worst affected position) or\nat multiple positions to determine the average noise levels in the room.\n See Room background noise for more information.\n",
+                "original_text": "See Frequency range and\nmeasurement time for more information about averaging times and Fixed or scanned measurements for information\nFor reverberation time measurements (T2), you should measure a minimum of 6 decays at a minimum of 3 fixed micro-\nThe low-frequency procedure of ISO 16283 requires fixed microphone positions in a minimum of four corners, with two\ncorners at ground level and two corners at ceiling level. "
+            }
+        }
+    ],
+    "I need to measure a residential building and I need to follow the standard ISO 3382. Which solution should I use?": [
+        {
+            "rank": 1,
+            "score": 0.6549419729319029,
+            "text": "The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n",
+            "metadata": {
+                "file_name": "Type_4292-L.txt",
+                "doc_id": "4cef64dc-5389-408a-ac6b-7ef6a7b29b60",
+                "window": "All speakers are connected in a series-parallel network to ensure both in-phase operation and an impedance that matches the power amplifier.\n The loudspeaker weighs less than 8 kg and is fitted with a convenient lifting handle that does not measurably interfere with the sound field.\n\n USE SCENARIOS\nRoom and building acoustics\nMeasuring airborne sound insulation\nMeasuring reverberation time\nFor most architectural acoustics measurements, the OmniPower sound source radiates sound evenly in all directions and gives reproducible and reliable results.  The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n Background noise is the enemy of good architectural acoustics measurements particularly at low frequencies where traffic noise and air conditioning systems are some of the main culprits i.e.  between 100 Hz and 200 Hz.\n The OmniPower sound source is designed to deliver its peak performance in this very same range delivering maximum power where it’s needed most.\n",
+                "original_text": "The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.6549419729319029,
+            "text": "The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n",
+            "metadata": {
+                "file_name": "Type_4292-L.txt",
+                "doc_id": "12ba9d05-80d7-43f0-99fb-f7f6c6891155",
+                "window": "All speakers are connected in a series-parallel network to ensure both in-phase operation and an impedance that matches the power amplifier.\n The loudspeaker weighs less than 8 kg and is fitted with a convenient lifting handle that does not measurably interfere with the sound field.\n\n USE SCENARIOS\nRoom and building acoustics\nMeasuring airborne sound insulation\nMeasuring reverberation time\nFor most architectural acoustics measurements, the OmniPower sound source radiates sound evenly in all directions and gives reproducible and reliable results.  The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n Background noise is the enemy of good architectural acoustics measurements particularly at low frequencies where traffic noise and air conditioning systems are some of the main culprits i.e.  between 100 Hz and 200 Hz.\n The OmniPower sound source is designed to deliver its peak performance in this very same range delivering maximum power where it’s needed most.\n",
+                "original_text": "The relevant architectural acoustics measurements standards (ISO 16283, ISO 10140 and ISO 3382) require the use of an omnidirectional sound source.\n"
+            }
+        }
+    ],
+    "Which is the best solution to measure room acoustics?": [
+        {
+            "rank": 1,
+            "score": 0.7728219426440645,
+            "text": "Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "61b80a37-a52f-4a77-81ad-f1c8925a7d1d",
+                "window": "Microphones may be mounted on a tripod or hand-held.\n Hint: Microphone Extension UA-0049 is a great accessory for measuring in corners.\n See Low-frequency measurements for more information about sound insulation tests at low frequencies.\n Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n Fixed positions require you to reposition equip-\nMeasurements at multiple fixed positions can take\nWith Building Acoustics Partner, you can stream live audio to your mobile device, which can eliminate the need\nto be in the room while measuring.  See Listening to audio for more information about live audio.\n Sometimes only the loudest position is measured, other times a room average may be used (measure at multiple fixed\npoints or along a traverse). ",
+                "original_text": "Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7728219426440645,
+            "text": "Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "03c2bd27-dc18-41d0-afd3-b741c052030e",
+                "window": "Microphones may be mounted on a tripod or hand-held.\n Hint: Microphone Extension UA-0049 is a great accessory for measuring in corners.\n See Low-frequency measurements for more information about sound insulation tests at low frequencies.\n Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n Fixed positions require you to reposition equip-\nMeasurements at multiple fixed positions can take\nWith Building Acoustics Partner, you can stream live audio to your mobile device, which can eliminate the need\nto be in the room while measuring.  See Listening to audio for more information about live audio.\n Sometimes only the loudest position is measured, other times a room average may be used (measure at multiple fixed\npoints or along a traverse). ",
+                "original_text": "Pros and cons of measurement methods\nScans can be faster than measuring at fixed pos-\nYou are able to listen to the sound field as you\nYou can control measurements from outside the\nroom, without introducing extra absorption or\nYour body introduces noise and absorption into\nYou are exposed to high sound levels for L1 meas-\nurements; hearing protection is recommended.\n"
+            }
+        }
+    ],
+    "I need to perform sound power measurements with a multi channel setup. Which solution should I use?": [
+        {
+            "rank": 1,
+            "score": 0.7332818465587152,
+            "text": "Multi-channel measurements can be made using multiple HBK 2255’s, or with most Windows compatible multi-channel sound devices.\n\n",
+            "metadata": {
+                "file_name": "Dirac_Room_Acoustics_Software_-_7841.txt",
+                "doc_id": "075e7bd1-08f7-4b9f-a9e4-61a6b7c75ee8",
+                "window": "DIRAC is a valuable acoustics measurement tool for field and laboratory acoustics engineers, researchers and educational institutions.  Users can compare the acoustics of one room with another, validate sound systems and perform scale model measurements.Based on the measurement and analysis of impulse responses, the tool supports a variety of measurement configurations.\n\n DIRAC supports wireless room acoustics measurements when connected toHBK 2255 Sound Level Meteras a wireless microphone, and/orHBK 2755 Smart Power Amplifieras a wireless sound source.  Multi-channel measurements can be made using multiple HBK 2255’s, or with most Windows compatible multi-channel sound devices.\n\n Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n\n In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily.  The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters. ",
+                "original_text": "Multi-channel measurements can be made using multiple HBK 2255’s, or with most Windows compatible multi-channel sound devices.\n\n"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7332818465587152,
+            "text": "Multi-channel measurements can be made using multiple HBK 2255’s, or with most Windows compatible multi-channel sound devices.\n",
+            "metadata": {
+                "file_name": "Dirac_Room_Acoustics_Software_-_7841.txt",
+                "doc_id": "216fd4a6-2946-47ce-8718-a0a2713548e9",
+                "window": "Users can compare the acoustics of one room with another, validate sound systems and perform scale model measurements.\n Based on the measurement and analysis of impulse responses, the tool supports a variety of measurement configurations.\n DIRAC supports wireless room acoustics measurements when connected to\nHBK 2255 Sound Level Meter\nas a wireless microphone, and/or\nHBK 2755 Smart Power Amplifier\nas a wireless sound source.  Multi-channel measurements can be made using multiple HBK 2255’s, or with most Windows compatible multi-channel sound devices.\n Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily.  The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters. ",
+                "original_text": "Multi-channel measurements can be made using multiple HBK 2255’s, or with most Windows compatible multi-channel sound devices.\n"
+            }
+        }
+    ],
+    "I need a solution that covers standard compliance to perform sound power measurements.": [
+        {
+            "rank": 1,
+            "score": 0.7052785860396812,
+            "text": "USER SCENARIOS\nMeasuring and reporting of sound power levels in accordance with ISO 3744 and ISO 3746 standards to demonstrate product compliance with noise specifications for legislation or commendation\nAssessing noise emissions from toys according to EN 71-1\nDetermining noise emissions of machinery and equipment for ensuring compliance with standards or benchmarking for comparisons\nDetermining sound pressure levels at workstations\nR&D and quality assurance testing products for analysis to identify and evaluate prominent discrete tones and impulsive noise\nADDITIONAL CAPABILITIES\nAdditional licenses can be installed on HBK 2255. ",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2255.txt",
+                "doc_id": "5c8feb4e-508d-4b9a-879f-4e39df5ba844",
+                "window": "PC APP\nThe Product Noise Partner PC application supports you through every step of the measurement process, from choosing a standard, through defining the device geometry and measurement positions, to calculating the final result.  The PC app can even be used to wirelessly control measurements with your HBK 2255.  Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.\n\n USER SCENARIOS\nMeasuring and reporting of sound power levels in accordance with ISO 3744 and ISO 3746 standards to demonstrate product compliance with noise specifications for legislation or commendation\nAssessing noise emissions from toys according to EN 71-1\nDetermining noise emissions of machinery and equipment for ensuring compliance with standards or benchmarking for comparisons\nDetermining sound pressure levels at workstations\nR&D and quality assurance testing products for analysis to identify and evaluate prominent discrete tones and impulsive noise\nADDITIONAL CAPABILITIES\nAdditional licenses can be installed on HBK 2255.  Ensure that you have the right tools for your job to do:\nEnviro Noise Partner – evaluate environmental noise to ensure compliance with standards.  The focused toolset ensures that you have all the tools needed for the job, including markers to isolate sounds (exclude superfluous noise or mark pertinent noise for further examination) and checklists to ensure the job is done correctly\nWork Noise Partner – evaluate workplace noise to ensure compliance with regulations and safeguard employee safety, including determining the need and level for hearing protection.  The interface guides you through a full survey and requires minimal training to ensure valid and actionable data\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n",
+                "original_text": "USER SCENARIOS\nMeasuring and reporting of sound power levels in accordance with ISO 3744 and ISO 3746 standards to demonstrate product compliance with noise specifications for legislation or commendation\nAssessing noise emissions from toys according to EN 71-1\nDetermining noise emissions of machinery and equipment for ensuring compliance with standards or benchmarking for comparisons\nDetermining sound pressure levels at workstations\nR&D and quality assurance testing products for analysis to identify and evaluate prominent discrete tones and impulsive noise\nADDITIONAL CAPABILITIES\nAdditional licenses can be installed on HBK 2255. "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7052785860396812,
+            "text": "USER SCENARIOS\nMeasuring and reporting of sound power levels in accordance with ISO 3744 and ISO 3746 standards to demonstrate product compliance with noise specifications for legislation or commendation\nAssessing noise emissions from toys according to EN 71-1\nDetermining noise emissions of machinery and equipment for ensuring compliance with standards or benchmarking for comparisons\nDetermining sound pressure levels at workstations\nR&D and quality assurance testing products for analysis to identify and evaluate prominent discrete tones and impulsive noise\nADDITIONAL CAPABILITIES\nAdditional licenses can be installed on HBK 2255. ",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2255.txt",
+                "doc_id": "a64b801b-0d9c-4902-bf78-8c57456d01c1",
+                "window": "PC APP\nThe Product Noise Partner PC application supports you through every step of the measurement process, from choosing a standard, through defining the device geometry and measurement positions, to calculating the final result.  The PC app can even be used to wirelessly control measurements with your HBK 2255.  Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.\n\n USER SCENARIOS\nMeasuring and reporting of sound power levels in accordance with ISO 3744 and ISO 3746 standards to demonstrate product compliance with noise specifications for legislation or commendation\nAssessing noise emissions from toys according to EN 71-1\nDetermining noise emissions of machinery and equipment for ensuring compliance with standards or benchmarking for comparisons\nDetermining sound pressure levels at workstations\nR&D and quality assurance testing products for analysis to identify and evaluate prominent discrete tones and impulsive noise\nADDITIONAL CAPABILITIES\nAdditional licenses can be installed on HBK 2255.  Ensure that you have the right tools for your job to do:\nEnviro Noise Partner – evaluate environmental noise to ensure compliance with standards.  The focused toolset ensures that you have all the tools needed for the job, including markers to isolate sounds (exclude superfluous noise or mark pertinent noise for further examination) and checklists to ensure the job is done correctly\nWork Noise Partner – evaluate workplace noise to ensure compliance with regulations and safeguard employee safety, including determining the need and level for hearing protection.  The interface guides you through a full survey and requires minimal training to ensure valid and actionable data\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n",
+                "original_text": "USER SCENARIOS\nMeasuring and reporting of sound power levels in accordance with ISO 3744 and ISO 3746 standards to demonstrate product compliance with noise specifications for legislation or commendation\nAssessing noise emissions from toys according to EN 71-1\nDetermining noise emissions of machinery and equipment for ensuring compliance with standards or benchmarking for comparisons\nDetermining sound pressure levels at workstations\nR&D and quality assurance testing products for analysis to identify and evaluate prominent discrete tones and impulsive noise\nADDITIONAL CAPABILITIES\nAdditional licenses can be installed on HBK 2255. "
+            }
+        }
+    ],
+    "I want a solution with a simple interface and affordabe.": [
+        {
+            "rank": 1,
+            "score": 0.5610804512001775,
+            "text": "The display is a useful alternative to remote connections\nl A computer or mobile device with Wi-Fi® and a web browser installed\n1. ",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "03c2bd27-dc18-41d0-afd3-b741c052030e",
+                "window": ": Navigate down a level in the menu; exit a response dialog (without confirming a\n: Navigate up a level in the menu; enter a response dialog.\n Web server display is a setting that allows you to connect to the instrument using a web browser.  The display mirrors\nthe instrument GUI and provides a digital version of the instrument buttons, which allows you to control measurements\nand access instrument settings from an ordinary web browser.  The display is a useful alternative to remote connections\nl A computer or mobile device with Wi-Fi® and a web browser installed\n1.  Go to: System settings > Network settings > Web server display.\n 3.  Connect the instrument and the device running the web browser to the Internet.\n",
+                "original_text": "The display is a useful alternative to remote connections\nl A computer or mobile device with Wi-Fi® and a web browser installed\n1. "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.5610804512001775,
+            "text": "The display is a useful alternative to remote connections\nl A computer or mobile device with Wi-Fi® and a web browser installed\n1. ",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+                "window": ": Navigate down a level in the menu; exit a response dialog (without confirming a\n: Navigate up a level in the menu; enter a response dialog.\n Web server display is a setting that allows you to connect to the instrument using a web browser.  The display mirrors\nthe instrument GUI and provides a digital version of the instrument buttons, which allows you to control measurements\nand access instrument settings from an ordinary web browser.  The display is a useful alternative to remote connections\nl A computer or mobile device with Wi-Fi® and a web browser installed\n1.  Go to: System settings > Network settings > Web server display.\n 3.  Connect the instrument and the device running the web browser to the Internet.\n",
+                "original_text": "The display is a useful alternative to remote connections\nl A computer or mobile device with Wi-Fi® and a web browser installed\n1. "
+            }
+        }
+    ],
+    "I would like to have a solution for noise monitoring that is portable.": [
+        {
+            "rank": 1,
+            "score": 0.7269840107246425,
+            "text": "Measurement audio can be streamed to your phone while measuring, useful in situations where you cannot be physically close to the sound level meter, or to listen for wind-induced noise. ",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2245.txt",
+                "doc_id": "b3b56b88-ff2a-4559-9223-6c1b37d48bf7",
+                "window": "Once the Enviro Noise Partner app is downloaded to your phone from the App Store®, your B&K 2245 sound level meter can be wirelessly controlled from your phone – you can even control multiple sound level meters simultaneously.  All measurement capabilities are available from the app, with intuitive measurement profile screens that enable you to pinch the graph to zoom or swipe it to move back and forth through time.  This makes it very easy to mark events and isolate sounds so that you can, for example, exclude a barking dog from a measurement.  Measurement audio can be streamed to your phone while measuring, useful in situations where you cannot be physically close to the sound level meter, or to listen for wind-induced noise.  Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements to document your work.\n\n With the accompanying PC app, all data can be transferred to a PC, wirelessly or with the supplied USB cable.  Just like the mobile app, the Enviro Noise Partner PC app is an excellent tool for adding markers for events and isolating sounds for further investigation or exclusion. ",
+                "original_text": "Measurement audio can be streamed to your phone while measuring, useful in situations where you cannot be physically close to the sound level meter, or to listen for wind-induced noise. "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7269840107246425,
+            "text": "Measurement audio can be streamed to your phone while measuring, useful in situations where you cannot be physically close to the sound level meter, or to listen for wind-induced noise. ",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2245.txt",
+                "doc_id": "13560abd-9fa1-4456-af59-29a84d67a727",
+                "window": "Mobile App\nOnce the Enviro Noise Partner app is downloaded to your phone from the App Store\n®\n, your B&K 2245 sound level meter can be wirelessly controlled from your phone – you can even control multiple sound level meters simultaneously.  All measurement capabilities are available from the app, with intuitive measurement profile screens that enable you to pinch the graph to zoom or swipe it to move back and forth through time.  This makes it very easy to mark events and isolate sounds so that you can, for example, exclude a barking dog from a measurement.  Measurement audio can be streamed to your phone while measuring, useful in situations where you cannot be physically close to the sound level meter, or to listen for wind-induced noise.  Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements to document your work.\n PC App\nWith the accompanying PC app, all data can be transferred to a PC, wirelessly or with the supplied USB cable.  Just like the mobile app, the Enviro Noise Partner PC app is an excellent tool for adding markers for events and isolating sounds for further investigation or exclusion. ",
+                "original_text": "Measurement audio can be streamed to your phone while measuring, useful in situations where you cannot be physically close to the sound level meter, or to listen for wind-induced noise. "
+            }
+        }
+    ],
+    "Which solutions gives basic logging and a simple interface?": [
+        {
+            "rank": 1,
+            "score": 0.6783703228562953,
+            "text": "Fast logging is very similar to regular logging, the difference is that data is logged at\nshorter intervals. ",
+            "metadata": {
+                "file_name": "output_UserGuide-Enviro noise Partner.txt",
+                "doc_id": "ae0eca13-731d-46ec-935d-295f5cf162a9",
+                "window": "This setting controls the number of seconds that will be erased when the measurement is resumed.  This setting is\nenabled when Back-erase mode is set to Enabled.\n HBK 2255 can fast log broadband parameters with one frequency weighting and spectrum parameters with up to two\nsimultaneous frequency weightings.  Fast logging is very similar to regular logging, the difference is that data is logged at\nshorter intervals.  Fast logging requires the BZ-7301 or BZ-7450 licence to be installed and enabled on your instrument.\n How to set up fast logging measurements\n1.  Go to Measurement settings > Measurement control.\n",
+                "original_text": "Fast logging is very similar to regular logging, the difference is that data is logged at\nshorter intervals. "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.6783703228562953,
+            "text": "Fast logging is very similar to regular logging, the difference is that data is logged at\nshorter intervals. ",
+            "metadata": {
+                "file_name": "output_UserGuide-Enviro noise Partner.txt",
+                "doc_id": "d6ba8203-3a82-4079-9c1a-df94dbe838d1",
+                "window": "✐Note: F time weighting can be used for most measurements.\n l S = 1 s time constant, decay of 4.3 dB/s\nThe relatively slow rise and decay of this time weighting means it will smooth the variations in the vibration sig-\nWhen choosing a time weighting to use, ask yourself if you want to track or smooth the variations in vibration levels\nThe Fast logging setting allows you to enable and disable parameters for fast logging.\n HBK 2255 can fast log broadband parameters with one frequency weighting and spectrum parameters with up to two\nsimultaneous frequency weightings.  Fast logging is very similar to regular logging, the difference is that data is logged at\nshorter intervals.  Fast logging requires the BZ-7301 or BZ-7450 licence to be installed and enabled on your instrument.\n Menu location: Measurement settings > Fast logging\nHow to set up fast logging measurements\n1.  Go to Measurement settings > Measurement control.\n",
+                "original_text": "Fast logging is very similar to regular logging, the difference is that data is logged at\nshorter intervals. "
+            }
+        }
+    ]
+}
