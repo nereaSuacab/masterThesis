@@ -1,0 +1,83 @@
+[
+  {
+    "question": "Which HBK 2255 variant is best suited for long-term environmental noise monitoring in infrastructure projects?",
+    "context": [
+      "The 2255-E-S and 2255-E-SC variants include the Enviro Noise Partner software, which is designed for environmental noise assessments. These variants also support GPS tagging, weatherproofing (IP54), and long-term logging capabilities.",
+      "Enviro Noise Partner enables 1/1- or 1/3-octave band frequency analysis, logging down to 1 s intervals, and high-quality audio recordings for incident identification."
+    ],
+    "reference": "2255-E-S or 2255-E-SC, as they include Enviro Noise Partner and support GPS, weatherproofing, and long-term logging."
+  },
+  {
+    "question": "Which HBK 2255 variant should be used for evaluating workplace noise exposure according to ISO 9612?",
+    "context": [
+      "Work Noise Partner is a complete toolset for occupational noise-related concerns, including task- and job-based noise exposure assessment according to ISO 9612.",
+      "The 2255-W-S and 2255-W-SC variants include the Work Noise Partner software."
+    ],
+    "reference": "2255-W-S or 2255-W-SC"
+  },
+  {
+    "question": "What HBK 2255 variant is recommended for sound insulation testing in buildings?",
+    "context": [
+      "Building Acoustics Partner enables airborne, impact, and façade sound insulation testing, including reverberation time measurements.",
+      "Variants 2255-B-S and 2255-B-SC include the Building Acoustics Partner software."
+    ],
+    "reference": "2255-B-S or 2255-B-SC"
+  },
+  {
+    "question": "Which software module allows isolating specific noise events like barking dogs or traffic during environmental surveys?",
+    "context": [
+      "Enviro Noise Partner includes tools to mark events and isolate sounds, such as excluding a barking dog from a measurement.",
+      "It also supports high-speed audio playback and streaming to mobile devices."
+    ],
+    "reference": "Enviro Noise Partner"
+  },
+  {
+    "question": "What makes the HBK 2255 suitable for unattended outdoor environmental noise logging?",
+    "context": [
+      "HBK 2255 supports IP54 weatherproofing, GPS tagging, and long-term logging with up to 6 months of data storage.",
+      "It includes automatic measurement transfer and remote control via mobile apps."
+    ],
+    "reference": "Its weatherproof design, GPS, long-term logging, and remote control make it ideal for unattended outdoor monitoring."
+  },
+  {
+    "question": "Which HBK 2255 variant includes both environmental noise software and a calibrator?",
+    "context": [
+      "Variant: 2255-E-SC — SLM with Enviro Noise & Calibrator",
+      "SOFTWARE - BZ-7301 Enviro Noise Partner: included",
+      "ACCESSORIES - Type 4231 Sound Calibrator: included"
+    ],
+    "reference": "2255-E-SC"
+  },
+  {
+    "question": "What is the best HBK 2255 variant for general-purpose sound pressure level measurements?",
+    "context": [
+      "Noise Partner is pre-installed on all HBK 2255 units and is ideal for general-purpose sound pressure level measurements.",
+      "Variants like 2255-N-S and 2255-N-SC include only the Noise Partner software."
+    ],
+    "reference": "2255-N-S or 2255-N-SC"
+  },
+  {
+    "question": "Which HBK 2255 variant is recommended for product noise testing according to ISO 3744?",
+    "context": [
+      "Product Noise Partner supports sound power determination according to ISO 3744 and ISO 3746.",
+      "Variants 2255-P-S and 2255-P-SC include the Product Noise Partner software."
+    ],
+    "reference": "2255-P-S or 2255-P-SC"
+  },
+  {
+    "question": "What features of the Work Noise Partner help ensure accurate workplace noise assessments?",
+    "context": [
+      "Work Noise Partner organizes measurements into tasks and exposure groups, calculates workday noise exposure, and supports ISO 9612.",
+      "It includes tools for hearing protection selection and integrates with Personal Noise Dosimeter Type 4448."
+    ],
+    "reference": "Task-based organization, ISO 9612 compliance, hearing protection tools, and dosimeter integration."
+  },
+  {
+    "question": "How does the Building Acoustics Partner improve efficiency during sound insulation testing?",
+    "context": [
+      "The mobile app supports workflow automation, measurement reuse, and real-time control of two HBK 2255 units for simultaneous L1 and L2 measurements.",
+      "The PC app simplifies analysis and report generation."
+    ],
+    "reference": "By enabling dual-device measurements, workflow automation, and streamlined reporting."
+  }
+]

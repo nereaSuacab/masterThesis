@@ -1,0 +1,89 @@
+[
+  {
+    "question": "Which B&K 2245 variant is best suited for sound power measurements in a product testing lab?",
+    "context": [
+      "Product Noise Partner supports sound power determination according to ISO 3744 and ISO 3746.",
+      "Variants 2245-P-S and 2245-P-SC include the Product Noise Partner software.",
+      "These variants include accessories like the Type 4966 microphone and optional calibrator.",
+      "Product Noise Partner offers a 3D geometry view and pass/fail indicators for measurement accuracy."
+    ],
+    "reference": "2245-P-S and 2245-P-SC are best suited for sound power measurements in product testing labs."
+  },
+  {
+    "question": "What software is required on the B&K 2245 to comply with ISO 3744 for sound power testing?",
+    "context": [
+      "Product Noise Partner enables ISO 3744 and ISO 3746 compliant sound power testing.",
+      "It is included in the 2245-P-S and 2245-P-SC variants."
+    ],
+    "reference": "Product Noise Partner software is required for ISO 3744-compliant sound power testing."
+  },
+  {
+    "question": "Which B&K 2245 variant is suitable for environmental noise surveys and regulation compliance?",
+    "context": [
+      "Enviro Noise Partner supports environmental noise surveys and regulation compliance.",
+      "It enables 1/1- and 1/3-octave band frequency analysis, broadband statistics, and audio recording.",
+      "Variants 2245-E-S and 2245-E-SC include the Enviro Noise Partner software."
+    ],
+    "reference": "2245-E-S and 2245-E-SC are suitable for environmental noise surveys and regulation compliance."
+  },
+  {
+    "question": "What variant should be used for roadside exhaust noise enforcement?",
+    "context": [
+      "Exhaust Noise Partner supports stationary and roadside exhaust noise testing.",
+      "It complies with ISO 5130, SAE J1169, J1492, and J1287.",
+      "Variants 2245-X-I and 2245-X-LC include the Exhaust Noise Partner software."
+    ],
+    "reference": "2245-X-I and 2245-X-LC are recommended for roadside exhaust noise enforcement."
+  },
+  {
+    "question": "Which B&K 2245 variant is ideal for occupational noise exposure surveys?",
+    "context": [
+      "Work Noise Partner supports task- and job-based noise exposure assessment according to ISO 9612.",
+      "It includes tools for calculating workday exposure and selecting hearing protection.",
+      "Variants 2245-W-S and 2245-W-SC include the Work Noise Partner software."
+    ],
+    "reference": "2245-W-S and 2245-W-SC are ideal for occupational noise exposure surveys."
+  },
+  {
+    "question": "Which B&K 2245 variant is ideal for basic broadband measurements and general sound level checks?",
+    "context": [
+      "Noise Partner is designed for simple broadband measurements and general-purpose sound pressure level checks.",
+      "Variants 2245-N-S and 2245-N-SC include the Noise Partner software."
+    ],
+    "reference": "2245-N-S and 2245-N-SC are ideal for basic broadband measurements and general sound level checks."
+  },
+  {
+    "question": "Can the B&K 2245 be used for logging and audio recording during environmental noise surveys?",
+    "context": [
+      "Enviro Noise Partner supports logging down to 1-second intervals.",
+      "It enables high-quality audio recordings for identifying specific incidents.",
+      "These features are available in variants with the Enviro Noise Partner license."
+    ],
+    "reference": "Yes, B&K 2245 with Enviro Noise Partner supports logging and audio recording during environmental noise surveys."
+  },
+  {
+    "question": "Is the B&K 2245 suitable for multi-channel sound power measurements?",
+    "context": [
+      "B&K 2245 is a single-channel sound level meter.",
+      "It supports 1/1- and 1/3-octave band analysis and broadband measurements.",
+      "Multi-channel setups may require additional instrumentation beyond the 2245."
+    ],
+    "reference": "B&K 2245 supports single-channel measurements; multi-channel setups require additional equipment."
+  },
+  {
+    "question": "What accessories are included with the 2245-P-SC variant for product noise testing?",
+    "context": [
+      "2245-P-SC includes Product Noise Partner software.",
+      "Accessories: Type 4231 sound calibrator, Type 4966 microphone, hard-shell case, USB cables, windscreen, wrist strap, mobile phone holder."
+    ],
+    "reference": "2245-P-SC includes all necessary accessories for product noise testing, including calibrator and microphone."
+  },
+  {
+    "question": "What standards does the Work Noise Partner help comply with?",
+    "context": [
+      "Work Noise Partner supports ISO 9612 for occupational noise exposure assessment.",
+      "It helps ensure compliance with regulations and supports hearing protection selection."
+    ],
+    "reference": "Work Noise Partner helps comply with ISO 9612 and supports occupational noise regulation compliance."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "context": [
+      "DIRAC Room Acoustics Software is used for measuring a wide range of room acoustical parameters. It supports wireless measurements using HBK 2255 Sound Level Meter and HBK 2755 Smart Power Amplifier. It is compliant with ISO 3382, ISO 18233, and IEC 60268-16 standards.",
+      "DIRAC supports multi-channel room acoustics measurements and allows auralisation of any sound played in a room using the room’s impulse response. It enables comparisons and statistics of results and supports scale model measurements.",
+      "Speech intelligibility measurements can be carried out using Echo Speech Source Type 4720 or direct injection into a sound system, taking into account background noise."
+    ],
+    "question": "Which solution is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards?",
+    "reference": "DIRAC Room Acoustics Software with HBK 2255 and HBK 2755."
+  },
+  {
+    "context": [
+      "HBK 2255 Sound Level Meter with Building Acoustics Partner is designed for airborne, impact, and façade sound insulation testing. It supports simultaneous L1 and L2 measurements and integrates with mobile and PC apps for workflow automation.",
+      "The Building Acoustics Partner mobile app provides measurement planning and workflow automation, helping ensure no measurement position is missed. It supports ISO 16283 and allows low-frequency measurements down to 20 Hz.",
+      "Accessories include OmniPower Sound Source Type 4292-L and HBK 2755 Smart Power Amplifier for sound generation."
+    ],
+    "question": "What product should be used for façade sound insulation testing on a construction site?",
+    "reference": "HBK 2255 Sound Level Meter with Building Acoustics Partner."
+  },
+  {
+    "context": [
+      "Echo Speech Source Type 4720 delivers calibrated signals for speech intelligibility measurements. It is recommended for use with DIRAC software and complies with IEC 60268-16.",
+      "The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters. It also takes into account background noise levels.",
+      "It is compact, lightweight, and mounts on common tripods, making it suitable for field and lab use."
+    ],
+    "question": "Which sound source is recommended for calibrated speech intelligibility measurements using DIRAC?",
+    "reference": "Echo Speech Source Type 4720."
+  },
+  {
+    "context": [
+      "OmniPower Sound Source Type 4292-L is an omnidirectional loudspeaker used for room acoustics measurements. It conforms to ISO 3382 and is compatible with DIRAC and HBK 2755.",
+      "It features a 12-loudspeaker dodecahedral configuration, lightweight design, and maximum sound power of 122 dB re 1 pW (100 – 3150 Hz).",
+      "It is used for scale model measurements and full-size room testing."
+    ],
+    "question": "What sound source should be used for ISO 3382-compliant room acoustics measurements?",
+    "reference": "OmniPower Sound Source Type 4292-L."
+  },
+  {
+    "context": [
+      "For low-frequency sound insulation measurements in small rooms, Building Acoustics Partner supports ISO 16283 procedures and allows extension of the frequency range down to 20 Hz.",
+      "Microphone Extension UA-0049 is recommended for corner measurements. The app supports low-frequency reverberation time measurements using 1/1-octave bands.",
+      "Measurements can be made at fixed points or along a traverse, and the app supports automatic and manual control of measurement time."
+    ],
+    "question": "Which solution supports low-frequency sound insulation measurements in small rooms?",
+    "reference": "Building Acoustics Partner with HBK 2255."
+  },
+  {
+    "context": [
+      "B&K 2245 Sound Level Meter is available in multiple versions tailored for environmental noise, workplace noise, product noise, and exhaust noise. It supports mobile and PC apps and features an open API.",
+      "The Enviro Noise Partner version simplifies environmental noise surveys and supports compliance with regulations and complaint investigations.",
+      "It includes GPS, Wi-Fi, Bluetooth, and 16 GB internal storage, and supports MP3 audio recording."
+    ],
+    "question": "Which sound level meter is suitable for general environmental noise surveys and supports mobile app integration?",
+    "reference": "B&K 2245 with Enviro Noise Partner."
+  },
+  {
+    "context": [
+      "HBK 2255 variants include configurations for building acoustics, product noise, work noise, and environmental noise. Each variant includes specific software licenses and accessories.",
+      "2255-B-SC includes Building Acoustics Partner, Noise Partner, Open Interface, and a sound calibrator (Type 4231).",
+      "It also includes a free-field microphone, windscreen, mobile phone holder, and wrist strap."
+    ],
+    "question": "Which HBK 2255 variant includes Building Acoustics Partner and a sound calibrator?",
+    "reference": "2255-B-SC (SLM with Building Acoustics & Calibrator)."
+  },
+  {
+    "context": [
+      "B&K 2245 with Product Noise Partner is designed for product noise measurement tasks and supports mobile app control and reporting.",
+      "It supports sound power determination according to ISO 3744 and toy noise assessments according to EN 71-1.",
+      "It includes a free-field microphone, windscreen, and mobile phone holder."
+    ],
+    "question": "Which solution is best suited for product noise measurements in a lab setting?",
+    "reference": "B&K 2245 with Product Noise Partner."
+  },
+  {
+    "context": [
+      "HBK 2255 with Product Noise Partner includes the necessary software and accessories for sound power determination and toy noise assessments.",
+      "Variants 2255-P-S and 2255-P-SC include Product Noise Partner, Noise Partner, Open Interface, and optionally a sound calibrator.",
+      "They support ISO 3744 and ISO 3746 standards for sound power measurements."
+    ],
+    "question": "Which HBK 2255 variant supports sound power determination according to ISO 3744?",
+    "reference": "2255-P-S or 2255-P-SC."
+  },
+  {
+    "context": [
+      "DIRAC software supports scale model measurements for acoustic prediction in architectural design, allowing analysis of impulse responses in miniature models.",
+      "It can convert scale model impulse responses to real-world responses and perform auralisation of dry recordings.",
+      "It supports frequency ranges up to 80 kHz and sample rates up to 192 kHz for high-resolution measurements."
+    ],
+    "question": "Which solution allows acoustic analysis in scale models of concert halls?",
+    "reference": "DIRAC Room Acoustics Software."
+  }
+]

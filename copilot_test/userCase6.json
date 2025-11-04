@@ -1,0 +1,88 @@
+[
+  {
+    "question": "Which sound level meter is best suited for a technician doing quick spot checks in urban environments?",
+    "context": [
+      "B&K 2245 is a task-tailored, class 1 measurement solution.",
+      "It works with mobile apps and PC software for easy reporting.",
+      "Designed for general users and technicians needing portability and ease of use.",
+      "Ideal for spot checks and quick assessments."
+    ],
+    "reference": "B&K 2245"
+  },
+  {
+    "question": "What product variant of HBK 2255 should a small business owner choose for basic environmental noise monitoring?",
+    "context": [
+      "2255-E-S includes HBK 2255 and Enviro Noise Partner software.",
+      "Supports 1/1- or 1/3-octave band frequency analysis and logging down to 1s intervals.",
+      "Can stream audio and embed annotations via mobile app.",
+      "Designed for environmental noise surveys and complaint investigations."
+    ],
+    "reference": "2255-E-S"
+  },
+  {
+    "question": "Which HBK 2255 variant includes both environmental noise monitoring and a calibrator for accurate measurements?",
+    "context": [
+      "2255-E-SC includes HBK 2255, Enviro Noise Partner, and Type 4231 Sound Calibrator.",
+      "Supports high-quality audio recordings and event marking.",
+      "Designed for compliance verification and complaint investigation."
+    ],
+    "reference": "2255-E-SC"
+  },
+  {
+    "question": "What sound level meter is recommended for community noise monitoring with mobile app support?",
+    "context": [
+      "HBK 2255 works with multiple mobile apps including Noise Partner and Enviro Noise Partner.",
+      "Wireless connectivity allows remote control and annotation.",
+      "Noise Partner is suitable for general-purpose and environmental noise measurements."
+    ],
+    "reference": "HBK 2255"
+  },
+  {
+    "question": "Which sound level meter offers a simple interface and is suitable for quick assessments by general users?",
+    "context": [
+      "B&K 2245 is designed for ease-of-use and efficiency.",
+      "Can be used as a stand-alone device or with mobile apps.",
+      "Ideal for technicians and small business owners needing portability."
+    ],
+    "reference": "B&K 2245"
+  },
+  {
+    "question": "Which HBK 2255 variant is suitable for basic broadband measurements and general sound pressure level checks?",
+    "context": [
+      "2255-N-S includes Noise Partner software.",
+      "Noise Partner supports simple broadband measurements and basic occupational, product, and environmental noise tasks.",
+      "Minimal training required."
+    ],
+    "reference": "2255-N-S"
+  },
+  {
+    "question": "What HBK 2255 solution is best for measuring sound insulation between rooms on a construction site?",
+    "context": [
+      "2255-B-S includes Building Acoustics Partner software.",
+      "Supports airborne, impact, and façade sound insulation testing.",
+      "Mobile app allows simultaneous L1 and L2 measurements with two HBK 2255 units.",
+      "Designed for real-world building sites with dust and debris."
+    ],
+    "reference": "2255-B-S"
+  },
+  {
+    "question": "Which HBK 2255 variant is best for evaluating workplace noise exposure and selecting hearing protection?",
+    "context": [
+      "2255-W-S includes Work Noise Partner software.",
+      "Supports ISO 9612-compliant task- and job-based noise exposure assessments.",
+      "Guides users through full workday exposure calculations.",
+      "Includes tools for selecting appropriate hearing protectors."
+    ],
+    "reference": "2255-W-S"
+  },
+  {
+    "question": "Which HBK 2255 variant is suitable for measuring sound power emissions and toy noise levels?",
+    "context": [
+      "2255-P-S includes Product Noise Partner software.",
+      "Supports ISO 3744, ISO 3746, and EN 71-1 standards.",
+      "Mobile app includes 3D geometry view and pass/fail indicators.",
+      "Designed for product compliance, benchmarking, and R&D."
+    ],
+    "reference": "2255-P-S"
+  }
+]

@@ -1,0 +1,58 @@
+[
+    {
+      "question": "Which product supports compliance with ISO 9612 for workplace noise exposure?",
+      "context": [
+        "Work Noise Partner offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.",
+        "This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection."
+      ],
+      "answer": "Work Noise Partner"
+    },
+    {
+      "question": "Which product is suitable for investigating environmental noise complaints?",
+      "context": [
+        "This solution is all you need to easily conduct and report on environmental noise surveys to investigate noise complaints.",
+        "Verifying compliance with environmental noise regulations and investigating noise complaints."
+      ],
+      "answer": "Enviro Noise Partner"
+    },
+    {
+      "question": "Which product is designed for measuring exhaust noise in vehicles?",
+      "context": [
+        "This B&K 2245 Sound Level Meter solution is a focused toolset for measuring exhaust noise.",
+        "Whether you are performing stationary exhaust noise testing in a workshop or performing street-side spot checks for law enforcement, this task-focused solution is the ideal tool."
+      ],
+      "answer": "Exhaust Noise Partner"
+    },
+    {
+      "question": "Which product helps verify safe noise emissions from toys and machinery?",
+      "context": [
+        "Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1.",
+        "The Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations."
+      ],
+      "answer": "Product Noise Partner"
+    },
+    {
+      "question": "Which product is ideal for simple broadband and general-purpose sound measurements?",
+      "context": [
+        "Noise Partner app can be used with minimal training and is perfect for simple broadband measurements, general-purpose sound pressure level measurements, and basic occupational, product and environmental noise measurements.",
+        "Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data."
+      ],
+      "answer": "Noise Partner"
+    },
+    {
+      "question": "Can the B&K 2245 be wirelessly operated from a mobile device?",
+      "context": [
+        "Your B&K 2245 sound level meter can be wirelessly controlled from your phone – you can even control multiple sound level meters simultaneously.",
+        "Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements."
+      ],
+      "answer": "Yes, it can be wirelessly operated from a mobile device."
+    },
+    {
+      "question": "Does the B&K 2245 support automated reporting features?",
+      "context": [
+        "Measurements can be exported to customizable Microsoft Excel templates for fast, easy and consistent reporting.",
+        "Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data."
+      ],
+      "answer": "Yes, it supports automated reporting via Excel templates."
+    }
+  ]

@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which loudspeaker should be used for measuring airborne sound insulation in residential buildings?",
+    "context": [
+      "Type 4292-L is a dodecahedral, high-power, omnidirectional loudspeaker designed to measure sound insulation and perform room acoustics measurements.",
+      "It uses 12 loudspeakers in a spherical configuration to radiate sound evenly.",
+      "Complies with ISO 16283, ISO 10140, and ISO 3382 standards for architectural acoustics.",
+      "Delivers peak performance between 100 Hz and 200 Hz, ideal for low-frequency measurements."
+    ],
+    "reference": "Type 4292-L"
+  },
+  {
+    "question": "What amplifier is recommended for driving the OmniPower sound source in concert hall reverberation tests?",
+    "context": [
+      "HBK 2755 Smart Power Amplifier is designed specifically for architectural acoustics and SPC measurements.",
+      "It includes a powerful signal generator preloaded with signals optimized for HBK sound sources.",
+      "Can be remotely controlled via Wi-Fi or manually operated.",
+      "Delivers up to 500 W into 4 Ω in bridged mode, suitable for large spaces."
+    ],
+    "reference": "HBK 2755"
+  },
+  {
+    "question": "Which amplifier version should be selected if remote control via mobile device is required?",
+    "context": [
+      "HBK 2755 includes Wi-Fi, allowing configuration and control from a PC or mobile device.",
+      "HBK 2755-A does not include Wi-Fi and is only operated via front panel controls."
+    ],
+    "reference": "HBK 2755"
+  },
+  {
+    "question": "What sound source is suitable for ISO 3382 compliant reverberation time measurements in office buildings?",
+    "context": [
+      "Type 4292-L OmniPower Sound Source satisfies ISO 3382 requirements.",
+      "Radiates sound evenly in all directions for reproducible results.",
+      "Lightweight and easy to transport, ideal for field measurements."
+    ],
+    "reference": "Type 4292-L"
+  },
+  {
+    "question": "Which amplifier integrates with the Building Acoustics Partner app for automatic configuration?",
+    "context": [
+      "HBK 2755 can be automatically configured and controlled by the Building Acoustics Partner mobile app for HBK 2255.",
+      "Ensures optimal settings for sound insulation measurements."
+    ],
+    "reference": "HBK 2755"
+  }
+]
