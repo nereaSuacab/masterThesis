@@ -1,7 +1,7 @@
 [
   {
     "id": "q1",
-    "question": "Which combination of Sound Level Meter and Software would a researcher need if they are seeking high accuracy measurements and the ability to export data?",
+    "question": "Which solution should a researcher use if they want High accuracy and data export?",
     "ground_truth_answer": "Potential products are Sound Level Meter 2245, Sound Level Meter 2255, Building Acoustic Software and Accessories and DIRAC software.",
     "ground_truth_segments": [
       {
@@ -59,7 +59,7 @@
   },
   {
     "id": "q2",
-    "question": "Which combination of Sound Level Meter and Software licenses would I need if I want compatibility with external analysis tools such as MATLAB?",
+    "question": "Which solution should I use if I want compatibility with analysis tools like matlab?",
     "ground_truth_answer": "Potential products are Sound Level Meter 2245, Sound Level Meter 2255, Building Acoustic Software and Accessories and DIRAC software.",
     "ground_truth_segments": [
       {
@@ -84,7 +84,7 @@
   },
   {
     "id": "q3",
-    "question": "Which Sound Level Meter and Software setup would be most suitable for a university group that plans to use it across different research and educational applications?",
+    "question": "Which solution is better for a university group? They want to use this solution in different applications.",
     "ground_truth_answer": "Potential products are Sound Level Meter 2245, Sound Level Meter 2255, Building Acoustic Software and Accessories and DIRAC software.",
     "ground_truth_segments": [
       {
@@ -112,7 +112,7 @@
   },
   {
     "id": "q4",
-    "question": "Which Sound Level Meter and Software configuration should I choose if I need to comply with noise regulations and automatically generate reports?",
+    "question": "I need a solution that complies with noise regulations and does automated reports.",
     "ground_truth_answer": "Potential products is the Sound Level Meter 2245 but it could upgrade to the Sound Level Meter 2255.",
     "ground_truth_segments": [
       {
@@ -134,7 +134,7 @@
   },
   {
     "id": "q5",
-    "question": "Which Sound Level Meter and related Software would be most suitable for measuring noise levels on a factory floor?",
+    "question": "Which solution should I use to measure noise levels in a factory floor?",
     "ground_truth_answer": "Potential products is the Sound Level Meter 2245 but it could upgrade to the Sound Level Meter 2255.",
     "ground_truth_segments": [
       {
@@ -147,7 +147,7 @@
   },
    {
     "id": "q6",
-    "question": "Which Sound Level Meter and Software combination should I use to verify whether a construction site complies with local noise regulations?",
+    "question": "What solution should I use to see if a construction site follows the noise regulations?",
     "ground_truth_answer": "Potential products is the Sound Level Meter 2245 but it could upgrade to the Sound Level Meter 2255.",
     "ground_truth_segments": [
       {
@@ -160,7 +160,7 @@
   },
    {
     "id": "q7",
-    "question": "Which Sound Level Meter and Accessories would I need to perform noise impact assessments that require GPS tagging and a weatherproof setup?",
+    "question": "Which solution should I use to conduct noise impact assessments? I need GPS tagging and the device to be weatherproof.",
     "ground_truth_answer": "Potential products is the Sound Level Meter 2255 with Accesories.",
     "ground_truth_segments": [
       {
@@ -176,7 +176,7 @@
   },
    {
     "id": "q8",
-    "question": "Which Sound Level Meter and Accessories should I use for long-term noise monitoring on a construction site, including automatic report generation?",
+    "question": "I want to monitore a contruction site. What should I use? I need long term logging and report generation.",
     "ground_truth_answer": "Potential products is the Sound Level Meter 2255 with Accesories.",
     "ground_truth_segments": [
       {
@@ -192,7 +192,7 @@
   },
    {
     "id": "q9",
-    "question": "Which Sound Level Meter and Accessories would be required for a solution that supports long-term logging, GPS tagging, weatherproofing, and automated reporting?",
+    "question": "I need a solution that covers, Long term logging, GPS tagging, weatherproofing and report generation.",
     "ground_truth_answer": "Potential products is the Sound Level Meter 2255 with Accesories.",
     "ground_truth_segments": [
       {
@@ -211,7 +211,7 @@
   },
    {
     "id": "q10",
-    "question": "Which Sound Level Meter, Amplifier, and Speaker setup should I use to perform acoustic measurements for building design evaluations?",
+    "question": "Which solution should I use to measure a building design?",
     "ground_truth_answer": "This solution would require the Sound Level Meter 2255, and they can also buy the 2755 Amplifier and the 4292-L speaker with Acesories.",
     "ground_truth_segments": [
       {
@@ -224,7 +224,7 @@
   },
    {
     "id": "q11",
-    "question": "Which combination of Sound Level Meter, Amplifier, and Speaker would I need to perform frequency analysis, reverberation time measurements, and ensure standards compliance?",
+    "question": "I need a solution for covering Frequency analysis, reverberation time and standards compliance.",
     "ground_truth_answer": "This solution would require the Sound Level Meter 2255, and they can also buy the 2755 Amplifier and the 4292-L speaker with Acesories.",
     "ground_truth_segments": [
       {
@@ -243,7 +243,7 @@
   },
      {
     "id": "q12",
-    "question": "Which Sound Level Meter, Amplifier, and Speaker configuration should I select to measure a residential building in accordance with ISO 3382?",
+    "question": "I need to measure a residential building and I need to follow the standard ISO 3382. Which solution should I use?",
     "ground_truth_answer": "This solution would require the Sound Level Meter 2255, and they can also buy the 2755 Amplifier and the 4292-L speaker with Acesories.",
     "ground_truth_segments": [
       {
@@ -259,7 +259,7 @@
   },
      {
     "id": "q13",
-    "question": "Which combination of products would be best suited for conducting room acoustics measurements?",
+    "question": "Which is the best solution to measure room acoustics?",
     "ground_truth_answer": "This solution would require the Sound Level Meter 2255, and they can also buy the 2755 Amplifier and the 4292-L speaker with Acesories.",
     "ground_truth_segments": [
       {
@@ -281,7 +281,7 @@
   },
      {
     "id": "q14",
-    "question": "Which Sound Level Meter and Software licenses would I need to perform sound power measurements using a multi-channel setup?",
+    "question": "I need to perform sound power measurements with a multi channel setup. Which solution should I use?",
     "ground_truth_answer": "This solution would require the Sound Level Meter 2245 with potentially multiple Software licenses",
     "ground_truth_segments": [
       {
@@ -300,7 +300,7 @@
   },
      {
     "id": "q15",
-    "question": "Which Sound Level Meter and Software configuration should I select to perform sound power measurements that comply with international standards?",
+    "question": "I need a solution that covers standard compliance to perform sound power measurements.",
     "ground_truth_answer": "This solution would require the Sound Level Meter 2245 with potentially multiple Software licenses",
     "ground_truth_segments": [
         {
@@ -316,7 +316,7 @@
   },
      {
     "id": "q16",
-    "question": "Which combination of Sound Level Meter and Accessories would I need if I am seeking a simple interface and an economically affordable solution?",
+    "question": "I want a solution with a simple interface and affordabe.",
     "ground_truth_answer": "The solution would require the Sound Level Meter 2245 with Accessories.",
     "ground_truth_segments": [
       {
@@ -344,7 +344,7 @@
   },
      {
     "id": "q17",
-    "question": "Which Sound Level Meter and Accessories should I choose if I need a portable solution for noise monitoring?",
+    "question": "I would like to have a solution for noise monitoring that is portable.",
     "ground_truth_answer": "The solution would require the Sound Level Meter 2245 with Accessories.",
     "ground_truth_segments": [
       {
@@ -369,7 +369,7 @@
   },
      {
     "id": "q18",
-    "question": "Which Sound Level Meter and Accessories would provide a basic logging capability together with a simple user interface?",
+    "question": "Which solutions gives basic logging and a simple interface?",
     "ground_truth_answer": "The solution would require the Sound Level Meter 2245 with Accessories.",
     "ground_truth_segments": [
       {
