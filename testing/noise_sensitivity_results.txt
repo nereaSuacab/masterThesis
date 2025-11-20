@@ -1,0 +1,84 @@
+=== Noise Sensitivity Evaluation Results ===
+
+Ground Truth Data Loaded:
+Query: Which solution is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards?
+Reference answer: DIRAC Room Acoustics Software with HBK 2255 and HBK 2755.
+Number of context texts: 3
+First context snippet: DIRAC Room Acoustics Software is used for measuring a wide range of room acoustical parameters. It supports wireless measurements using HBK 2255 Sound Level Meter and HBK 2755 Smart Power Amplifier. I...
+
+
+Dense Retrieval Results Loaded:
+Query: Which solution is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards?
+Number of retrieved texts: 2
+First retrieved text snippet: Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or thr...
+
+
+Sparse Retrieval Results Loaded:
+Query: Which solution is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards?
+Number of retrieved texts: 2
+First retrieved text snippet: 5  Regression line through the speech sound levels, indicating the spatial decay  of sound A similar graph can be generated for the speech transmission  index (STI) with a regression line to calculate...
+
+
+Chat Logs Loaded:
+Dense pairs found: 24
+Sparse pairs found: 24
+
+
+=== Evaluating Sparse RAG (NoiseSensitivity) ===
+Sparse - Query: Which solution is suitable for measuring room acoustics and ... Score: 0.6
+Sparse - Query: What product should be used for façade sound insulation test... Score: 0.0
+Sparse - Query: Which sound source is recommended for calibrated speech inte... Score: 1.0
+Sparse - Query: What sound source should be used for ISO 3382-compliant room... Score: 0.3333333333333333
+Sparse - Query: Which product supports compliance with ISO 9612 for workplac... Score: 0.5
+Sparse - Query: Which product is suitable for investigating environmental no... Score: 0.5
+Sparse - Query: Which product is designed for measuring exhaust noise in veh... Score: 0.0
+Sparse - Query: Which product helps verify safe noise emissions from toys an... Score: 0.6666666666666666
+Sparse - Query: Which HBK 2255 variant is best suited for long-term environm... Score: 0.2
+Sparse - Query: Which HBK 2255 variant should be used for evaluating workpla... Score: 0.0
+Sparse - Query: What HBK 2255 variant is recommended for sound insulation te... Score: 0.0
+Sparse - Query: Which software module allows isolating specific noise events... Score: 0.8333333333333334
+Sparse - Query: Which loudspeaker should be used for measuring airborne soun... Score: 0.0
+Sparse - Query: What amplifier is recommended for driving the OmniPower soun... Score: 0.0
+Sparse - Query: Which amplifier version should be selected if remote control... Score: 0.75
+Sparse - Query: What sound source is suitable for ISO 3382 compliant reverbe... Score: 0.0
+Sparse - Query: Which B&K 2245 variant is best suited for sound power measur... Score: 0.0
+Sparse - Query: What software is required on the B&K 2245 to comply with ISO... Score: 0.5
+Sparse - Query: Which B&K 2245 variant is suitable for environmental noise s... Score: 0.8
+Sparse - Query: What variant should be used for roadside exhaust noise enfor... Score: 0.3333333333333333
+Sparse - Query: Which sound level meter is best suited for a technician doin... Score: 0.25
+Sparse - Query: What product variant of HBK 2255 should a small business own... Score: 0.0
+Sparse - Query: Which HBK 2255 variant includes both environmental noise mon... Score: 0.0
+Sparse - Query: What sound level meter is recommended for community noise mo... Score: 0.6666666666666666
+
+=== Evaluating Dense RAG (NoiseSensitivity) ===
+Dense - Query: Which solution is suitable for measuring room acoustics and ... Score: 0.0
+Dense - Query: What product should be used for façade sound insulation test... Score: 0.6666666666666666
+Dense - Query: Which sound source is recommended for calibrated speech inte... Score: 0.0
+Dense - Query: What sound source should be used for ISO 3382-compliant room... Score: 0.0
+Dense - Query: Which product supports compliance with ISO 9612 for workplac... Score: 0.0
+Dense - Query: Which product is suitable for investigating environmental no... Score: 0.25
+Dense - Query: Which product is designed for measuring exhaust noise in veh... Score: 0.6666666666666666
+Dense - Query: Which product helps verify safe noise emissions from toys an... Score: 0.5
+Dense - Query: Which HBK 2255 variant is best suited for long-term environm... Score: 0.5
+Dense - Query: Which HBK 2255 variant should be used for evaluating workpla... Score: 0.0
+Dense - Query: What HBK 2255 variant is recommended for sound insulation te... Score: 0.0
+Dense - Query: Which software module allows isolating specific noise events... Score: 0.5
+Dense - Query: Which loudspeaker should be used for measuring airborne soun... Score: 0.0
+Dense - Query: What amplifier is recommended for driving the OmniPower soun... Score: 0.0
+Dense - Query: Which amplifier version should be selected if remote control... Score: 0.0
+Dense - Query: What sound source is suitable for ISO 3382 compliant reverbe... Score: 0.0
+Dense - Query: Which B&K 2245 variant is best suited for sound power measur... Score: 0.0
+Dense - Query: What software is required on the B&K 2245 to comply with ISO... Score: 0.0
+Dense - Query: Which B&K 2245 variant is suitable for environmental noise s... Score: 0.0
+Dense - Query: What variant should be used for roadside exhaust noise enfor... Score: 0.0
+Dense - Query: Which sound level meter is best suited for a technician doin... Score: 0.0
+Dense - Query: What product variant of HBK 2255 should a small business own... Score: 0.0
+Dense - Query: Which HBK 2255 variant includes both environmental noise mon... Score: 0.0
+Dense - Query: What sound level meter is recommended for community noise mo... Score: 0.0
+
+
+=== Summary Statistics ===
+Average Sparse RAG Score: 0.3306
+Average Dense RAG Score: 0.1285
+
+Results saved to: noise_sensitivity_results.txt
