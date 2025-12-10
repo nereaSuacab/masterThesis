@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-11-26T22:22:05.260068",
+    "timestamp": "2025-11-22T12:00:20.507684",
     "query": "Which solution is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:23:22.752723",
+    "timestamp": "2025-11-22T12:01:48.601154",
     "query": "What product should be used for fa\u00e7ade sound insulation testing on a construction site?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:25:07.815750",
+    "timestamp": "2025-11-22T12:03:33.091621",
     "query": "Which sound source is recommended for calibrated speech intelligibility measurements using DIRAC?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -102,7 +102,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:26:34.958930",
+    "timestamp": "2025-11-22T12:05:03.966501",
     "query": "What sound source should be used for ISO 3382-compliant room acoustics measurements?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -136,7 +136,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:28:18.931862",
+    "timestamp": "2025-11-22T12:06:56.472130",
     "query": "Which product supports compliance with ISO 9612 for workplace noise exposure?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -170,7 +170,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:29:41.522166",
+    "timestamp": "2025-11-22T12:08:24.145791",
     "query": "Which product is suitable for investigating environmental noise complaints?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -204,7 +204,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:30:46.268118",
+    "timestamp": "2025-11-22T12:09:29.296272",
     "query": "Which product is designed for measuring exhaust noise in vehicles?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:32:19.208912",
+    "timestamp": "2025-11-22T12:11:08.395701",
     "query": "Which product helps verify safe noise emissions from toys and machinery?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -272,7 +272,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:33:29.834128",
+    "timestamp": "2025-11-22T12:12:23.995377",
     "query": "Which HBK 2255 variant is best suited for long-term environmental noise monitoring in infrastructure projects?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:35:20.856118",
+    "timestamp": "2025-11-22T12:14:07.977384",
     "query": "Which HBK 2255 variant should be used for evaluating workplace noise exposure according to ISO 9612?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -340,7 +340,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:36:51.414005",
+    "timestamp": "2025-11-22T12:15:39.535188",
     "query": "What HBK 2255 variant is recommended for sound insulation testing in buildings?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -374,7 +374,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:38:27.669841",
+    "timestamp": "2025-11-22T12:17:13.782075",
     "query": "Which software module allows isolating specific noise events like barking dogs or traffic during environmental surveys?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -408,7 +408,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:39:58.795950",
+    "timestamp": "2025-11-22T12:18:34.100396",
     "query": "Which loudspeaker should be used for measuring airborne sound insulation in residential buildings?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -442,7 +442,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:41:16.395672",
+    "timestamp": "2025-11-22T12:19:54.892671",
     "query": "What amplifier is recommended for driving the OmniPower sound source in concert hall reverberation tests?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -476,7 +476,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:44:03.483680",
+    "timestamp": "2025-11-22T12:22:45.718843",
     "query": "Which amplifier version should be selected if remote control via mobile device is required?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -510,7 +510,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:46:11.989652",
+    "timestamp": "2025-11-22T12:24:55.687789",
     "query": "What sound source is suitable for ISO 3382 compliant reverberation time measurements in office buildings?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -544,7 +544,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:47:41.153405",
+    "timestamp": "2025-11-22T12:26:22.729774",
     "query": "Which B&K 2245 variant is best suited for sound power measurements in a product testing lab?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -578,7 +578,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:51:57.862961",
+    "timestamp": "2025-11-22T12:30:25.411962",
     "query": "What software is required on the B&K 2245 to comply with ISO 3744 for sound power testing?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -612,7 +612,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:53:13.230372",
+    "timestamp": "2025-11-22T12:31:40.664625",
     "query": "Which B&K 2245 variant is suitable for environmental noise surveys and regulation compliance?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -646,7 +646,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:55:02.426282",
+    "timestamp": "2025-11-22T12:33:33.691038",
     "query": "What variant should be used for roadside exhaust noise enforcement?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -680,7 +680,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:56:29.161621",
+    "timestamp": "2025-11-22T12:34:57.546377",
     "query": "Which sound level meter is best suited for a technician doing quick spot checks in urban environments?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -714,7 +714,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T22:58:45.959019",
+    "timestamp": "2025-11-22T12:37:11.092171",
     "query": "What product variant of HBK 2255 should a small business owner choose for basic environmental noise monitoring?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -748,7 +748,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T23:00:09.566677",
+    "timestamp": "2025-11-22T12:38:43.757232",
     "query": "Which HBK 2255 variant includes both environmental noise monitoring and a calibrator for accurate measurements?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,
@@ -782,7 +782,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-26T23:01:39.655716",
+    "timestamp": "2025-11-22T12:40:09.962850",
     "query": "What sound level meter is recommended for community noise monitoring with mobile app support?",
     "retriever": "BM25 (bm25s)",
     "top_k": 2,

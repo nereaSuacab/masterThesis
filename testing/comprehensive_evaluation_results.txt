@@ -1,0 +1,33 @@
+=== Comprehensive RAG Evaluation Results ===
+
+Ground Truth Data Loaded:
+Query: Which solution is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards?
+Reference answer: DIRAC Room Acoustics Software with HBK 2255 and HBK 2755.
+Number of context texts: 3
+First context snippet: DIRAC Room Acoustics Software is used for measuring a wide range of room acoustical parameters. It supports wireless measurements using HBK 2255 Sound Level Meter and HBK 2755 Smart Power Amplifier. I...
+
+
+Dense Retrieval Results Loaded:
+Query: Which solution is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards?
+Number of retrieved texts: 2
+First retrieved text snippet: Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or thr...
+
+
+Sparse Retrieval Results Loaded:
+Query: Which solution is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards?
+Number of retrieved texts: 2
+First retrieved text snippet: 5  Regression line through the speech sound levels, indicating the spatial decay  of sound A similar graph can be generated for the speech transmission  index (STI) with a regression line to calculate...
+
+
+Chat Logs Loaded:
+Dense pairs found: 24
+Sparse pairs found: 24
+
+
+============================================================
+=== Evaluating Sparse RAG - All Metrics ===
+============================================================
+
+
+[Sparse RAG - Query 1/24]
+Query: Which solution is suitable for measuring room acoustics and speech intelligibili...

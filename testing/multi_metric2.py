@@ -16,8 +16,8 @@ from langchain_community.chat_models import ChatOllama
 from ragas.llms import LangchainLLMWrapper
 
 import os
-# os.environ["OPENAI_API_KEY"] = "sk-2dab1dff9664477eadc6e88f99f37760"
-# os.environ["OPENAI_API_BASE"] = "https://api.deepseek.com"
+os.environ["OPENAI_API_KEY"] = "sk-ea25363437e1476fadd3e65759d42903"
+os.environ["OPENAI_API_BASE"] = "https://chat.campusai.compute.dtu.dk/api"  # or whatever DTU's endpoint is
 
 # Output files
 output_file = "comprehensive_evaluation_results.txt"
@@ -34,8 +34,17 @@ with open(output_file, "w", encoding="utf-8") as f:
     f.write("=== Comprehensive RAG Evaluation Results ===\n\n")
 
 # Initialize LLM
-llm = ChatOllama(model="llama3.1")
+# llm = ChatOllama(model="llama3.1")
+# evaluator_llm = LangchainLLMWrapper(llm)
+
+llm = ChatOpenAI(
+    model="DeepSeek-R1",  # or "DeepSeek-R1" - try both if one doesn't work
+    temperature=0,
+    max_retries=3,
+    request_timeout=120  # Increase timeout for complex evaluations
+)
 evaluator_llm = LangchainLLMWrapper(llm)
+
 
 # Load ground truth data
 path = r"gt.json"
