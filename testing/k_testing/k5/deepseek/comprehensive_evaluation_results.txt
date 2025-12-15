@@ -261,30 +261,30 @@ Query: Which product helps verify safe noise emissions from toys and machinery?.
 [Dense RAG - Query 9/24]
 Query: Which HBK 2255 variant is best suited for long-term environmental noise monitori...
   Faithfulness: 1.0000
-  Context Precision: 0.6792
-  Context Recall: 0.0000
-  Noise Sensitivity: ERROR - Request timed out.
+  Context Precision: 0.2000
+  Context Recall: 0.8000
+  Noise Sensitivity: 0.0000
 
 [Dense RAG - Query 10/24]
 Query: Which HBK 2255 variant should be used for evaluating workplace noise exposure ac...
-  Faithfulness: ERROR - Request timed out.
-  Context Precision: ERROR - Request timed out.
-  Context Recall: ERROR - Request timed out.
-  Noise Sensitivity: ERROR - Request timed out.
+  Faithfulness: 0.0000
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
 
 [Dense RAG - Query 11/24]
 Query: What HBK 2255 variant is recommended for sound insulation testing in buildings?...
-  Faithfulness: ERROR - Request timed out.
-  Context Precision: ERROR - Request timed out.
-  Context Recall: ERROR - Request timed out.
-  Noise Sensitivity: ERROR - Request timed out.
+  Faithfulness: 1.0000
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
 
 [Dense RAG - Query 12/24]
 Query: Which software module allows isolating specific noise events like barking dogs o...
-  Faithfulness: ERROR - Request timed out.
-  Context Precision: ERROR - Request timed out.
-  Context Recall: ERROR - Request timed out.
-  Noise Sensitivity: ERROR - Request timed out.
+  Faithfulness: 0.3333
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
 
 [Dense RAG - Query 13/24]
 Query: Which loudspeaker should be used for measuring airborne sound insulation in resi...

@@ -1,0 +1,25 @@
+Comparison,Approach,Metric,R1 Mean,R2 Mean,Δ,% Δ,p-value,Cohen's d,Sig
+Round 3 → Round 4,Dense,Faithfulness,0.600,0.697,+0.097,+16.1%,0.2466,0.296,
+Round 3 → Round 4,Dense,Context Precision,0.208,0.271,+0.062,+30.0%,0.4582,0.279,
+Round 3 → Round 4,Dense,Context Recall,0.180,0.242,+0.061,+33.9%,0.6973,0.228,
+Round 3 → Round 4,Dense,Noise Sensitivity,0.140,0.140,+0.000,+0.0%,1.0000,0.000,
+Round 4 → Round 5,Dense,Faithfulness,0.697,0.547,-0.150,-21.5%,0.1151,-0.375,
+Round 4 → Round 5,Dense,Context Precision,0.271,0.208,-0.062,-23.1%,0.4582,-0.279,
+Round 4 → Round 5,Dense,Context Recall,0.242,0.167,-0.075,-31.0%,0.4582,-0.293,
+Round 4 → Round 5,Dense,Noise Sensitivity,0.140,0.133,-0.007,-5.0%,0.7611,-0.028,
+Round 5 → Round 6,Dense,Faithfulness,0.547,0.563,+0.015,+2.8%,0.7278,0.060,
+Round 5 → Round 6,Dense,Context Precision,0.208,0.208,+0.000,+0.0%,1.0000,0.000,
+Round 5 → Round 6,Dense,Context Recall,0.167,0.167,+0.000,+0.0%,1.0000,0.000,
+Round 5 → Round 6,Dense,Noise Sensitivity,0.133,0.066,-0.067,-50.6%,0.4794,-0.246,
+Round 3 → Round 4,Sparse,Faithfulness,0.869,0.059,-0.810,-93.2%,0.0000,-3.424,***
+Round 3 → Round 4,Sparse,Context Precision,0.479,0.000,-0.479,-100.0%,0.0011,-0.959,**
+Round 3 → Round 4,Sparse,Context Recall,0.496,0.000,-0.496,-100.0%,0.0006,-1.013,***
+Round 3 → Round 4,Sparse,Noise Sensitivity,0.378,0.000,-0.378,-100.0%,0.0007,-0.918,***
+Round 4 → Round 5,Sparse,Faithfulness,0.059,0.849,+0.790,+1334.5%,0.0000,2.667,***
+Round 4 → Round 5,Sparse,Context Precision,0.000,0.417,+0.417,N/A,0.0022,0.865,**
+Round 4 → Round 5,Sparse,Context Recall,0.000,0.500,+0.500,N/A,0.0011,0.979,**
+Round 4 → Round 5,Sparse,Noise Sensitivity,0.000,0.381,+0.381,N/A,0.0023,0.855,**
+Round 5 → Round 6,Sparse,Faithfulness,0.849,0.795,-0.054,-6.3%,0.2535,-0.235,
+Round 5 → Round 6,Sparse,Context Precision,0.417,0.458,+0.042,+10.0%,0.7003,0.204,
+Round 5 → Round 6,Sparse,Context Recall,0.500,0.537,+0.037,+7.5%,0.4582,0.293,
+Round 5 → Round 6,Sparse,Noise Sensitivity,0.381,0.367,-0.015,-3.8%,0.7768,-0.055,

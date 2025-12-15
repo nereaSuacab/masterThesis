@@ -41,7 +41,7 @@ llm = ChatOpenAI(
     model="DeepSeek-R1",  # or "DeepSeek-R1" - try both if one doesn't work
     temperature=0,
     max_retries=3,
-    request_timeout=120  # Increase timeout for complex evaluations
+    request_timeout=400  # Increase timeout for complex evaluations
 )
 evaluator_llm = LangchainLLMWrapper(llm)
 
@@ -215,20 +215,20 @@ def write_arrays_to_file(dense_arrays, sparse_arrays):
 async def main():
     """Main execution function"""
     
-    # Evaluate Sparse RAG
-    sparse_scores, sparse_arrays = await evaluate_metrics(
-        "Sparse",
-        query_texts_pairs,
-        query_retrieved_pairs_sparse,
-        sparse_pairs
-    )
-    
     # Evaluate Dense RAG
     dense_scores, dense_arrays = await evaluate_metrics(
         "Dense",
         query_texts_pairs,
         query_retrieved_pairs_dense,
         dense_pairs
+    )
+    
+    # Evaluate Sparse RAG
+    sparse_scores, sparse_arrays = await evaluate_metrics(
+        "Sparse",
+        query_texts_pairs,
+        query_retrieved_pairs_sparse,
+        sparse_pairs
     )
     
     # Write arrays to file
@@ -241,20 +241,20 @@ async def main():
     
     metric_names = ['faithfulness', 'context_precision', 'context_recall', 'noise_sensitivity']
     
-    write_output("Sparse RAG Averages:")
+    write_output("Dense RAG Averages:")
     write_output("-" * 40)
     for metric_name in metric_names:
-        scores = [score for _, score in sparse_scores[metric_name] if score is not None]
+        scores = [score for _, score in dense_scores[metric_name] if score is not None]
         if scores:
             avg = sum(scores) / len(scores)
             write_output(f"  {metric_name.replace('_', ' ').title()}: {avg:.4f}")
         else:
             write_output(f"  {metric_name.replace('_', ' ').title()}: N/A")
     
-    write_output("\nDense RAG Averages:")
+    write_output("\nSparse RAG Averages:")
     write_output("-" * 40)
     for metric_name in metric_names:
-        scores = [score for _, score in dense_scores[metric_name] if score is not None]
+        scores = [score for _, score in sparse_scores[metric_name] if score is not None]
         if scores:
             avg = sum(scores) / len(scores)
             write_output(f"  {metric_name.replace('_', ' ').title()}: {avg:.4f}")

@@ -8,71 +8,17 @@ from matplotlib.backends.backend_pdf import PdfPages
 questions = ['q1','q2','q3','q4','q5','q6','q7','q8','q9','q10','q11','q12',
              'q13','q14','q15','q16','q17','q18','q19','q20','q21','q22','q23','q24']
 
-########################## ROUND 3 #############################
+# Dense RAG Metrics
+faithfulness_dense = [0.17, 0.25, 0.0, 0.67, 0.67, 0.67, 1.0, 0.33, 0.75, 0.0, 0.33, 0.5, 1.0, 1.0, 0.0, 0.75, 0.4, 0.33, 0.5, 1.0, 0.67, 1.0, 0.67, 0.5]
+context_precision_dense = [0.0, 0.0, 1.0, 0.85, 0.0, 1.0, 1.0, 1.0, 0.73, 0.0, 0.0, 0.0, 0.0, 0.14, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+context_recall_dense = [0.0, 0.0, 1.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.8, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+noise_sensitivity_dense = [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.25, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.33, 0.0, 0.0, 0.0, 0.0, 0.33, 0.57]
 
-# faithfulness_dense = [0.2, 1, 0.2, 0.8, 0.5, 0.75, 1, 0.5, 0.75, 1, 0.5, 0.67, 1, 0.2, 0.6, 0.33, 0.714, 0.25, 0.4, 1, 0.714, 0.125, 1, 0.5]
-# faithfulness_sparse = [0.8, 0.6, 0.4, 0.67, 0.75, 1, 1, 1, 0.6, 0.67, 0.67, 1, 0.5, 0.5, 0.75, 0.67, 0.33, 1, 0.75, 0.5, 0.75, 0.67, 0.5, 0.83]
-
-# context_precision_dense = [0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0]
-# context_precision_sparse = [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0.5, 0]
-
-# context_recall_dense = [0, 0, 1, 0, 1, 1, 0.5, 0.67, 0, 0, 0, 0.67, 0.67, 0, 0.67, 0, 1, 1, 1, 0.22, 0.5, 1, 0.5, 0.5]
-# context_recall_sparse = [0, 0.5, 0.5, 1, 0.47, 0.5, 1, 0.5, 0, 0.5, 0.25, 0.14, 0, 0.17, 0.5, 1, 0, 0.5, 0.67, 0.5, 0, 0, 0.5, 0]
-
-# noise_sensitivity_dense = [0, 0.67, 0, 0, 0, 0.25, 0.67, 0.5, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-# noise_sensitivity_sparse = [0.6, 0, 1, 0.33, 0.5, 0.5, 0, 0.67, 0.2, 0, 0, 0.83, 0, 0, 1, 0, 0, 0.5, 0.75, 0.33, 0.25, 0, 0, 0.67]
-
-########################## ROUND 4 #############################
-
-# faithfulness_dense = [0, 1, 0.67, 0.5, 0.67, 0.75, 1, 0.67, 0.67, 1, 0.5, 0.67, 0.8, 1, 0.4, 0.75, 0.5, 0.25, 0.5, 1, 0.5, 0.33, 0.78, 0.8]
-# faithfulness_sparse = [0, 1, 0, 0, 0, 0, 0, 0.25, 0.5, 1, 0.67, 0, 0.25, 0, 0.75, 0.75, 1, 0, 0.25, 0, 1, 0.571, 0, 0.22]
-
-# context_precision_dense = [0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0.5, 0.5, 1, 1, 0, 0, 1, 1, 1]
-# context_precision_sparse = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-
-# context_recall_dense = [0, 0, 0.5, 0, 1, 1, 0.5, 0.67, 0.35, 0, 0, 0.67, 0.67, 0, 0.67, 0, 0, 1, 1, 0.125, 0, 0.57, 0.5, 0.57]
-# context_recall_sparse = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
-
-# noise_sensitivity_dense = [0, 0.25, 0.33, 0, 0, 0.25, 0, 0.33, 0, 0, 0, 0, 0, 0, 0.2, 0, 0, 0, 0.25, 0, 0.167, 0, 0, 0.8]
-# noise_sensitivity_sparse = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-
-########################## ROUND 5 #############################
-
-# faithfulness_dense = [0.25, 1, 0, 0.33, 0.5, 0.5, 1, 0.67, 0.67, 0, 0.33, 0.6, 0.67, 0.67, 0.5, 0.5, 0.25, 0.2, 0.75, 1, 0.25, 0.75, 0, 0.6]
-# faithfulness_sparse = [0.75, 0.67, 0.25, 0.67, 1, 1, 0.5, 1, 0.67, 1, 0.4, 1, 1, 0.5, 0.5, 0.5, 0.5, 1, 0.33, 1, 1, 0.33, 0.5, 1]
-
-# context_precision_dense = [0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0]
-# context_precision_sparse = [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0]
-
-# context_recall_dense = [0, 0, 1, 0, 1, 1, 0.5, 0.67, 0, 0, 0, 0.67, 0, 0, 0.67, 0, 1, 1, 1, 0.125, 0.5, 1, 0, 0.5]
-# context_recall_sparse = [1, 0.5, 0.33, 1, 0.14, 0.5, 0.4, 1, 0.5, 0, 0.25, 0.5, 0.077, 0.16, 0.5, 1, 0, 1, 1, 0.5, 0.5, 0, 0.5, 0]
-
-# noise_sensitivity_dense = [0, 0.5, 0, 0, 0, 0.16, 0, 0.33, 0, 0, 0, 0.2, 0, 0, 0.25, 0, 0, 0, 0, 0, 0, 0, 0, 0.2]
-# noise_sensitivity_sparse = [0.5, 0, 0, 0.33, 0.67, 0.2, 0.5, 0.5, 0, 0, 0, 1, 0, 0, 0.75, 0, 0, 1, 0.67, 0.5, 0.33, 0, 0, 0.25]
-
-
-########################## ROUND 6 #############################
-
-# faithfulness_dense = [0.67, 1.0, 0.5, 0.5, 0.5, 0.5, 1.0, 0.67, 0.4, 0.33, 0.33, 0.6, 0.67, 0.67, 0.67, 0.67, 0.6, 1.0, 0.4, 1.0, 1.0, 0.25, 0.0, 0.6]
-# context_precision_dense = [0.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-# context_recall_dense = [0.0, 0.0, 0.5, 0.0, 1.0, 1.0, 0.5, 0.67, 0.0, 0.0, 0.0, 0.67, 0.67, 0.0, 0.67, 0.0, 1.0, 1.0, 1.0, 0.12, 0.5, 1.0, 0.67, 0.5]
-# noise_sensitivity_dense = [0.0, 0.5, 0.0, 0.0, 0.0, 0.17, 0.0, 0.67, 0.0, 0.0, 0.0, 0.6, 0.0, 0.0, 0.67, 0.0, 0.0, 0.0, 0.2, 0.0, 0.0, 0.0, 0.0, 0.4]
-
-# faithfulness_sparse = [0.67, 1.0, 0.25, 0.67, 1.0, 1.0, 1.0, 0.67, 0.75, 0.75, 1.0, 1.0, 0.67, 0.5, 0.5, 0.5, 0.5, 1.0, 0.5, 1.0, 0.83, 0.8, 0.0, 1.0]
-# context_precision_sparse = [1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 1.0, 1.0, 0.0]
-# context_recall_sparse = [1.0, 0.5, 0.33, 1.0, 0.2, 0.5, 0.17, 0.71, 0.5, 0.5, 0.83, 0.5, 0.07, 0.17, 0.5, 1.0, 0.0, 1.0, 1.0, 0.5, 0.5, 0.0, 0.0, 0.0]
-# noise_sensitivity_sparse = [0.17, 0.0, 0.0, 0.67, 0.0, 0.75, 0.33, 0.33, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.5, 0.0, 0.0, 0.5, 0.25, 0.5, 0.17, 0.0, 0.0, 0.6]
-
-########################## k = 3 ###########################
-faithfulness_dense = [0.25, 1.0, 0.0, 0.67, 0.0, 0.67, 0.6, 0.5, 0.2, 0.0, 0.67, 0.5, 0.67, 1.0, 0.5, 1.0, 1.0, 0.33, 0.2, 0.75, 1.0, 0.67, 0.5, 0.5]
-context_precision_dense = [0.0, 0.0, 1.0, 1.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-context_recall_dense = [0.0, 0.0, 1.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-noise_sensitivity_dense = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5, 0.75, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5]
-
-faithfulness_sparse = [1.0, 1.0, 1.0, 1.0, 0.5, 0.67, 0.67, 0.5, 0.6, 1.0, 1.0, 1.0, 1.0, 0.5, 1.0, 0.5, 0.67, 1.0, 0.67, 1.0, 1.0, 0.5, 0.0, 1.0]
-context_precision_sparse = [1.0, 0.0, 1.0, 1.0, 0.58, 0.58, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-context_recall_sparse = [1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-noise_sensitivity_sparse = [1.0, 0.0, 1.0, 1.0, 0.5, 0.5, 1.0, 0.5, 0.67, 0.0, 0.0, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.25]
+# Sparse RAG Metrics
+faithfulness_sparse = [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.8, 1.0, 1.0, 0.67, 1.0, 0.5, 0.29, 1.0, 1.0, 1.0, 1.0, 1.0, 0.88, 0.4, 0.0, 0.75]
+context_precision_sparse = [0.97, 0.14, 0.9, 1.0, 0.73, 0.68, 0.73, 1.0, 0.0, 0.0, 0.0, 1.0, 0.14, 0.67, 1.0, 0.7, 0.0, 0.82, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+context_recall_sparse = [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.5, 0.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+noise_sensitivity_sparse = [1.0, 0.25, 1.0, 1.0, 0.0, 1.0, 0.67, 1.0, 0.6, 0.0, 0.0, 0.67, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
 
 
 # Verify all arrays have 24 elements
@@ -142,7 +88,7 @@ def get_totals(i):
 with PdfPages('rag_dense_vs_sparse_analysis.pdf') as pdf:
     
     # =========================================================================
-    # PAGE 1: OVERVIEW (FIXED)
+    # PAGE 1: OVERVIEW WITH SUMMARY TABLE
     # =========================================================================
     fig = plt.figure(figsize=(14, 10))
     fig.suptitle('RAG Dense vs Sparse - Analysis Overview', fontsize=16, fontweight='bold')
@@ -179,7 +125,7 @@ with PdfPages('rag_dense_vs_sparse_analysis.pdf') as pdf:
         ax1.annotate(f'{h:.2f}', xy=(bar.get_x() + bar.get_width()/2, h),
                     xytext=(0, 3), textcoords="offset points", ha='center', fontsize=8)
 
-    # 1.2 Radar Chart (FIXED - using add_subplot with polar projection)
+    # 1.2 Radar Chart
     ax2 = fig.add_subplot(gs[0, 1], projection='polar')
     categories_radar = ['Faithfulness', 'Ctx Precision', 'Ctx Recall', 'Noise Sens.']
     N = len(categories_radar)
@@ -198,6 +144,56 @@ with PdfPages('rag_dense_vs_sparse_analysis.pdf') as pdf:
     ax2.set_ylim(0, 1)
     ax2.set_title('Comparative Profile', pad=20)
     ax2.legend(loc='upper right', bbox_to_anchor=(1.3, 1))
+    
+    # 1.3 Summary Table (NEW - Left bottom)
+    ax3 = fig.add_subplot(gs[1, 0])
+    ax3.axis('off')
+    
+    # Calculate averages
+    summary_data = [
+        ['Metric', 'Dense', 'Sparse', 'Difference'],
+        ['Faithfulness', f'{calc_avg(faithfulness_dense):.3f}', 
+         f'{calc_avg(faithfulness_sparse):.3f}', 
+         f'{calc_avg(faithfulness_dense)-calc_avg(faithfulness_sparse):.3f}'],
+        ['Context Precision', f'{calc_avg(context_precision_dense):.3f}', 
+         f'{calc_avg(context_precision_sparse):.3f}', 
+         f'{calc_avg(context_precision_dense)-calc_avg(context_precision_sparse):.3f}'],
+        ['Context Recall', f'{calc_avg(context_recall_dense):.3f}', 
+         f'{calc_avg(context_recall_sparse):.3f}', 
+         f'{calc_avg(context_recall_dense)-calc_avg(context_recall_sparse):.3f}'],
+        ['Noise Sensitivity', f'{calc_avg(noise_sensitivity_dense):.3f}', 
+         f'{calc_avg(noise_sensitivity_sparse):.3f}', 
+         f'{calc_avg(noise_sensitivity_dense)-calc_avg(noise_sensitivity_sparse):.3f}'],
+    ]
+    
+    table = ax3.table(cellText=summary_data, loc='center', cellLoc='center')
+    table.auto_set_font_size(False)
+    table.set_fontsize(10)
+    table.scale(1.2, 2.0)
+    
+    # Style the header row
+    for i in range(4):
+        table[(0, i)].set_facecolor('#12365D')
+        table[(0, i)].set_text_props(fontweight='bold', color='white')
+    
+    # Color the difference column based on values (for Dense - Sparse)
+    for i in range(1, 5):
+        cell = table[(i, 3)]
+        diff_val = float(summary_data[i][3])
+        
+        # For noise sensitivity, lower is better (so negative difference is good for dense)
+        if i == 4:  # Noise Sensitivity row
+            if diff_val < 0:
+                cell.set_facecolor('#d4edda')  # Light green (dense is better)
+            elif diff_val > 0:
+                cell.set_facecolor('#f8d7da')  # Light red (sparse is better)
+        else:  # For other metrics, higher is better
+            if diff_val > 0:
+                cell.set_facecolor('#d4edda')  # Light green (dense is better)
+            elif diff_val < 0:
+                cell.set_facecolor('#f8d7da')  # Light red (sparse is better)
+    
+    ax3.set_title('Average Metrics Summary', pad=20, fontweight='bold', fontsize=12)
     
     # 1.4 Statistics Table
     ax4 = fig.add_subplot(gs[1, 1])
@@ -264,8 +260,8 @@ with PdfPages('rag_dense_vs_sparse_analysis.pdf') as pdf:
     plt.close()
     
 
-# =========================================================================
-    # PAGE 3: CATEGORY ANALYSIS (FIXED)
+    # =========================================================================
+    # PAGE 3: CATEGORY ANALYSIS
     # =========================================================================
     fig = plt.figure(figsize=(16, 12))
     fig.suptitle('RAG Dense vs Sparse - Performance by Question Category', fontsize=16, fontweight='bold')
@@ -304,10 +300,6 @@ with PdfPages('rag_dense_vs_sparse_analysis.pdf') as pdf:
     
     # Create GridSpec for layout
     gs = fig.add_gridspec(3, 2, hspace=0.35, wspace=0.3)
-    
-    # =========================================================================
-    # OPCIÓN 1: Individual Metrics by Category (4 subplots)
-    # =========================================================================
     
     # 3.1 Faithfulness by Category
     ax1 = fig.add_subplot(gs[0, 0])
@@ -402,4 +394,6 @@ for i in range(len(questions)):
         win_sparse += 1
     else:
         tie += 1
-    
+
+print("PDF generated successfully: rag_dense_vs_sparse_analysis.pdf")
+print(f"\nOverall question wins: Dense={win_dense}, Sparse={win_sparse}, Tie={tie}")

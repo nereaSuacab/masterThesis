@@ -358,7 +358,7 @@ Query: What product variant of HBK 2255 should a small business owner choose for
 
 [Dense RAG - Query 23/24]
 Query: Which HBK 2255 variant includes both environmental noise monitoring and a calibr...
-  Faithfulness: nan
+  Faithfulness: 0.0000
   Context Precision: 0.0000
   Context Recall: 0.0000
   Noise Sensitivity: 0.0000

@@ -69,11 +69,7 @@ Query: Which product is suitable for investigating environmental noise complaint
   Faithfulness: 1.0000
   Context Precision: 0.6792
   Context Recall: 1.0000
-  Noise Sensitivity: ERROR - Failed to parse StringIO from completion {"statements": [{"statement": "The Enviro Noise Partner is a complete toolset.", "reason": "The context describes the app as excellent for adding markers and isolating sounds but does not explicitly state it is a 'complete toolset'.", "verdict": 0}, {"statement": "The Enviro Noise Partner can be used to investigate environmental noise complaints.", "reason": "The context explicitly mentions investigating noise complaints as one of the user scenarios.", "verdict": 1}, {"statement": "The Enviro Noise Partner allows measurement and reporting of environmental noise concerns.", "reason": "The context states that measurements can be exported for reporting and includes measuring ambient noise levels, which implies it allows measurement and reporting.", "verdict": 1}, {"statement": "The Enviro Noise Partner includes features such as broadband parameters, 1/1- or 1/3-octave band frequency analysis, and logging down to 1 s intervals.", "reason": "The context does not mention these specific technical features.", "verdict": 0}]}. Got: 1 validation error for StringIO
-text
-  Field required [type=missing, input_value={'statements': [{'stateme...tures.', 'verdict': 0}]}, input_type=dict]
-    For further information visit https://errors.pydantic.dev/2.11/v/missing
-For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+  Noise Sensitivity: 1.0000
 
 [Sparse RAG - Query 7/24]
 Query: Which product is designed for measuring exhaust noise in vehicles?...
