@@ -1,0 +1,758 @@
+{
+    "Which solution is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards?": [
+        {
+            "rank": 1,
+            "score": 0.814459279810641,
+            "text": "Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n",
+            "metadata": {
+                "file_name": "Dirac_Room_Acoustics_Software_-_7841.txt",
+                "doc_id": "e23ba94b-46ff-4742-a92c-392732fd09bf",
+                "window": "Based on the measurement and analysis of impulse responses, the tool supports a variety of measurement configurations.\n DIRAC supports wireless room acoustics measurements when connected to\nHBK 2255 Sound Level Meter\nas a wireless microphone, and/or\nHBK 2755 Smart Power Amplifier\nas a wireless sound source.  Multi-channel measurements can be made using multiple HBK 2255’s, or with most Windows compatible multi-channel sound devices.\n Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily.  The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters.  The Echo/DIRAC combination also takes into account background noise levels.\n",
+                "original_text": "Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.814459279810641,
+            "text": "Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n\n",
+            "metadata": {
+                "file_name": "Dirac_Room_Acoustics_Software_-_7841.txt",
+                "doc_id": "e23ba94b-46ff-4742-a92c-392732fd09bf",
+                "window": "Users can compare the acoustics of one room with another, validate sound systems and perform scale model measurements.Based on the measurement and analysis of impulse responses, the tool supports a variety of measurement configurations.\n\n DIRAC supports wireless room acoustics measurements when connected toHBK 2255 Sound Level Meteras a wireless microphone, and/orHBK 2755 Smart Power Amplifieras a wireless sound source.  Multi-channel measurements can be made using multiple HBK 2255’s, or with most Windows compatible multi-channel sound devices.\n\n Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n\n In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily.  The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters.  The Echo/DIRAC combination also takes into account background noise levels.\n\n",
+                "original_text": "Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n\n"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.814459279810641,
+            "text": "Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n",
+            "metadata": {
+                "file_name": "Dirac_Room_Acoustics_Software_-_7841.txt",
+                "doc_id": "075e7bd1-08f7-4b9f-a9e4-61a6b7c75ee8",
+                "window": "Based on the measurement and analysis of impulse responses, the tool supports a variety of measurement configurations.\n DIRAC supports wireless room acoustics measurements when connected to\nHBK 2255 Sound Level Meter\nas a wireless microphone, and/or\nHBK 2755 Smart Power Amplifier\nas a wireless sound source.  Multi-channel measurements can be made using multiple HBK 2255’s, or with most Windows compatible multi-channel sound devices.\n Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily.  The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters.  The Echo/DIRAC combination also takes into account background noise levels.\n",
+                "original_text": "Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or through direct injection into a sound system, taking into account the impact of background noise.\n"
+            }
+        }
+    ],
+    "What product should be used for façade sound insulation testing on a construction site?": [
+        {
+            "rank": 1,
+            "score": 0.774113314957312,
+            "text": "To perform sound insulation tests as described in this documentation, you will need HBK 2255 Sound Level Meter with\nBuilding Acoustics Partner and a sound source. The sound source can be HBK 2755 Smart Power Amplifier and\nOmniPower Sound Source Type 4292-L, or it can be a different sound source that fulfils the requirements of the stand-\nard to which you are testing.\nIf you are testing impact sound insulation, a sound source such as Tapping Machine Type 3207 is recommended.\nHowever, with Building Acoustics Partner, it is possible to use any equipment which fulfils the requirements of the stand-\nA few other helpful accessories include a sound calibrator and a rigid extension rod for the microphone (UA-0049). The\nsound calibrator can be used to document the quality of your data, or it can help troubleshoot a problem. The extension\nrod can make manual scans using the cylinder transverse and corner measurements for the low-frequency method of\nl HBK 2255 Sound Level Meter with Building Acoustics Partner (mobile and PC applications)\nl OmniPower™Sound Source Type 4292-L with UA-1690 (tripod)\nl HBK 2755 Smart Power Amplifier\nl Sound Calibrator Type 4231\nl Tapping Machine Type 3207\nl Optional tripods for HBK 2255: UA-0801 or UA-0750\nBuilding Acoustics Partner supports a wide variety of national standards as well as ISO standards, for both field and labor-\nYou can only use one standard per project.\nThe mobile app and the PC app include information about which version of the standard Building Acoustics Partner sup-\nThe mobile app and the PC app have many common functions. Both apps can be used to create projects, configure pro-\nject settings, and view measurements and results. The biggest differences in functionality are that the mobile app is\nused for measurements and the PC app is used to create reports.\nDownload the Building Acoustics Partner mobile app from the App Store®.\nThe app can be installed onto an iOS-based phone or tablet. See supported iOS versions for current app version in the\nApp Store, under Building Acoustics Partner > Information > Compatibility.\nYou will be informed of updates via the App Store.",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "8433a060-9296-4be1-b552-dad0e3179f74"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7600706237233653,
+            "text": "This means that you will know on site whether \nyour construction under test fulfils the minimum requirements of \nthe local building regulations. \nFig. 9  Left: With the required data measured, final results are shown, including the reference curve. For some results, the volume of the receiving room and the area of the \npartition must be entered; Right: Example of the final results\nOther Tasks\nFacade Sound Insulation\nFacade sound insulation is a variant of airborne sound insulation, \nwith its own standards. The ‘source room’ is the space outside the \nfacade, and the sound source may be road traffic or a loudspeaker \nrepresenting outdoor noise. When using traffic noise, the indoor \nand outdoor sound levels must be measured simultaneously, \nrequiring 2-channel measurements (Type 2270 only).\nImpact Sound Insulation\nImpact sound is typically caused by footsteps, and to measure \nimpact sound insulation a standardized impact sound source \n(tapping machine) is placed in the source room. The receiving \nroom levels are measured as for airborne sound insulation, with \nseveral positions of the tapping machine.",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 2250 2270.txt",
+                "doc_id": "a580ee96-026b-4360-8a4d-cd203b50f00f"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7572812400562469,
+            "text": "See Measurement reuse for more information about reusing measurements in your Building Acoustics Partner project.\nSound insulation tests can be performed on new buildings or on renovations of existing buildings. Ideally, the building is\nessentially finished, with all doors and windows installed, but unfurnished. Ideally, electrical work is complete and elec-\ntricity is supplied to the building. Work at the building should be stopped when measuring. Soft floor coverings, unless a\npermanent installation, should not be installed.\nIt is very hard to get a good average of low-frequency levels in small rooms. For this reason, some standards (such as\nISO 16283) include measurement procedures which are used to adjust low-frequency bands in sound insulation cal-\nculations. For ISO 16283, the procedures are for measurements below 100 Hz where the source or receiving room is\nBuilding Acoustics Partner includes an option to extend the lower limit of the frequency range down to 20 Hz.",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "e497bbd3-e650-4201-b9b5-fb4f53e81ab9"
+            }
+        }
+    ],
+    "Which sound source is recommended for calibrated speech intelligibility measurements using DIRAC?": [
+        {
+            "rank": 1,
+            "score": 0.8298491702147461,
+            "text": "The speech source was developed \nspecifically for use with DIRAC and delivers fully calibrated \nsignals for various measurement conditions.\nEcho Speech Source features: \nFully calibrated sound levels and spectra\nReference speech signal at 1 m: 60 dB(A)\nFive built-in stimulus signals\nMounts on common tripods\nExternal input and output\nCompact and lightweight (10 × 10 × 17 cm, 1 kg)\nYou can also measure speech intelligibility through a sound \nreinforcement system using that system’s loudspeakers and \nobtaining the excitation signal directly from DIRAC or an external \ndevice such as Echo Speech Source or a CD or digital audio \nplayer. A range of excitation signals comes with DIRAC. \nFig. 13 The omnidirectional sound source OmniPower Type 4292-L is recommended \nfor ISO 3382 compliant measurements\nFig. 14 Echo Speech Source Type 4720 is the preferred source for speech \nintelligibility measurements\nMeasurement Methods\nDIRAC supports several impulse response measuring methods that differ by stimulus type, signal source and receiver type.\nThe available stimuli cover all possible measurement scenarios.",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - Dirac SW.txt",
+                "doc_id": "ae880ce0-b66d-4f8e-ad8b-608a6ab10fd4"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.8196109559132523,
+            "text": "In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily. The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters. The Echo/DIRAC combination also takes into account background noise levels.\nUsing OmniPower Sound Source Type 4292-L, the speech signal levels, impulse response and the background noise levels can all be acquired in a single pass. Plots of the STI vs. source-receiver distance can be created with a few mouse clicks.\nWith the minimum amount of measurements, DIRAC gives you L\np,A,S\n, L\np,A,S,4\n, D\n2,S\n, STI, r\nD\nand r\nP\n.\nCAPABILITIES\nMulti-channel room acoustics\nCompliant with ISO 3382 (room acoustics),",
+            "metadata": {
+                "file_name": "Dirac_Room_Acoustics_Software_-_7841.txt",
+                "doc_id": "daa921ea-bbd3-467f-bf92-a4a51beb58a9"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.8191902330240663,
+            "text": "In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily. The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters. The Echo/DIRAC combination also takes into account background noise levels.\n\nUsing OmniPower Sound Source Type 4292-L, the speech signal levels, impulse response and the background noise levels can all be acquired in a single pass. Plots of the STI vs. source-receiver distance can be created with a few mouse clicks.\n\nWith the minimum amount of measurements, DIRAC gives you Lp,A,S, Lp,A,S,4, D2,S, STI, rDand rP.\n\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.",
+            "metadata": {
+                "file_name": "Dirac_Room_Acoustics_Software_-_7841.txt",
+                "doc_id": "daa921ea-bbd3-467f-bf92-a4a51beb58a9"
+            }
+        }
+    ],
+    "What sound source should be used for ISO 3382-compliant room acoustics measurements?": [
+        {
+            "rank": 1,
+            "score": 0.8153237733742563,
+            "text": "12 HBK 2755\nRT [s]\nFrequency [Hz]\nThe Sound Sources\nA loudspeaker sound source can be used instead of an impulsive \nsound source. The ISO 3382 standard requires an omnidirectional \nsound source, such as OmniPower Type 4292-L, to measure room \nacoustical parameters.\nType 4292-L features: \nOmnidirectional (12-loudspeaker dodecahedral configuration)\nLightweight (8 kg)\nMaximum sound power of 122 dB re 1 pW (100 – 3150 Hz)\nConforming with DIN 52210, ISO 140 and ISO 3382 standards\nYou can use the Echo Speech Source Type 4720 to simulate a \nreal speaker in speech intelligibility measurements according to \nthe IEC 60268-16 standard. The speech source was developed \nspecifically for use with DIRAC and delivers fully calibrated \nsignals for various measurement conditions.",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - Dirac SW.txt",
+                "doc_id": "ae880ce0-b66d-4f8e-ad8b-608a6ab10fd4"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.8066530649409364,
+            "text": "The sound level depends on the position in the rooms, so several \nmicrophone positions are used to measure the average of the \nsource room level, L1, the average of the receiving room level L2 \nand the average of the background noise level B2. The average \nreverberation time T2 is also measured using several positions.\nFig. 2  Typical configuration for building acoustics measurements: sound source, \namplifier, analyzer (including signal generator) and PC for reporting\nFig.",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 2250 2270.txt",
+                "doc_id": "a580ee96-026b-4360-8a4d-cd203b50f00f"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.8041576708211732,
+            "text": "Fig. 2  Typical configuration for building acoustics measurements: sound source, \namplifier, analyzer (including signal generator) and PC for reporting\nFig. 3  Sound source and microphone positions for measuring airborne sound \ninsulation L1 = Source room level; L2 = Receiving room level; \nB2 = Background level; T2 = Reverberation Time\nwith BZ-7228\nBuilding Acous\u0002cs\nBuilding Acous\u0002cs\n4292-L OmniPower\nHBK 2755\nSource Room\nReceiving Room\nSource Pos 1\nSource Pos 2\nVolume V\nMic Pos 1\nMic Pos n\nMic Pos n\nMic Pos 1\nArea S\nIn Touch with your Measurements\nThe spectra required (L1, L2, etc.) can be measured in any order, \nto suit field conditions and your preferences. Fig. 4 shows a \ntypical building acoustics display when you are ready to measure \nthe first L2 position, with source position 1.\nFig. 4  Typical single-channel Spectrum display when you are ready to measure the first L2 position, with source position 1\nThe instantaneous (live) spectrum is shown and the high-\nresolution, colour touchscreen shows the setup, status and data \nat a glance. Using the stylus (or navigation pushbuttons) you can \ndirectly activate the indicated features (except those with dashed \nlines in Fig. 4). You can check the generator and loudspeaker \nsignal level by tapping the Generator icon to switch the generator \non and off.\n2-channel measurements (Type 2270 only) are as easy as single-\nchannel measurements with the advantage that you can reduce \nthe total measurement time by measuring source and receiver \npositions simultaneously or by measuring two positions in the \nsame room simultaneously.\nFig. 5  Typical single-channel Overview display\nFig. 6  Type 2270 connected to two microphones through the Dual 10-pole Adaptor \nBroadband levels\nJob path\nSound field\nInstant. level\nView tabs\nY scale\nSpectrum (Instant.)\nSpectrum (Leq)\nElapsed time\nMeasurement status\nGenerator icon\nAnnotation icon\nReverberation Time\nReverberation time (RT) is an important parameter describing the \nacoustic quality of a room or space.",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 2250 2270.txt",
+                "doc_id": "d0fe23af-4745-454d-a7b3-13e6f8f44e86"
+            }
+        }
+    ],
+    "Which product supports compliance with ISO 9612 for workplace noise exposure?": [
+        {
+            "rank": 1,
+            "score": 0.7899192923819407,
+            "text": "To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n ",
+            "metadata": {
+                "file_name": "Work_Noise_Partner_2245.txt",
+                "doc_id": "656b581d-5323-4f11-84ad-d3a0ae63b0da",
+                "window": "Together with an B&K 2245 sound level meter, Work Noise Partner is a complete, focused toolset for measuring occupational noise-related concerns, such as noise exposure surveys and risk mitigation for noise-induced hearing loss.  To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n  Mobile App\n\nTogether with an B&K 2245 sound level meter, Work Noise Partner is a complete, focused toolset for measuring occupational noise-related concerns, such as noise exposure surveys and risk mitigation for noise-induced hearing loss.  To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n  Mobile App\n\nTogether with an B&K 2245 sound level meter, Work Noise Partner is a complete, focused toolset for measuring occupational noise-related concerns, such as noise exposure surveys and risk mitigation for noise-induced hearing loss.  To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n Mobile App\nOnce the Work Noise Partner app is downloaded to your phone from the App Store\n®\n, all Work Noise Partner capabilities can be wirelessly controlled from your phone. ",
+                "original_text": "To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7899192923819407,
+            "text": "To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n\n",
+            "metadata": {
+                "file_name": "Work_Noise_Partner_2245.txt",
+                "doc_id": "656b581d-5323-4f11-84ad-d3a0ae63b0da",
+                "window": "USER SCENARIOS\nTask- or job-based noise exposure surveys according to ISO 9612\nPrevention of hearing loss\nManaging noise exposure\nEnsuring compliance with regulations\nMeasurements for hearing protection selection\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n Together with an B&K 2245 sound level meter, Work Noise Partner is a complete, focused toolset for measuring occupational noise-related concerns, such as noise exposure surveys and risk mitigation for noise-induced hearing loss.  To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n\n Once the Work Noise Partner app is downloaded to your phone from the App Store®, all Work Noise Partner capabilities can be wirelessly controlled from your phone.  Additionally, the mobile app organizes measurements into tasks and exposure groups and allows workday noise exposure calculations, where the user assigns a task duration to calculate a dose.  Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements.\n\n",
+                "original_text": "To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n\n"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7899192923819407,
+            "text": "To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n\n",
+            "metadata": {
+                "file_name": "Work_Noise_Partner_2245.txt",
+                "doc_id": "d43c6e83-beed-49b5-bbfb-8d7de8609f40",
+                "window": "USER SCENARIOS\nTask- or job-based noise exposure surveys according to ISO 9612\nPrevention of hearing loss\nManaging noise exposure\nEnsuring compliance with regulations\nMeasurements for hearing protection selection\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n Together with an B&K 2245 sound level meter, Work Noise Partner is a complete, focused toolset for measuring occupational noise-related concerns, such as noise exposure surveys and risk mitigation for noise-induced hearing loss.  To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n\n Once the Work Noise Partner app is downloaded to your phone from the App Store®, all Work Noise Partner capabilities can be wirelessly controlled from your phone.  Additionally, the mobile app organizes measurements into tasks and exposure groups and allows workday noise exposure calculations, where the user assigns a task duration to calculate a dose.  Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements.\n\n",
+                "original_text": "To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n\n"
+            }
+        }
+    ],
+    "Which product is suitable for investigating environmental noise complaints?": [
+        {
+            "rank": 1,
+            "score": 0.770535123163957,
+            "text": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2245.txt",
+                "doc_id": "398f17a0-72f3-4552-b8f1-ef3818a59360",
+                "window": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n Together with an B&K 2245 sound level meter, Enviro Noise Partner is a complete, focused toolset for measuring and reporting on environmental noise concerns.  With an Enviro Noise Partner license installed, your sound level meter can acquire a wide range of broadband parameters including statistics, provide 1/1- or 1/3-octave band frequency analysis, and conduct logging down to 1 s intervals.  These capabilities ensure that you get the right data for your job to do. ",
+                "original_text": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.770535123163957,
+            "text": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2245.txt",
+                "doc_id": "b3b56b88-ff2a-4559-9223-6c1b37d48bf7",
+                "window": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n Together with an B&K 2245 sound level meter, Enviro Noise Partner is a complete, focused toolset for measuring and reporting on environmental noise concerns.  With an Enviro Noise Partner license installed, your sound level meter can acquire a wide range of broadband parameters including statistics, provide 1/1- or 1/3-octave band frequency analysis, and conduct logging down to 1 s intervals.  These capabilities ensure that you get the right data for your job to do. ",
+                "original_text": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.770535123163957,
+            "text": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2245.txt",
+                "doc_id": "13560abd-9fa1-4456-af59-29a84d67a727",
+                "window": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n Together with an B&K 2245 sound level meter, Enviro Noise Partner is a complete, focused toolset for measuring and reporting on environmental noise concerns.  With an Enviro Noise Partner license installed, your sound level meter can acquire a wide range of broadband parameters including statistics, provide 1/1- or 1/3-octave band frequency analysis, and conduct logging down to 1 s intervals.  These capabilities ensure that you get the right data for your job to do. ",
+                "original_text": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+            }
+        }
+    ],
+    "Which product is designed for measuring exhaust noise in vehicles?": [
+        {
+            "rank": 1,
+            "score": 0.775913007818458,
+            "text": "B&K 2245 is type approved by PTB and CEM.\nMobile App\nDownloading the Noise Partner app to your phone from the App Store\n®\nenables the measurement to be wirelessly controlled from a mobile device by a single person – from the driver’s seat of the vehicle or safely on the no-traffic side of the vehicle. Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements.\nPC App\nWhen the measurement is finished, the data can be transferred to a PC, wirelessly or with the supplied USB cable. Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.\nUSER SCENARIOS\nStationary exhaust noise testing according to ISO 5130, SAE J1169, SAE J1492 or SAE J1287\nRoadside exhaust noise regulation enforcement\n\nCHARACTERISTICS\nColour LCD with a bright, clean layout – most important information shown with a clear indication of measurement status with colour header\nSingle-person operation with the mobile app\nMeasurement status light ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 14 hours operation with Wi-Fi\n®\nenabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth\n®\nLow Energy for connection to mobile and PC apps.\nSingle, weatherproof USB-C connector for charging, data transfer to PC and more\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nWe haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nThis B&K 2245 Sound Level Meter solution is a focused toolset for measuring exhaust noise. Rated IP55, this system is durable enough to be used in the shop or on the street.",
+            "metadata": {
+                "file_name": "Exhaust_Noise_Partner_2245.txt",
+                "doc_id": "4acd8c95-f2f0-4187-a753-894efa52f819"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.773717086619568,
+            "text": "Product: Exhaust Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-exhaust-noise\n================================================================================\n\nExhaust noise measurement solution for testing light vehicles and noise level enforcement with a streamlined workflow and toolset that minimizes the risk of error while still requiring minimal training.\n\n",
+            "metadata": {
+                "file_name": "Exhaust_Noise_Partner_2245.txt",
+                "doc_id": "7bc577a5-dad6-43c1-ae21-0b626014beac",
+                "window": "Product: Exhaust Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-exhaust-noise\n================================================================================\n\nExhaust noise measurement solution for testing light vehicles and noise level enforcement with a streamlined workflow and toolset that minimizes the risk of error while still requiring minimal training.\n\n This B&K 2245 Sound Level Meter solution is a focused toolset for measuring exhaust noise.  Rated IP55, this system is durable enough to be used in the shop or on the street.  Whether you are performing stationary exhaust noise testing in a workshop or performing street-side spot checks for law enforcement, this task-focused solution is the ideal tool. ",
+                "original_text": "Product: Exhaust Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-exhaust-noise\n================================================================================\n\nExhaust noise measurement solution for testing light vehicles and noise level enforcement with a streamlined workflow and toolset that minimizes the risk of error while still requiring minimal training.\n\n"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.773717086619568,
+            "text": "Product: Exhaust Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-exhaust-noise\n================================================================================\n\nExhaust noise measurement solution for testing light vehicles and noise level enforcement with a streamlined workflow and toolset that minimizes the risk of error while still requiring minimal training.\n\n",
+            "metadata": {
+                "file_name": "Exhaust_Noise_Partner_2245.txt",
+                "doc_id": "5961c547-6758-4c8d-ab61-e9a82ee4e8d6",
+                "window": "Product: Exhaust Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-exhaust-noise\n================================================================================\n\nExhaust noise measurement solution for testing light vehicles and noise level enforcement with a streamlined workflow and toolset that minimizes the risk of error while still requiring minimal training.\n\n This B&K 2245 Sound Level Meter solution is a focused toolset for measuring exhaust noise.  Rated IP55, this system is durable enough to be used in the shop or on the street.  Whether you are performing stationary exhaust noise testing in a workshop or performing street-side spot checks for law enforcement, this task-focused solution is the ideal tool. ",
+                "original_text": "Product: Exhaust Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-exhaust-noise\n================================================================================\n\nExhaust noise measurement solution for testing light vehicles and noise level enforcement with a streamlined workflow and toolset that minimizes the risk of error while still requiring minimal training.\n\n"
+            }
+        }
+    ],
+    "Which product helps verify safe noise emissions from toys and machinery?": [
+        {
+            "rank": 1,
+            "score": 0.7811365569407933,
+            "text": "Together with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. ",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2245.txt",
+                "doc_id": "8c8cd8ad-eaf2-47b7-bd11-bdb4339f23c3",
+                "window": "B&K 2245 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can be harnessed by any user, from novice to acoustics specialist.\n\n Together with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1.  B&K 2245 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can be harnessed by any user, from novice to acoustics specialist.\n\n Together with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1.  B&K 2245 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can be harnessed by any user, from novice to acoustics specialist.\n The Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations and help promote a safe and healthier environment.\n MOBILE APP\nWith the Product Noise Partner app downloaded to your phone from the App Store\n®\n,the sound level meter can connect to your mobile phone via Wi-Fi\n®\nand be operated away from the sound field via an unparalleled mobile-app control interface. ",
+                "original_text": "Together with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7811365569407933,
+            "text": "Together with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. ",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2245.txt",
+                "doc_id": "7e840247-e17a-4f11-88b7-4cefdda1052c",
+                "window": "Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.\n\n USER SCENARIOS\nMeasuring and reporting of sound power levels in accordance with ISO 3744 and ISO 3746 standards to demonstrate product compliance with noise specifications for legislation or commendation\nAssessing noise emissions from toys according to EN 71-1\nDetermining noise emissions of machinery and equipment for ensuring compliance with standards or benchmarking for comparisons\nDetermining sound pressure levels at workstations\nR&D and quality assurance testing products for analysis to identify and evaluate prominent discrete tones and impulsive noise\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n Together with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1.  B&K 2245 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can be harnessed by any user, from novice to acoustics specialist.\n\n The Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations and help promote a safe and healthier environment.\n\n With the Product Noise Partner app downloaded to your phone from the App Store®,the sound level meter can connect to your mobile phone via Wi-Fi®and be operated away from the sound field via an unparalleled mobile-app control interface. ",
+                "original_text": "Together with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. "
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7811365569407933,
+            "text": "Together with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. ",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2245.txt",
+                "doc_id": "408c461b-2c98-4b5e-bf81-a4f48fcc79c0",
+                "window": "Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.\n\n USER SCENARIOS\nMeasuring and reporting of sound power levels in accordance with ISO 3744 and ISO 3746 standards to demonstrate product compliance with noise specifications for legislation or commendation\nAssessing noise emissions from toys according to EN 71-1\nDetermining noise emissions of machinery and equipment for ensuring compliance with standards or benchmarking for comparisons\nDetermining sound pressure levels at workstations\nR&D and quality assurance testing products for analysis to identify and evaluate prominent discrete tones and impulsive noise\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n Together with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1.  B&K 2245 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can be harnessed by any user, from novice to acoustics specialist.\n\n The Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations and help promote a safe and healthier environment.\n\n With the Product Noise Partner app downloaded to your phone from the App Store®,the sound level meter can connect to your mobile phone via Wi-Fi®and be operated away from the sound field via an unparalleled mobile-app control interface. ",
+                "original_text": "Together with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. "
+            }
+        }
+    ],
+    "Which HBK 2255 variant is best suited for long-term environmental noise monitoring in infrastructure projects?": [
+        {
+            "rank": 1,
+            "score": 0.7931763966007017,
+            "text": "Measurements can be exported to customizable Microsoft\n®\nExcel\n®\ntemplates for fast, easy and consistent reporting.\n\nUSER SCENARIOS\nAttended environmental noise surveys of noise from commerce, industry and transportation\nMeasuring existing ambient noise levels for pre-project planning\nVerifying compliance with environmental noise regulations\nInvestigating noise complaints\nADDITIONAL CAPABILITIES\nOther task-focused apps for HBK 2255 sound level meter include:\nWork Noise Partner – evaluate workplace noise to ensure compliance with regulations and safeguard employee safety, including determining the need and level for hearing protection. The interface guides you through a full survey and requires minimal training to ensure valid and actionable data\nProduct Noise Partner – determine sound power emissions, or measure sound pressure levels, according to international standards for regulatory compliance, benchmarking and labelling.",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2255.txt",
+                "doc_id": "16fae8de-e225-43a5-a4b2-ebf7cb5c231b"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7796692377801235,
+            "text": "You can import measurements from the dose meter into a Work Noise Partner project and combine that data with measurements from HBK 2255 to compare and analyse as needed. A separate licence is not required.\n\nUSER SCENARIOS\nTask- or job-based noise exposure surveys according to ISO 9612\nPrevention of hearing loss\nManaging noise exposure\nEnsuring compliance with regulations\nMeasurements for hearing protection selection\nADDITIONAL CAPABILITIES\nOther task-focused apps for HBK 2255 sound level meter include:\nEnviro Noise Partner – evaluate environmental noise to ensure compliance with standards. The focused toolset ensures that you have all the tools needed for the job, including markers to isolate sounds (exclude superfluous noise or mark pertinent noise for further examination) and checklists to ensure the job is done correctly\nProduct Noise Partner – determine sound power emissions, or measure sound pressure levels, according to international standards for regulatory compliance, benchmarking and labelling.",
+            "metadata": {
+                "file_name": "Work_Noise_Partner_2255.txt",
+                "doc_id": "0b192409-df41-433d-9916-129947a647ec"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7780476125465849,
+            "text": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2255/2255-enviro-noise\n================================================================================\n\nThis solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\nEnviro Noise Partner for HBK 2255 Sound Level Meter\nTogether with an HBK 2255 sound level meter, Enviro Noise Partner is a complete, focused toolset for measuring and reporting on environmental noise concerns. With an Enviro Noise Partner license installed, your sound level meter can acquire a wide range of broadband parameters including statistics, provide 1/1- or 1/3-octave band frequency analysis, and conduct logging down to 1 s intervals. These capabilities ensure that you get the right data for your job to do. Additionally, the sound level meter can make high-quality audio recordings to aid in identifying specific incidents.\n\nEnviro Noise Partner for HBK 2255 Sound Level Meter\nTogether with an HBK 2255 sound level meter, Enviro Noise Partner is a complete, focused toolset for measuring and reporting on environmental noise concerns. With an Enviro Noise Partner license installed, your sound level meter can acquire a wide range of broadband parameters including statistics, provide 1/1- or 1/3-octave band frequency analysis, and conduct logging down to 1 s intervals. These capabilities ensure that you get the right data for your job to do. Additionally, the sound level meter can make high-quality audio recordings to aid in identifying specific incidents.\n\nEnviro Noise Partner for HBK 2255 Sound Level Meter\nTogether with an HBK 2255 sound level meter, Enviro Noise Partner is a complete, focused toolset for measuring and reporting on environmental noise concerns. With an Enviro Noise Partner license installed, your sound level meter can acquire a wide range of broadband parameters including statistics, provide 1/1- or 1/3-octave band frequency analysis, and conduct logging down to 1 s intervals. These capabilities ensure that you get the right data for your job to do. Additionally, the sound level meter can make high-quality audio recordings to aid in identifying specific incidents.",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2255.txt",
+                "doc_id": "c0b3d81e-3550-4655-ba70-acc8b76475c4"
+            }
+        }
+    ],
+    "Which HBK 2255 variant should be used for evaluating workplace noise exposure according to ISO 9612?": [
+        {
+            "rank": 1,
+            "score": 0.8218934349639008,
+            "text": "You can import measurements from the dose meter into a Work Noise Partner project and combine that data with measurements from HBK 2255 to compare and analyse as needed. A separate licence is not required.\n\nUSER SCENARIOS\nTask- or job-based noise exposure surveys according to ISO 9612\nPrevention of hearing loss\nManaging noise exposure\nEnsuring compliance with regulations\nMeasurements for hearing protection selection\nADDITIONAL CAPABILITIES\nOther task-focused apps for HBK 2255 sound level meter include:\nEnviro Noise Partner – evaluate environmental noise to ensure compliance with standards. The focused toolset ensures that you have all the tools needed for the job, including markers to isolate sounds (exclude superfluous noise or mark pertinent noise for further examination) and checklists to ensure the job is done correctly\nProduct Noise Partner – determine sound power emissions, or measure sound pressure levels, according to international standards for regulatory compliance, benchmarking and labelling.",
+            "metadata": {
+                "file_name": "Work_Noise_Partner_2255.txt",
+                "doc_id": "0b192409-df41-433d-9916-129947a647ec"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.8202548679982888,
+            "text": "To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n Mobile App\n\nWork Noise Partner for HBK 2255 Sound Level Meter\nTogether with an HBK 2255 sound level meter, Work Noise Partner is a complete, focused toolset for measuring occupational noise-related concerns, such as noise exposure surveys and risk mitigation for noise-induced hearing loss. To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\nMobile App\nOnce the Work Noise Partner app is downloaded to your phone from the App Store\n®\n, all Work Noise Partner capabilities can be wirelessly controlled from your phone. Additionally, the mobile app organizes measurements into tasks and exposure groups and allows workday noise exposure calculations, where the user assigns a task duration to calculate a dose. Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements.\nPC App\nWhen the survey is finished, the data can be transferred to a PC, wirelessly or with the supplied USB cable.",
+            "metadata": {
+                "file_name": "Work_Noise_Partner_2255.txt",
+                "doc_id": "0b192409-df41-433d-9916-129947a647ec"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.8110595801261274,
+            "text": "Just like the mobile app, the Work Noise Partner PC app organizes measurements into tasks or exposure groups that can then be added to a workday exposure calculation. If the mobile app has been used to organize measurements or calculate workday noise exposures, they can be imported to your PC. To further minimize the need for additional training, the software is preconfigured with the tools needed to calculate exposure, create formatted reports, export data and calculations to a Microsoft\n®\nExcel\n®\nspreadsheet.\nThe Work Noise Partner PC software also works with Personal Noise Dosimeter Type 4448. You can import measurements from the dose meter into a Work Noise Partner project and combine that data with measurements from HBK 2255 to compare and analyse as needed. A separate licence is not required.\n\nUSER SCENARIOS\nTask- or job-based noise exposure surveys according to ISO 9612\nPrevention of hearing loss\nManaging noise exposure\nEnsuring compliance with regulations\nMeasurements for hearing protection selection\nADDITIONAL CAPABILITIES\nOther task-focused apps for HBK 2255 sound level meter include:\nEnviro Noise Partner – evaluate environmental noise to ensure compliance with standards. The focused toolset ensures that you have all the tools needed for the job, including markers to isolate sounds (exclude superfluous noise or mark pertinent noise for further examination) and checklists to ensure the job is done correctly\nProduct Noise Partner – determine sound power emissions, or measure sound pressure levels, according to international standards for regulatory compliance, benchmarking and labelling. Full workflow support simplifies your task and minimizes the chance of errors\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nWe haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.",
+            "metadata": {
+                "file_name": "Work_Noise_Partner_2255.txt",
+                "doc_id": "90b48fd4-50a9-47a5-9fc0-d16beab47e0f"
+            }
+        }
+    ],
+    "What HBK 2255 variant is recommended for sound insulation testing in buildings?": [
+        {
+            "rank": 1,
+            "score": 0.8084017670183878,
+            "text": "Product: Building Acoustic Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2255/2255-building-acoustics\n================================================================================\n\nTogether with HBK 2255 Sound Level Meter and HBK’s architectural sound sources, this solution is all you need for airborne, impact and façade sound insulation testing, from measurement to finished report.\n\nBuilding Acoustics partner for HBK 2255 Sound Level Meter\nHBK 2255 Sound Level Meter with Building Acoustics Partner is designed specifically for building acoustics measurements. Lightweight and robust, HBK 2255 and its accessories are ideally suited for use on real-world building sites, where dust and debris are more commonplace than functioning elevators.  \n With the Building Acoustics Partner license installed, HBK 2255 can measure everything you need for sound insulation measurements, from 1/1- or 1/3-octave band level measurements to reverberation time measurements with interrupted or impulsive noise signals.",
+            "metadata": {
+                "file_name": "Building_Acoustic_Partner_2255.txt",
+                "doc_id": "0919bedd-6e9d-4530-8550-215810d2faa3"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.8072496138284293,
+            "text": "This means that you will know on site whether \nyour construction under test fulfils the minimum requirements of \nthe local building regulations. \nFig. 9  Left: With the required data measured, final results are shown, including the reference curve. For some results, the volume of the receiving room and the area of the \npartition must be entered; Right: Example of the final results\nOther Tasks\nFacade Sound Insulation\nFacade sound insulation is a variant of airborne sound insulation, \nwith its own standards. The ‘source room’ is the space outside the \nfacade, and the sound source may be road traffic or a loudspeaker \nrepresenting outdoor noise. When using traffic noise, the indoor \nand outdoor sound levels must be measured simultaneously, \nrequiring 2-channel measurements (Type 2270 only).\nImpact Sound Insulation\nImpact sound is typically caused by footsteps, and to measure \nimpact sound insulation a standardized impact sound source \n(tapping machine) is placed in the source room. The receiving \nroom levels are measured as for airborne sound insulation, with \nseveral positions of the tapping machine.",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 2250 2270.txt",
+                "doc_id": "a580ee96-026b-4360-8a4d-cd203b50f00f"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.8042834193675945,
+            "text": "When used for sound insulation measurements, the Building Acoustics Partner mobile app for the HBK 2255 Sound Level Meter automatically configures and controls HBK 2755, ensuring the optimal settings are used for every measurement.\n\n",
+            "metadata": {
+                "file_name": "Type_2755.txt",
+                "doc_id": "901dbccd-22a6-400e-b4be-b9edd2b3d8fd",
+                "window": "HBK 2755 can be operated manually with the gain and signal generator controls on the front panel, or remotely controlled over Wi-Fi®.  All connectors and controls are on the front for easy access, and the gain setting is clearly visible on the integrated display.  For flexibility, the amplifier has XLR, jack and BNC input sockets.\n When used for sound insulation measurements, the Building Acoustics Partner mobile app for the HBK 2255 Sound Level Meter automatically configures and controls HBK 2755, ensuring the optimal settings are used for every measurement.\n\n HBK 2755 Smart Power Amplifier is designed specifically for architectural acoustics and SPC measurements.  Its powerful signal generator is preloaded with signals optimized for HBK sound sources for a range of applications and frequency spans.  Compact, lightweight, and robust, it is easy to transport to any measurement location.\n",
+                "original_text": "When used for sound insulation measurements, the Building Acoustics Partner mobile app for the HBK 2255 Sound Level Meter automatically configures and controls HBK 2755, ensuring the optimal settings are used for every measurement.\n\n"
+            }
+        }
+    ],
+    "Which software module allows isolating specific noise events like barking dogs or traffic during environmental surveys?": [
+        {
+            "rank": 1,
+            "score": 0.8022658328451502,
+            "text": "This makes it very easy to mark events and isolate sounds so that you can, for example, exclude a barking dog from a measurement. ",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2245.txt",
+                "doc_id": "b3b56b88-ff2a-4559-9223-6c1b37d48bf7",
+                "window": "Additionally, the sound level meter can make high-quality audio recordings to aid in identifying specific incidents.\n Mobile App\nOnce the Enviro Noise Partner app is downloaded to your phone from the App Store\n®\n, your B&K 2245 sound level meter can be wirelessly controlled from your phone – you can even control multiple sound level meters simultaneously.  All measurement capabilities are available from the app, with intuitive measurement profile screens that enable you to pinch the graph to zoom or swipe it to move back and forth through time.  This makes it very easy to mark events and isolate sounds so that you can, for example, exclude a barking dog from a measurement.  Measurement audio can be streamed to your phone while measuring, useful in situations where you cannot be physically close to the sound level meter, or to listen for wind-induced noise.  Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements to document your work.\n PC App\nWith the accompanying PC app, all data can be transferred to a PC, wirelessly or with the supplied USB cable. ",
+                "original_text": "This makes it very easy to mark events and isolate sounds so that you can, for example, exclude a barking dog from a measurement. "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.8022658328451502,
+            "text": "This makes it very easy to mark events and isolate sounds so that you can, for example, exclude a barking dog from a measurement. ",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2245.txt",
+                "doc_id": "398f17a0-72f3-4552-b8f1-ef3818a59360",
+                "window": "We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n Once the Enviro Noise Partner app is downloaded to your phone from the App Store®, your B&K 2245 sound level meter can be wirelessly controlled from your phone – you can even control multiple sound level meters simultaneously.  All measurement capabilities are available from the app, with intuitive measurement profile screens that enable you to pinch the graph to zoom or swipe it to move back and forth through time.  This makes it very easy to mark events and isolate sounds so that you can, for example, exclude a barking dog from a measurement.  Measurement audio can be streamed to your phone while measuring, useful in situations where you cannot be physically close to the sound level meter, or to listen for wind-induced noise.  Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements to document your work.\n\n With the accompanying PC app, all data can be transferred to a PC, wirelessly or with the supplied USB cable. ",
+                "original_text": "This makes it very easy to mark events and isolate sounds so that you can, for example, exclude a barking dog from a measurement. "
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.8022658328451502,
+            "text": "This makes it very easy to mark events and isolate sounds so that you can, for example, exclude a barking dog from a measurement. ",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2245.txt",
+                "doc_id": "13560abd-9fa1-4456-af59-29a84d67a727",
+                "window": "We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n Once the Enviro Noise Partner app is downloaded to your phone from the App Store®, your B&K 2245 sound level meter can be wirelessly controlled from your phone – you can even control multiple sound level meters simultaneously.  All measurement capabilities are available from the app, with intuitive measurement profile screens that enable you to pinch the graph to zoom or swipe it to move back and forth through time.  This makes it very easy to mark events and isolate sounds so that you can, for example, exclude a barking dog from a measurement.  Measurement audio can be streamed to your phone while measuring, useful in situations where you cannot be physically close to the sound level meter, or to listen for wind-induced noise.  Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements to document your work.\n\n With the accompanying PC app, all data can be transferred to a PC, wirelessly or with the supplied USB cable. ",
+                "original_text": "This makes it very easy to mark events and isolate sounds so that you can, for example, exclude a barking dog from a measurement. "
+            }
+        }
+    ],
+    "Which loudspeaker should be used for measuring airborne sound insulation in residential buildings?": [
+        {
+            "rank": 1,
+            "score": 0.7798668265533257,
+            "text": "Fig. 1  Hand-held Analyzer Types 2270 and 2250, respectively\nTasks in Building Acoustics\nFig. 2 shows a typical configuration for the most common task in \nbuilding acoustics measurements: airborne sound insulation.\nFig. 3 shows a typical airborne task setup using a loudspeaker \n(emitting pink noise) and a number of microphone positions to \nmeasure the average source room spectrum L1, and the average \nreceiving room spectrum L2. The average background noise \nspectrum B2 is also measured to verify the true L2 spectrum.\nThe average reverberation time spectrum, T2, is measured to \ncorrect for the amount of absorption in the receiving room. Finally, \nthe single number result (for example: DnTw) is calculated from the \nL1, L2, B2 and T2 spectra, and the result can then be compared \nwith the minimum requirements stated in the building regulations.",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 2250 2270.txt",
+                "doc_id": "a580ee96-026b-4360-8a4d-cd203b50f00f"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7718869852426207,
+            "text": "Airborne sound insulation measurements assess the reduction of airborne sound from the source room to the receiving\nroom. ",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "03c2bd27-dc18-41d0-afd3-b741c052030e",
+                "window": "For each test, a result spectrum and single-number result is cal-\nculated and reported.  The report format must follow international and national standards.\n There are three types of tests: airborne sound insulation, impact sound insulation and façade sound insulation.\n Airborne sound insulation measurements assess the reduction of airborne sound from the source room to the receiving\nroom.  Airborne tests characterize the acoustic performance of the sound insulation by the relative reduction in sound\nlevels through the separating partition.  The higher the level, the better the results.\n Airborne sound insulation is calculated from the spatially averaged sound pressure levels in the source and receiving\nrooms, adjusted for the background levels and reverberation time in the receiving room. ",
+                "original_text": "Airborne sound insulation measurements assess the reduction of airborne sound from the source room to the receiving\nroom. "
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7718869852426207,
+            "text": "Airborne sound insulation measurements assess the reduction of airborne sound from the source room to the receiving\nroom. ",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+                "window": "For each test, a result spectrum and single-number result is cal-\nculated and reported.  The report format must follow international and national standards.\n There are three types of tests: airborne sound insulation, impact sound insulation and façade sound insulation.\n Airborne sound insulation measurements assess the reduction of airborne sound from the source room to the receiving\nroom.  Airborne tests characterize the acoustic performance of the sound insulation by the relative reduction in sound\nlevels through the separating partition.  The higher the level, the better the results.\n Airborne sound insulation is calculated from the spatially averaged sound pressure levels in the source and receiving\nrooms, adjusted for the background levels and reverberation time in the receiving room. ",
+                "original_text": "Airborne sound insulation measurements assess the reduction of airborne sound from the source room to the receiving\nroom. "
+            }
+        }
+    ],
+    "What amplifier is recommended for driving the OmniPower sound source in concert hall reverberation tests?": [
+        {
+            "rank": 1,
+            "score": 0.7175478777270156,
+            "text": "Example settings for reverberation time measurements using an amplifier that is not HBK 2755:\nl Source type = Manual\nThe following tables contain information about all settings used for all types of sound insulation tests (for all\nstandards) and room background noise tests. ",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "61b80a37-a52f-4a77-81ad-f1c8925a7d1d",
+                "window": "l Build-up time = 1 second\nStabilization of sound levels should take about one second in ordinary rooms, but it can take longer in larger\nThe Source control settings for T2 measurements are enabled when Building Acoustics Partner is set to use the inter-\nrupted noise method: Sound insulation setup > Measurement control T2 > Excitation = Interrupted noise.\n Go to: Sound insulation setup > Source control T2.\n Example settings for reverberation time measurements using HBK 2755:\nl Source type = HBK 2755\nl Noise type = Pink\nl Escape time = 0 seconds\nl Build-up time = 1 second\nl Output gain = 0\nl Power compression compensation = Disabled\nYou will not generally need power compression compensation when making reverberation time measurements\nas the sound source is not active for a long period of time.\n Example settings for reverberation time measurements using an amplifier that is not HBK 2755:\nl Source type = Manual\nThe following tables contain information about all settings used for all types of sound insulation tests (for all\nstandards) and room background noise tests.  Some of the settings will apply to your setup and some of the settings will\nnot apply to your setup.\n The last table contains information about a few settings which are available only in the mobile app.\n Settings that apply to the project as a whole.\n",
+                "original_text": "Example settings for reverberation time measurements using an amplifier that is not HBK 2755:\nl Source type = Manual\nThe following tables contain information about all settings used for all types of sound insulation tests (for all\nstandards) and room background noise tests. "
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7175478777270156,
+            "text": "Example settings for reverberation time measurements using an amplifier that is not HBK 2755:\nl Source type = Manual\nThe following tables contain information about all settings used for all types of sound insulation tests (for all\nstandards) and room background noise tests. ",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "03c2bd27-dc18-41d0-afd3-b741c052030e",
+                "window": "l Build-up time = 1 second\nStabilization of sound levels should take about one second in ordinary rooms, but it can take longer in larger\nThe Source control settings for T2 measurements are enabled when Building Acoustics Partner is set to use the inter-\nrupted noise method: Sound insulation setup > Measurement control T2 > Excitation = Interrupted noise.\n Go to: Sound insulation setup > Source control T2.\n Example settings for reverberation time measurements using HBK 2755:\nl Source type = HBK 2755\nl Noise type = Pink\nl Escape time = 0 seconds\nl Build-up time = 1 second\nl Output gain = 0\nl Power compression compensation = Disabled\nYou will not generally need power compression compensation when making reverberation time measurements\nas the sound source is not active for a long period of time.\n Example settings for reverberation time measurements using an amplifier that is not HBK 2755:\nl Source type = Manual\nThe following tables contain information about all settings used for all types of sound insulation tests (for all\nstandards) and room background noise tests.  Some of the settings will apply to your setup and some of the settings will\nnot apply to your setup.\n The last table contains information about a few settings which are available only in the mobile app.\n Settings that apply to the project as a whole.\n",
+                "original_text": "Example settings for reverberation time measurements using an amplifier that is not HBK 2755:\nl Source type = Manual\nThe following tables contain information about all settings used for all types of sound insulation tests (for all\nstandards) and room background noise tests. "
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7175478777270156,
+            "text": "Example settings for reverberation time measurements using an amplifier that is not HBK 2755:\nl Source type = Manual\nThe following tables contain information about all settings used for all types of sound insulation tests (for all\nstandards) and room background noise tests. ",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "5a00fa07-f4fe-4374-abc1-2ff334bd52c9",
+                "window": "l Build-up time = 1 second\nStabilization of sound levels should take about one second in ordinary rooms, but it can take longer in larger\nThe Source control settings for T2 measurements are enabled when Building Acoustics Partner is set to use the inter-\nrupted noise method: Sound insulation setup > Measurement control T2 > Excitation = Interrupted noise.\n Go to: Sound insulation setup > Source control T2.\n Example settings for reverberation time measurements using HBK 2755:\nl Source type = HBK 2755\nl Noise type = Pink\nl Escape time = 0 seconds\nl Build-up time = 1 second\nl Output gain = 0\nl Power compression compensation = Disabled\nYou will not generally need power compression compensation when making reverberation time measurements\nas the sound source is not active for a long period of time.\n Example settings for reverberation time measurements using an amplifier that is not HBK 2755:\nl Source type = Manual\nThe following tables contain information about all settings used for all types of sound insulation tests (for all\nstandards) and room background noise tests.  Some of the settings will apply to your setup and some of the settings will\nnot apply to your setup.\n The last table contains information about a few settings which are available only in the mobile app.\n Settings that apply to the project as a whole.\n",
+                "original_text": "Example settings for reverberation time measurements using an amplifier that is not HBK 2755:\nl Source type = Manual\nThe following tables contain information about all settings used for all types of sound insulation tests (for all\nstandards) and room background noise tests. "
+            }
+        }
+    ],
+    "Which amplifier version should be selected if remote control via mobile device is required?": [
+        {
+            "rank": 1,
+            "score": 0.6860411569817377,
+            "text": "The following includes inform-\nation about your instrument, general guidelines for the configuration of your router to enable remote connection, and\nhow to test the connection.\nl Remote connection is optional. In other words, you do not need to be able to connect to your instrument\nremotely in order to use it with the mobile app or the PC application.\nl Please refer to the manufacturer of your router or to your Internet service provider (ISP) for information specific\nl The instrument must be on and connected to the network in order to access it remotely using the mobile app or\nBefore you begin, you will need some information about your Internet service:\nl Is your IP address IPv4 or IPv6 or both?\nThe instrument supports both. The difference is that IPv4 requires port forwarding while IPv6 does not.\nl If you have an IPv4 address, is it static or dynamic?\nYou can use either static or dynamic addresses. However, dynamic IPv4 addresses change, which requires you to\nenter a new IP address in the mobile app or PC application every time the address changes.",
+            "metadata": {
+                "file_name": "output_UserGuide - Noise Partner.txt",
+                "doc_id": "074e1635-f03e-45a8-9603-4c2e64138985"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.6835411988292253,
+            "text": "Establishing a remote connection is a little more complicated than creating a local connection, but\nit can be helpful if you want to be able to access your instrument from remote locations. The following includes inform-\nation about your instrument, general guidelines for the configuration of your router to enable remote connection, and\nhow to test the connection.\nl Remote connection is optional. In other words, you do not need to be able to connect to your instrument\nremotely in order to use it with the mobile app or the PC application.\nl Please refer to the manufacturer of your router or to your Internet service provider (ISP) for information specific\nl The instrument must be on and connected to the network in order to access it remotely using the mobile app or\nBefore you begin, you will need some information about your Internet service:\nl Is your IP address IPv4 or IPv6 or both?\nThe instrument supports both. The difference is that IPv4 requires port forwarding while IPv6 does not.\nl If you have an IPv4 address, is it static or dynamic?\nYou can use either static or dynamic addresses. However, dynamic IPv4 addresses change, which requires you to\nenter a new IP address in the mobile app or PC application every time the address changes.\nl If you have a dynamic IPv4 address, can you get a static IP address or set up a DynDNS (dynamic domain name\nYou can use a static IP address or set up DynDNS, which works by assigning a persistent host name to the instru-\nment, to overcome the problem of changing IPv4 addresses.\nl Is your ISP blocking any instrument ports?\n✐Note: The instrument uses ports 80, 443 and 8700 to 8720. It is not possible to change these ports. There-\nfore, remote connection is not possible if your ISP blocks any of those ports.\nl An instrument that is connected to the network (either by Wi-Fi® or Ethernet)\nl Access to the settings interface of your network router\nHow to connect remotely via an IPv4 address\nUse the NAT (network address translation) capabilities of your router to forward the ports of your instrument so that\nyou can connect to it remotely.\nA general procedure is as follows:\n✐Note: This procedure applies to static IPv4 addresses and dynamic IPv4 address using DynDNS.\n1. Look for the port forwarding option on your router.",
+            "metadata": {
+                "file_name": "output_UserGuide - Noise Partner.txt",
+                "doc_id": "86177b91-807d-4833-8cfe-9fd324830c10"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.6766410915081216,
+            "text": "The following includes inform-\nation about your instrument, general guidelines for the configuration of your router to enable remote connection, and\nhow to test the connection.\nl Remote connection is optional. In other words, you do not need to be able to connect to your instrument\nremotely in order to use it with the mobile app or the PC application.\nl Please refer to the manufacturer of your router or to your Internet service provider (ISP) for information specific\nl The instrument must be on and connected to the network in order to access it remotely using the mobile app or\nBefore you begin, you will need some information about your Internet service:\nl Is your IP address IPv4 or IPv6 or both?\nThe instrument supports both. The difference is that IPv4 requires port forwarding while IPv6 does not.\nl If you have an IPv4 address, is it static or dynamic?\nYou can use either static or dynamic addresses. However, dynamic IPv4 addresses change, which requires you to\nenter a new IP address in the mobile app or PC application every time the address changes.",
+            "metadata": {
+                "file_name": "output_UserGuide-Enviro noise Partner.txt",
+                "doc_id": "67c419b2-6fcb-4d4a-9d2c-13ce4d07487a"
+            }
+        }
+    ],
+    "What sound source is suitable for ISO 3382 compliant reverberation time measurements in office buildings?": [
+        {
+            "rank": 1,
+            "score": 0.8111269600735973,
+            "text": "Reverberation times from 0.1 to up to 30 seconds are \nthen measured at peak sound levels up to 143 dB. No trial \nmeasurements, no overloads, and the ‘traffic light’ clearly shows \nthe measurement status from a distance.\nA reverberation time spectrum, showing T20 and T30, is shown in \nFig. 8 (left). A reverberation decay curve for a 1/3-octave band is \nincluded in Fig. 8 (centre) and an overview of results at one \nfrequency band is included in Fig. 8 (right).\nFig. 8  Reverberation time spectrum (left); reverberation decay curve (centre); and overview of results (right)\nEven though the measurement functions (L1, L2, B2, T2) are the \nsame for any building acoustics measurement, the detailed \nmeasurement setup and calculation procedures depend on your \nnational building regulations. To ensure that your measurements \ncomply, select the relevant standard before you save your first \nmeasurement. This will automatically activate the required setup \nfor measurement and calculation.",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 2250 2270.txt",
+                "doc_id": "a580ee96-026b-4360-8a4d-cd203b50f00f"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.798118958328176,
+            "text": "Reverberation time can be measured by using either impulsive \nexcitation (Schroeder Method), from a starting pistol or balloon \nburst, or interrupted noise.\nAll it takes to measure reverberation time is to press the Start/\nPause pushbutton (and burst the balloon in the case of impulsive \nexcitation). Reverberation times from 0.1 to up to 30 seconds are \nthen measured at peak sound levels up to 143 dB. No trial \nmeasurements, no overloads, and the ‘traffic light’ clearly shows \nthe measurement status from a distance.\nA reverberation time spectrum, showing T20 and T30, is shown in \nFig. 8 (left). A reverberation decay curve for a 1/3-octave band is \nincluded in Fig. 8 (centre) and an overview of results at one \nfrequency band is included in Fig. 8 (right).\nFig. 8  Reverberation time spectrum (left); reverberation decay curve (centre); and overview of results (right)\nEven though the measurement functions (L1, L2, B2, T2) are the \nsame for any building acoustics measurement, the detailed \nmeasurement setup and calculation procedures depend on your \nnational building regulations. To ensure that your measurements \ncomply, select the relevant standard before you save your first \nmeasurement. This will automatically activate the required setup \nfor measurement and calculation. An overview of the available \nstandards is shown in Table 1 (page 6), and the calculated \nparameters in Table 2 (page 7).\nIn addition to measurement data, you may also need the receiving \nroom volume and the partition area for some calculations. These \ncan be entered using the stylus or navigation pushbuttons on the \nappropriate instrument display page. You may want to reuse \nsome of your earlier measurements (like a T2 spectrum known \nfrom a similar receiving room), to save time. This is also possible, \nby using a reuse facility in the Explorer display.\nThe calculations use a reference curve for frequency weighting of \nthe sound reduction spectrum, resulting in a single number like \nR'w = 52 dB (the weighted field sound reduction index according \nto the ISO 140-4).",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 2250 2270.txt",
+                "doc_id": "0563747a-9173-40a1-a974-b19fa506ee7b"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7911738281036929,
+            "text": "See Frequency range and\nmeasurement time for more information about averaging times and Fixed or scanned measurements for information\nFor reverberation time measurements (T2), you should measure a minimum of 6 decays at a minimum of 3 fixed micro-\nThe low-frequency procedure of ISO 16283 requires fixed microphone positions in a minimum of four corners, with two\ncorners at ground level and two corners at ceiling level. ",
+            "metadata": {
+                "file_name": "output_UserGuide - Building Acoustics Partner.txt",
+                "doc_id": "61b80a37-a52f-4a77-81ad-f1c8925a7d1d",
+                "window": "For manually-scanned measurements, you should per-\nform a minimum of one scan.  Ideally, the background noise in the receiving room (B2) should be measured con-\nsecutively with the sound level in the receiving room (L2) at the same measurement positions or traverse.\n ✐Note: It is important that the time spent measuring, for either a single manually-scanned measurement or multiple\nmeasurements at fixed points, meets the averaging time requirements of the standard used.  See Frequency range and\nmeasurement time for more information about averaging times and Fixed or scanned measurements for information\nFor reverberation time measurements (T2), you should measure a minimum of 6 decays at a minimum of 3 fixed micro-\nThe low-frequency procedure of ISO 16283 requires fixed microphone positions in a minimum of four corners, with two\ncorners at ground level and two corners at ceiling level.  Microphones may be mounted on a tripod or hand-held.\n For room background noise tests, you have the option to measure at one position only (the worst affected position) or\nat multiple positions to determine the average noise levels in the room.\n See Room background noise for more information.\n",
+                "original_text": "See Frequency range and\nmeasurement time for more information about averaging times and Fixed or scanned measurements for information\nFor reverberation time measurements (T2), you should measure a minimum of 6 decays at a minimum of 3 fixed micro-\nThe low-frequency procedure of ISO 16283 requires fixed microphone positions in a minimum of four corners, with two\ncorners at ground level and two corners at ceiling level. "
+            }
+        }
+    ],
+    "Which B&K 2245 variant is best suited for sound power measurements in a product testing lab?": [
+        {
+            "rank": 1,
+            "score": 0.775829185073851,
+            "text": "The Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations and help promote a safe and healthier environment.\n\nWith the Product Noise Partner app downloaded to your phone from the App Store®,the sound level meter can connect to your mobile phone via Wi-Fi®and be operated away from the sound field via an unparalleled mobile-app control interface. An intuitive 3D geometry view ensures that you measure all positions without mistakes, and final test results and pass/fail indications are shown instantly on the app when measurements are complete. Additionally, customizable metadata, pictures, text and voice notes, and videos can be embedded with the measurements.\n\nThe Product Noise Partner PC application supports you through every step of the measurement process, from choosing a standard, through defining the device geometry and measurement positions, to calculating the final result. The PC app can even be used to wirelessly control measurements with your B&K 2245. Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.\n\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2245.txt",
+                "doc_id": "a3cb7a14-84ea-4d18-b834-ffdf2dd8ec75"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7742234235014427,
+            "text": "The Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations and help promote a safe and healthier environment.\n\nWith the Product Noise Partner app downloaded to your phone from the App Store®,the sound level meter can connect to your mobile phone via Wi-Fi®and be operated away from the sound field via an unparalleled mobile-app control interface. An intuitive 3D geometry view ensures that you measure all positions without mistakes, and final test results and pass/fail indications are shown instantly on the app when measurements are complete. Additionally, customizable metadata, pictures, text and voice notes, and videos can be embedded with the measurements.\n\nThe Product Noise Partner PC application supports you through every step of the measurement process, from choosing a standard, through defining the device geometry and measurement positions, to calculating the final result. The PC app can even be used to wirelessly control measurements with your B&K 2245. Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2245.txt",
+                "doc_id": "58a97202-a322-4b97-94c3-10da3a68ae98"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7740730117181991,
+            "text": "Made Faster\nThe PC software is simple to install and use. Data is quickly and easily transferred to your PC and organized intuitively, ready for analysis and reporting, using preconfigured, user-friendly tools.\n\nCHARACTERISTICS\nSingle measurement range: 23.2 – 140.3 dB from the noise floor to maximum level,\nA-weighted\nIntegrated GPS for time and location\nErgonomic design for comfortable single-handed operation\nColour LCD with a bright, clean layout that clearly displays measured level and measurement status\nMeasurement status light-ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 13 hours operation with Wi-Fi enabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth® Low Energy for connection to mobile and PC apps\nMEASUREMENT CAPABILITIES\nIEC 61672-1 class 1 sound level meter\nBroadband level measurements with two simultaneous frequency weightings\n1/1- and/or 1/3-octave band frequency analysis for one frequency weighting\nLogging of all parameters at intervals between 1 second and 1 minute\nBroadband and spectral statistics for 5 percentiles. Full level distribution stored allowing re-calculation of arbitrary percentiles in HBK apps.\nListening quality MP3-compressed audio recording\n* Available measurement features depend on installed software licenses. Refer to product data sheet for details.\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nWe haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nB&K 2245 sound level meter is a task-tailored, class 1 measurement solution. While the instrument can be used as a stand-alone noise measurement device, this instruments works seamlessly with specially-created mobile apps, PC software, and features an open API interface, bringing an entirely new level of efficiency and control.",
+            "metadata": {
+                "file_name": "B&K_2245.txt",
+                "doc_id": "a93ef0b1-4cfb-482a-bf9b-2859b8c20cd3"
+            }
+        }
+    ],
+    "What software is required on the B&K 2245 to comply with ISO 3744 for sound power testing?": [
+        {
+            "rank": 1,
+            "score": 0.7860515055190018,
+            "text": "The PC app can even be used to wirelessly control measurements with your HBK 2255. Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.\n\nUSER SCENARIOS\nMeasuring and reporting of sound power levels in accordance with ISO 3744 and ISO 3746 standards to demonstrate product compliance with noise specifications for legislation or commendation\nAssessing noise emissions from toys according to EN 71-1\nDetermining noise emissions of machinery and equipment for ensuring compliance with standards or benchmarking for comparisons\nDetermining sound pressure levels at workstations\nR&D and quality assurance testing products for analysis to identify and evaluate prominent discrete tones and impulsive noise\nADDITIONAL CAPABILITIES\nAdditional licenses can be installed on HBK 2255. Ensure that you have the right tools for your job to do:\nEnviro Noise Partner – evaluate environmental noise to ensure compliance with standards.",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2255.txt",
+                "doc_id": "2151035e-6532-48b8-8ca0-8df65e1195b2"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7822717213168707,
+            "text": "The PC app can even be used to wirelessly control measurements with your B&K 2245. Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.\n\nUSER SCENARIOS\nMeasuring and reporting of sound power levels in accordance with ISO 3744 and ISO 3746 standards to demonstrate product compliance with noise specifications for legislation or commendation\nAssessing noise emissions from toys according to EN 71-1\nDetermining noise emissions of machinery and equipment for ensuring compliance with standards or benchmarking for comparisons\nDetermining sound pressure levels at workstations\nR&D and quality assurance testing products for analysis to identify and evaluate prominent discrete tones and impulsive noise\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2245.txt",
+                "doc_id": "58a97202-a322-4b97-94c3-10da3a68ae98"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7793192253613374,
+            "text": "The Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations and help promote a safe and healthier environment.\nMOBILE APP\nWith the Product Noise Partner app downloaded to your phone from the App Store\n®\n,the sound level meter can connect to your mobile phone via Wi-Fi\n®\nand be operated away from the sound field via an unparalleled mobile-app control interface. An intuitive 3D geometry view ensures that you measure all positions without mistakes, and final test results and pass/fail indications are shown instantly on the app when measurements are complete. Additionally, customizable metadata, pictures, text and voice notes, and videos can be embedded with the measurements.\nPC APP\nThe Product Noise Partner PC application supports you through every step of the measurement process, from choosing a standard, through defining the device geometry and measurement positions, to calculating the final result. The PC app can even be used to wirelessly control measurements with your HBK 2255. Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.\n\nUSER SCENARIOS\nMeasuring and reporting of sound power levels in accordance with ISO 3744 and ISO 3746 standards to demonstrate product compliance with noise specifications for legislation or commendation\nAssessing noise emissions from toys according to EN 71-1\nDetermining noise emissions of machinery and equipment for ensuring compliance with standards or benchmarking for comparisons\nDetermining sound pressure levels at workstations\nR&D and quality assurance testing products for analysis to identify and evaluate prominent discrete tones and impulsive noise\nADDITIONAL CAPABILITIES\nAdditional licenses can be installed on HBK 2255. Ensure that you have the right tools for your job to do:\nEnviro Noise Partner – evaluate environmental noise to ensure compliance with standards. The focused toolset ensures that you have all the tools needed for the job, including markers to isolate sounds (exclude superfluous noise or mark pertinent noise for further examination) and checklists to ensure the job is done correctly\nWork Noise Partner – evaluate workplace noise to ensure compliance with regulations and safeguard employee safety, including determining the need and level for hearing protection.",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2255.txt",
+                "doc_id": "91dc044b-95a0-4384-8540-7cd29e0302d2"
+            }
+        }
+    ],
+    "Which B&K 2245 variant is suitable for environmental noise surveys and regulation compliance?": [
+        {
+            "rank": 1,
+            "score": 0.8157915351222425,
+            "text": "Measurements can be exported to customizable Microsoft\n®\nExcel\n®\ntemplates for fast, easy and consistent reporting.\n\nUSER SCENARIOS\nAttended environmental noise surveys of noise from commerce, industry and transportation\nMeasuring existing ambient noise levels for pre-project planning\nVerifying compliance with environmental noise regulations\nInvestigating noise complaints\nADDITIONAL CAPABILITIES\nOther task-focused apps for HBK 2255 sound level meter include:\nWork Noise Partner – evaluate workplace noise to ensure compliance with regulations and safeguard employee safety, including determining the need and level for hearing protection. The interface guides you through a full survey and requires minimal training to ensure valid and actionable data\nProduct Noise Partner – determine sound power emissions, or measure sound pressure levels, according to international standards for regulatory compliance, benchmarking and labelling.",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2255.txt",
+                "doc_id": "16fae8de-e225-43a5-a4b2-ebf7cb5c231b"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.8054180297633906,
+            "text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+            "metadata": {
+                "file_name": "B&K_2245.txt",
+                "doc_id": "166f4005-9d98-486f-ad4f-bd3b0ce5f02c",
+                "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+                "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.8054180297633906,
+            "text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n",
+            "metadata": {
+                "file_name": "B&K_2245.txt",
+                "doc_id": "6811f104-e49d-4e5d-b329-31b05a0cdeb0",
+                "window": "Accurate noise measurement, analysis and reporting has never been more simple.\n\n This sound level meter platform houses the solution that gets your job done faster and easier.  Controlled via smart-device apps tailored to your task, get your work done with confidence.\n\n This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection.\n\n This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data.  Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n",
+                "original_text": "This solution is all you need to easily conduct and report on environmental noise surveys to ensure regulations compliance and investigate noise complaints.\n\n"
+            }
+        }
+    ],
+    "What variant should be used for roadside exhaust noise enforcement?": [
+        {
+            "rank": 1,
+            "score": 0.7387849497547345,
+            "text": "USER SCENARIOS\nStationary exhaust noise testing according to ISO 5130, SAE J1169, SAE J1492 or SAE J1287\nRoadside exhaust noise regulation enforcement\n\nCHARACTERISTICS\nColour LCD with a bright, clean layout – most important information shown with a clear indication of measurement status with colour header\nSingle-person operation with the mobile app\nMeasurement status light ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 14 hours operation with Wi-Fi\n®\nenabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth\n®\nLow Energy for connection to mobile and PC apps.\n",
+            "metadata": {
+                "file_name": "Exhaust_Noise_Partner_2245.txt",
+                "doc_id": "7bc577a5-dad6-43c1-ae21-0b626014beac",
+                "window": "Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements.\n PC App\nWhen the measurement is finished, the data can be transferred to a PC, wirelessly or with the supplied USB cable.  Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.\n USER SCENARIOS\nStationary exhaust noise testing according to ISO 5130, SAE J1169, SAE J1492 or SAE J1287\nRoadside exhaust noise regulation enforcement\n\nCHARACTERISTICS\nColour LCD with a bright, clean layout – most important information shown with a clear indication of measurement status with colour header\nSingle-person operation with the mobile app\nMeasurement status light ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 14 hours operation with Wi-Fi\n®\nenabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth\n®\nLow Energy for connection to mobile and PC apps.\n Single, weatherproof USB-C connector for charging, data transfer to PC and more\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n This B&K 2245 Sound Level Meter solution is a focused toolset for measuring exhaust noise. ",
+                "original_text": "USER SCENARIOS\nStationary exhaust noise testing according to ISO 5130, SAE J1169, SAE J1492 or SAE J1287\nRoadside exhaust noise regulation enforcement\n\nCHARACTERISTICS\nColour LCD with a bright, clean layout – most important information shown with a clear indication of measurement status with colour header\nSingle-person operation with the mobile app\nMeasurement status light ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 14 hours operation with Wi-Fi\n®\nenabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth\n®\nLow Energy for connection to mobile and PC apps.\n"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7387849497547345,
+            "text": "USER SCENARIOS\nStationary exhaust noise testing according to ISO 5130, SAE J1169, SAE J1492 or SAE J1287\nRoadside exhaust noise regulation enforcement\n\nCHARACTERISTICS\nColour LCD with a bright, clean layout – most important information shown with a clear indication of measurement status with colour header\nSingle-person operation with the mobile app\nMeasurement status light ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 14 hours operation with Wi-Fi\n®\nenabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth\n®\nLow Energy for connection to mobile and PC apps.\n",
+            "metadata": {
+                "file_name": "Exhaust_Noise_Partner_2245.txt",
+                "doc_id": "c909c94a-dcc3-4754-b72b-92aae4188874",
+                "window": "Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements.\n PC App\nWhen the measurement is finished, the data can be transferred to a PC, wirelessly or with the supplied USB cable.  Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.\n USER SCENARIOS\nStationary exhaust noise testing according to ISO 5130, SAE J1169, SAE J1492 or SAE J1287\nRoadside exhaust noise regulation enforcement\n\nCHARACTERISTICS\nColour LCD with a bright, clean layout – most important information shown with a clear indication of measurement status with colour header\nSingle-person operation with the mobile app\nMeasurement status light ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 14 hours operation with Wi-Fi\n®\nenabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth\n®\nLow Energy for connection to mobile and PC apps.\n Single, weatherproof USB-C connector for charging, data transfer to PC and more\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n This B&K 2245 Sound Level Meter solution is a focused toolset for measuring exhaust noise. ",
+                "original_text": "USER SCENARIOS\nStationary exhaust noise testing according to ISO 5130, SAE J1169, SAE J1492 or SAE J1287\nRoadside exhaust noise regulation enforcement\n\nCHARACTERISTICS\nColour LCD with a bright, clean layout – most important information shown with a clear indication of measurement status with colour header\nSingle-person operation with the mobile app\nMeasurement status light ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 14 hours operation with Wi-Fi\n®\nenabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth\n®\nLow Energy for connection to mobile and PC apps.\n"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7387849497547345,
+            "text": "USER SCENARIOS\nStationary exhaust noise testing according to ISO 5130, SAE J1169, SAE J1492 or SAE J1287\nRoadside exhaust noise regulation enforcement\n\nCHARACTERISTICS\nColour LCD with a bright, clean layout – most important information shown with a clear indication of measurement status with colour header\nSingle-person operation with the mobile app\nMeasurement status light ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 14 hours operation with Wi-Fi\n®\nenabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth\n®\nLow Energy for connection to mobile and PC apps.\n",
+            "metadata": {
+                "file_name": "Exhaust_Noise_Partner_2245.txt",
+                "doc_id": "5961c547-6758-4c8d-ab61-e9a82ee4e8d6",
+                "window": "Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements.\n PC App\nWhen the measurement is finished, the data can be transferred to a PC, wirelessly or with the supplied USB cable.  Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your data.\n USER SCENARIOS\nStationary exhaust noise testing according to ISO 5130, SAE J1169, SAE J1492 or SAE J1287\nRoadside exhaust noise regulation enforcement\n\nCHARACTERISTICS\nColour LCD with a bright, clean layout – most important information shown with a clear indication of measurement status with colour header\nSingle-person operation with the mobile app\nMeasurement status light ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 14 hours operation with Wi-Fi\n®\nenabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth\n®\nLow Energy for connection to mobile and PC apps.\n Single, weatherproof USB-C connector for charging, data transfer to PC and more\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\n This B&K 2245 Sound Level Meter solution is a focused toolset for measuring exhaust noise. ",
+                "original_text": "USER SCENARIOS\nStationary exhaust noise testing according to ISO 5130, SAE J1169, SAE J1492 or SAE J1287\nRoadside exhaust noise regulation enforcement\n\nCHARACTERISTICS\nColour LCD with a bright, clean layout – most important information shown with a clear indication of measurement status with colour header\nSingle-person operation with the mobile app\nMeasurement status light ring visible from any angle\nBuilt-in Li-Ion battery, typically providing more than 14 hours operation with Wi-Fi\n®\nenabled\n16 GB built-in storage for measurements and annotations\nIntegrated Wi-Fi and Bluetooth\n®\nLow Energy for connection to mobile and PC apps.\n"
+            }
+        }
+    ],
+    "Which sound level meter is best suited for a technician doing quick spot checks in urban environments?": [
+        {
+            "rank": 1,
+            "score": 0.8067409815666428,
+            "text": "At its very core, a sound level meter basically consists of a microphone, a preamplifier, a signal processing unit, and a display.\n\nThe most suitable type of microphone for a sound level meter is a condenser microphone, which combines precision with measurement reliability. The microphone converts the sound signal to an equivalent electrical signal. The electrical signal produced by the microphone is at a very low level and must be enhanced by a preamplifier, before reaching the main processor.Signal processing applies frequency weightings and time weightings to the signal, as specified by international standards such as IEC 61672 – 1, which a sound level meter complies with.\n\nSound level meters and analyzers are used to measure and manage noise from a variety of sources. They are often employed in environmental noise assessment from sound sources, such as industrial plants, road and rail traffic, and construction work.\n\nIn urban environments, noise pollution - or excessive noise exposure - directly affects the people who live and work in the affected areas. To ensure noise regulations are followed, noise is measured from a variety of sources as sports events, outdoor concerts, parks, and residential- or commercial neighbours. Each sound/noise source is defined by its own set of characteristics, which can pose challenges for the professionals assessing them.\n\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.",
+            "metadata": {
+                "file_name": "Sound_Level_Meters.txt",
+                "doc_id": "e901c3ad-1ecc-4109-9ebb-c03dbd31ee91"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7905660589027491,
+            "text": "In urban environments, noise pollution - or excessive noise exposure - directly affects the people who live and work in the affected areas. To ensure noise regulations are followed, noise is measured from a variety of sources as sports events, outdoor concerts, parks, and residential- or commercial neighbours. Each sound/noise source is defined by its own set of characteristics, which can pose challenges for the professionals assessing them.\n\nMeasurement applications\nRoom and building acoustics\nSound power and noise source identification\nAssessing workplace noise and OHS evaluations\nEnvironmental noise measurements\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nWe haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nClass 1 sound level meter instruments and analyzers featuring class 1 measurement accuracy, ease-of-use, and enhanced flexibility with our sound level meter apps and software.\n\nB&K 2245 sound level meter is a task-tailored, class 1 measurement solution. While the instrument can be used as a stand-alone noise measurement device, this instruments works seamlessly with specially-created mobile apps, PC software, and features an open API interface, bringing an entirely new level of efficiency and control. Accurate noise measurement, analysis and reporting has never been more simple.\n\nHBK 2255 Sound Level Meter is an advanced, single-channel, class 1 measurement solution. Designed for users with varied and complex workloads, HBK 2255 can be relied upon to get the job done efficiently and with maximum confidence. HBK 2255 works seamlessly with a range of apps, each providing a complete solution for a specific job-to-do. Accurate acoustic measurement, analysis and documentation has never been so simple.",
+            "metadata": {
+                "file_name": "Sound_Level_Meters.txt",
+                "doc_id": "d6079406-14e7-44ef-82fe-491448901b4c"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7899636298322739,
+            "text": "Product: Sound Level Meters\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters\n================================================================================\n\nWHAT IS A SOUND LEVEL METER\nA sound level meter is a measuring instrument, designed to measure sound levels in a standardized way.\nCommonly referred to as a sound meter, noise meter, decibel meter, or sound pressure level (SPL) meter, a sound level meter is designed to respond to sound in approximately the same way as the human ear.\nThe purpose of a sound level meter is to give objective, reproducible measurements of sound pressure levels (SPL).\nHOW DOES A SOUND LEVEL METER WORK?\nAt its very core, a sound level meter basically consists of a microphone, a preamplifier, a signal processing unit, and a display.\nThe most suitable type of microphone for a sound level meter is a condenser microphone, which combines precision with measurement reliability. The microphone converts the sound signal to an equivalent electrical signal. The electrical signal produced by the microphone is at a very low level and must be enhanced by a preamplifier, before reaching the main processor.\nSignal processing applies frequency weightings and time weightings to the signal, as specified by international standards such as IEC 61672 – 1, which a sound level meter complies with.\nMEASUREMENT APPLICATIONS\nSound level meters and analyzers are used to measure and manage noise from a variety of sources. They are often employed in environmental noise assessment from sound sources, such as industrial plants, road and rail traffic, and construction work.\nIn urban environments, noise pollution - or excessive noise exposure - directly affects the people who live and work in the affected areas. To ensure noise regulations are followed, noise is measured from a variety of sources as sports events, outdoor concerts, parks, and residential- or commercial neighbours. Each sound/noise source is defined by its own set of characteristics, which can pose challenges for the professionals assessing them.",
+            "metadata": {
+                "file_name": "Sound_Level_Meters.txt",
+                "doc_id": "e901c3ad-1ecc-4109-9ebb-c03dbd31ee91"
+            }
+        }
+    ],
+    "What product variant of HBK 2255 should a small business owner choose for basic environmental noise monitoring?": [
+        {
+            "rank": 1,
+            "score": 0.815659884900498,
+            "text": "Measurements can be exported to customizable Microsoft\n®\nExcel\n®\ntemplates for fast, easy and consistent reporting.\n\nUSER SCENARIOS\nAttended environmental noise surveys of noise from commerce, industry and transportation\nMeasuring existing ambient noise levels for pre-project planning\nVerifying compliance with environmental noise regulations\nInvestigating noise complaints\nADDITIONAL CAPABILITIES\nOther task-focused apps for HBK 2255 sound level meter include:\nWork Noise Partner – evaluate workplace noise to ensure compliance with regulations and safeguard employee safety, including determining the need and level for hearing protection. The interface guides you through a full survey and requires minimal training to ensure valid and actionable data\nProduct Noise Partner – determine sound power emissions, or measure sound pressure levels, according to international standards for regulatory compliance, benchmarking and labelling.",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2255.txt",
+                "doc_id": "16fae8de-e225-43a5-a4b2-ebf7cb5c231b"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.7964915519625679,
+            "text": "Accurate noise \nmeasurement, analysis and documentation has never been \nNoise measurements requiring IEC 61672-compliant (class 1), \nRoad vehicle exhaust noise inspection with Exhaust \nBasic broadband noise measurements with Noise Partner\nEnvironmental noise assessments with Enviro Noise Partner\nOccupational noise assessments with Work Noise Partner\nFree-field sound power determination according to ISO 3744 or \nISO 3746 with Product Noise Partner\nToy noise measurements according to EN 71-1 with Product \nType-approved sound level measurement data integration with \nother systems using Open Interface for B&K 2245 and \nSingle measurement range: 23.2* – 140.3 dB(A) from noise \nFrequency range: 6 Hz – 20 kHz\nSupported by a range of apps tailored to specific jobs\nAutomatic measurement transfer to network or USB storage \nmedia for backup and analysis\nRobust design for both indoor and outdoor measurements\nGPS for time and position\nPowerful open interface for system integrators\n15.8 dB(A) is the typical noise floor for Microphone Type 4966\nA simple, easy-to-use class 1 sound level meter\nB&K 2245 Sound Level Meter is a complete package solution that \nincludes the Noise Partner mobile app for both mobile \nmeasurement control and display, and as a PC-based application \n The complete solution: B&K 2245 Sound Level Meter and the Noise \nPartner app installed on a mobile device and PC\nB&K 2245 provides effortless usability with a dust- and water-\nresistant body that is rubberized for a more secure grip and \nensured compliance to IP 55. ",
+            "metadata": {
+                "file_name": "output_PRODUCT DATA - 2245.txt",
+                "doc_id": "3318febb-f1ac-4624-9ddd-6b3c99c92164",
+                "window": "Product Data  BP 0029 – 18\nWhether you are a complete novice, occasional user or an \nacoustics specialist – sometimes all you need is a simple sound \nlevel meter – one that provides you with reliable, accurate results \nwithout all the fuss.  That is what B&K 2245 delivers. \n This robust, class 1 sound level meter puts functionality, \nease-of-use and versatility into the palm of your hand together \nwith the reliability and confidence that is ensured with the \nB&K 2245 works seamlessly with a range of apps, each providing \na complete solution for a specific job-to-do.  Accurate noise \nmeasurement, analysis and documentation has never been \nNoise measurements requiring IEC 61672-compliant (class 1), \nRoad vehicle exhaust noise inspection with Exhaust \nBasic broadband noise measurements with Noise Partner\nEnvironmental noise assessments with Enviro Noise Partner\nOccupational noise assessments with Work Noise Partner\nFree-field sound power determination according to ISO 3744 or \nISO 3746 with Product Noise Partner\nToy noise measurements according to EN 71-1 with Product \nType-approved sound level measurement data integration with \nother systems using Open Interface for B&K 2245 and \nSingle measurement range: 23.2* – 140.3 dB(A) from noise \nFrequency range: 6 Hz – 20 kHz\nSupported by a range of apps tailored to specific jobs\nAutomatic measurement transfer to network or USB storage \nmedia for backup and analysis\nRobust design for both indoor and outdoor measurements\nGPS for time and position\nPowerful open interface for system integrators\n15.8 dB(A) is the typical noise floor for Microphone Type 4966\nA simple, easy-to-use class 1 sound level meter\nB&K 2245 Sound Level Meter is a complete package solution that \nincludes the Noise Partner mobile app for both mobile \nmeasurement control and display, and as a PC-based application \n The complete solution: B&K 2245 Sound Level Meter and the Noise \nPartner app installed on a mobile device and PC\nB&K 2245 provides effortless usability with a dust- and water-\nresistant body that is rubberized for a more secure grip and \nensured compliance to IP 55.  The seven control buttons can be \ncomfortably operated with one hand, and the clear, bright display \nshows you the most important information at a single glance. \n With a 13-hour battery life, you can be sure it will not let you down.\n  The sound level meter’s lightweight design and user-friendly display\nUsing one of our apps on your mobile device, you can wirelessly \nconnect to B&K 2245, which provides the flexibility to control your \nmeasurements via your mobile device, thus avoiding possible \nbody reflections or unsafe environments. ",
+                "original_text": "Accurate noise \nmeasurement, analysis and documentation has never been \nNoise measurements requiring IEC 61672-compliant (class 1), \nRoad vehicle exhaust noise inspection with Exhaust \nBasic broadband noise measurements with Noise Partner\nEnvironmental noise assessments with Enviro Noise Partner\nOccupational noise assessments with Work Noise Partner\nFree-field sound power determination according to ISO 3744 or \nISO 3746 with Product Noise Partner\nToy noise measurements according to EN 71-1 with Product \nType-approved sound level measurement data integration with \nother systems using Open Interface for B&K 2245 and \nSingle measurement range: 23.2* – 140.3 dB(A) from noise \nFrequency range: 6 Hz – 20 kHz\nSupported by a range of apps tailored to specific jobs\nAutomatic measurement transfer to network or USB storage \nmedia for backup and analysis\nRobust design for both indoor and outdoor measurements\nGPS for time and position\nPowerful open interface for system integrators\n15.8 dB(A) is the typical noise floor for Microphone Type 4966\nA simple, easy-to-use class 1 sound level meter\nB&K 2245 Sound Level Meter is a complete package solution that \nincludes the Noise Partner mobile app for both mobile \nmeasurement control and display, and as a PC-based application \n The complete solution: B&K 2245 Sound Level Meter and the Noise \nPartner app installed on a mobile device and PC\nB&K 2245 provides effortless usability with a dust- and water-\nresistant body that is rubberized for a more secure grip and \nensured compliance to IP 55. "
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7911486494523764,
+            "text": "Ensure that you have the right tools for your job to do:\nEnviro Noise Partner – evaluate environmental noise to ensure compliance with standards. The focused toolset ensures that you have all the tools needed for the job, including markers to isolate sounds (exclude superfluous noise or mark pertinent noise for further examination) and checklists to ensure the job is done correctly\nWork Noise Partner – evaluate workplace noise to ensure compliance with regulations and safeguard employee safety, including determining the need and level for hearing protection. The interface guides you through a full survey and requires minimal training to ensure valid and actionable data\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nWe haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nTogether with an HBK 2255 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. HBK 2255 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can be harnessed by any user, from novice to acoustics specialist.\n\nThe Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations and help promote a safe and healthier environment.\n\nWith the Product Noise Partner app downloaded to your phone from the App Store®,the sound level meter can connect to your mobile phone via Wi-Fi®and be operated away from the sound field via an unparalleled mobile-app control interface. An intuitive 3D geometry view ensures that you measure all positions without mistakes, and final test results and pass/fail indications are shown instantly on the app when measurements are complete.",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2255.txt",
+                "doc_id": "cb39650b-f377-4867-b6a2-e7aa5c55efc2"
+            }
+        }
+    ],
+    "Which HBK 2255 variant includes both environmental noise monitoring and a calibrator for accurate measurements?": [
+        {
+            "rank": 1,
+            "score": 0.8116316725944003,
+            "text": "You can import measurements from the dose meter into a Work Noise Partner project and combine that data with measurements from HBK 2255 to compare and analyse as needed. A separate licence is not required.\n\nUSER SCENARIOS\nTask- or job-based noise exposure surveys according to ISO 9612\nPrevention of hearing loss\nManaging noise exposure\nEnsuring compliance with regulations\nMeasurements for hearing protection selection\nADDITIONAL CAPABILITIES\nOther task-focused apps for HBK 2255 sound level meter include:\nEnviro Noise Partner – evaluate environmental noise to ensure compliance with standards. The focused toolset ensures that you have all the tools needed for the job, including markers to isolate sounds (exclude superfluous noise or mark pertinent noise for further examination) and checklists to ensure the job is done correctly\nProduct Noise Partner – determine sound power emissions, or measure sound pressure levels, according to international standards for regulatory compliance, benchmarking and labelling.",
+            "metadata": {
+                "file_name": "Work_Noise_Partner_2255.txt",
+                "doc_id": "0b192409-df41-433d-9916-129947a647ec"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.8047323001955872,
+            "text": "Measurements can be exported to customizable Microsoft\n®\nExcel\n®\ntemplates for fast, easy and consistent reporting.\n\nUSER SCENARIOS\nAttended environmental noise surveys of noise from commerce, industry and transportation\nMeasuring existing ambient noise levels for pre-project planning\nVerifying compliance with environmental noise regulations\nInvestigating noise complaints\nADDITIONAL CAPABILITIES\nOther task-focused apps for HBK 2255 sound level meter include:\nWork Noise Partner – evaluate workplace noise to ensure compliance with regulations and safeguard employee safety, including determining the need and level for hearing protection. The interface guides you through a full survey and requires minimal training to ensure valid and actionable data\nProduct Noise Partner – determine sound power emissions, or measure sound pressure levels, according to international standards for regulatory compliance, benchmarking and labelling.",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2255.txt",
+                "doc_id": "16fae8de-e225-43a5-a4b2-ebf7cb5c231b"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.7912650857998529,
+            "text": "Enviro Noise Partner for HBK 2255 Sound Level Meter\nTogether with an HBK 2255 sound level meter, Enviro Noise Partner is a complete, focused toolset for measuring and reporting on environmental noise concerns. With an Enviro Noise Partner license installed, your sound level meter can acquire a wide range of broadband parameters including statistics, provide 1/1- or 1/3-octave band frequency analysis, and conduct logging down to 1 s intervals. These capabilities ensure that you get the right data for your job to do. Additionally, the sound level meter can make high-quality audio recordings to aid in identifying specific incidents.\nMobile App\nOnce the Enviro Noise Partner app is downloaded to your phone from the App Store\n®\n, your HBK 2255 sound level meter can be wirelessly controlled from your phone – you can even control multiple sound level meters simultaneously. All measurement capabilities are available from the app, with intuitive measurement profile screens that enable you to pinch the graph to zoom or swipe it to move back and forth through time.",
+            "metadata": {
+                "file_name": "Enviro_Noise_Partner_2255.txt",
+                "doc_id": "16fae8de-e225-43a5-a4b2-ebf7cb5c231b"
+            }
+        }
+    ],
+    "What sound level meter is recommended for community noise monitoring with mobile app support?": [
+        {
+            "rank": 1,
+            "score": 0.8258681980427901,
+            "text": "In urban environments, noise pollution - or excessive noise exposure - directly affects the people who live and work in the affected areas. To ensure noise regulations are followed, noise is measured from a variety of sources as sports events, outdoor concerts, parks, and residential- or commercial neighbours. Each sound/noise source is defined by its own set of characteristics, which can pose challenges for the professionals assessing them.\n\nMeasurement applications\nRoom and building acoustics\nSound power and noise source identification\nAssessing workplace noise and OHS evaluations\nEnvironmental noise measurements\n\nModern Slavery Statement\nImprint\nCookie Policy\nPrivacy Policy\nSitemap\nEthical Business\nCompany Profile\n\nWe have moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nWe haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and more productive world.\n\nClass 1 sound level meter instruments and analyzers featuring class 1 measurement accuracy, ease-of-use, and enhanced flexibility with our sound level meter apps and software.\n\nB&K 2245 sound level meter is a task-tailored, class 1 measurement solution. While the instrument can be used as a stand-alone noise measurement device, this instruments works seamlessly with specially-created mobile apps, PC software, and features an open API interface, bringing an entirely new level of efficiency and control. Accurate noise measurement, analysis and reporting has never been more simple.\n\nHBK 2255 Sound Level Meter is an advanced, single-channel, class 1 measurement solution. Designed for users with varied and complex workloads, HBK 2255 can be relied upon to get the job done efficiently and with maximum confidence. HBK 2255 works seamlessly with a range of apps, each providing a complete solution for a specific job-to-do. Accurate acoustic measurement, analysis and documentation has never been so simple.",
+            "metadata": {
+                "file_name": "Sound_Level_Meters.txt",
+                "doc_id": "d6079406-14e7-44ef-82fe-491448901b4c"
+            }
+        },
+        {
+            "rank": 2,
+            "score": 0.8233466613035916,
+            "text": "Product: Product Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-product-noise\n================================================================================\n\nThis sound level meter-based product noise measurement solution combines ease of use with reliable, valid data. Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\nTogether with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. B&K 2245 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can be harnessed by any user, from novice to acoustics specialist.\n\nTogether with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. B&K 2245 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can be harnessed by any user, from novice to acoustics specialist.\n\nTogether with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. B&K 2245 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can be harnessed by any user, from novice to acoustics specialist.\nThe Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations and help promote a safe and healthier environment.\nMOBILE APP\nWith the Product Noise Partner app downloaded to your phone from the App Store\n®\n,the sound level meter can connect to your mobile phone via Wi-Fi\n®\nand be operated away from the sound field via an unparalleled mobile-app control interface.",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2245.txt",
+                "doc_id": "b565013c-13ac-401e-aa44-3b9eb9ecf8cb"
+            }
+        },
+        {
+            "rank": 3,
+            "score": 0.8233466613035916,
+            "text": "Product: Product Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-product-noise\n================================================================================\n\nThis sound level meter-based product noise measurement solution combines ease of use with reliable, valid data. Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\nTogether with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. B&K 2245 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can be harnessed by any user, from novice to acoustics specialist.\n\nTogether with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. B&K 2245 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can be harnessed by any user, from novice to acoustics specialist.\n\nTogether with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1. B&K 2245 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can be harnessed by any user, from novice to acoustics specialist.\nThe Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations and help promote a safe and healthier environment.\nMOBILE APP\nWith the Product Noise Partner app downloaded to your phone from the App Store\n®\n,the sound level meter can connect to your mobile phone via Wi-Fi\n®\nand be operated away from the sound field via an unparalleled mobile-app control interface.",
+            "metadata": {
+                "file_name": "Product_Noise_Partner_2245.txt",
+                "doc_id": "f4b45538-65dc-4dfe-a2e6-ba23ae7f06e6"
+            }
+        }
+    ]
+}

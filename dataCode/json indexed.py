@@ -1,7 +1,7 @@
 import json
 
 # Read the original file
-with open('data/index_store.json', 'r', encoding='utf-8') as f:
+with open('data/docstore.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Loop through nested structure and decode "__data__" strings if possible

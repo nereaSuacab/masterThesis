@@ -1,0 +1,419 @@
+=== Hybrid RAG Evaluation Results ===
+
+Ground Truth Data Loaded:
+Query: Which solution is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards?
+Reference answer: DIRAC Room Acoustics Software with HBK 2255 and HBK 2755.
+Number of context texts: 3
+First context snippet: DIRAC Room Acoustics Software is used for measuring a wide range of room acoustical parameters. It supports wireless measurements using HBK 2255 Sound Level Meter and HBK 2755 Smart Power Amplifier. I...
+
+
+Hybrid Retrieval Results Loaded:
+Query: Which solution is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards?
+Number of retrieved texts: 3
+First retrieved text snippet: Speech intelligibility measurements can be carried out in compliance with the IEC 60268-16 standard, for male and female voices, through an artificial mouth-directional loudspeaker sound source or thr...
+
+Hybrid Retrieval Statistics:
+  From Dense only: 2
+  From BM25 only: 1
+  From Both (high confidence): 0
+
+
+Chat Logs Loaded:
+Hybrid RAG pairs found: 24
+
+Fusion Configuration:
+  Method: rrf
+  Dense weight: 0.5
+  BM25 weight: 0.5
+
+
+============================================================
+=== DATA VERIFICATION ===
+============================================================
+
+Ground truth queries: 24
+Hybrid retrieved contexts: 24
+Hybrid responses: 24
+✓ All data counts match!
+
+
+============================================================
+=== Evaluating Hybrid RAG - All Metrics ===
+============================================================
+
+
+[Hybrid RAG - Query 1/24]
+Query: Which solution is suitable for measuring room acoustics and speech intelligibili...
+  Faithfulness: 0.6000
+  Context Precision: 0.5000
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 2/24]
+Query: What product should be used for façade sound insulation testing on a constructio...
+  Faithfulness: 1.0000
+  Context Precision: 0.5833
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.5000
+
+[Hybrid RAG - Query 3/24]
+Query: Which sound source is recommended for calibrated speech intelligibility measurem...
+  Faithfulness: 1.0000
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+[Hybrid RAG - Query 4/24]
+Query: What sound source should be used for ISO 3382-compliant room acoustics measureme...
+  Faithfulness: 1.0000
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+[Hybrid RAG - Query 5/24]
+Query: Which product supports compliance with ISO 9612 for workplace noise exposure?...
+  Faithfulness: 1.0000
+  Context Precision: 0.5833
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+[Hybrid RAG - Query 6/24]
+Query: Which product is suitable for investigating environmental noise complaints?...
+  Faithfulness: 1.0000
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+[Hybrid RAG - Query 7/24]
+Query: Which product is designed for measuring exhaust noise in vehicles?...
+  Faithfulness: 1.0000
+  Context Precision: 0.5833
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+[Hybrid RAG - Query 8/24]
+Query: Which product helps verify safe noise emissions from toys and machinery?...
+  Faithfulness: 1.0000
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+[Hybrid RAG - Query 9/24]
+Query: Which HBK 2255 variant is best suited for long-term environmental noise monitori...
+  Faithfulness: 0.7500
+  Context Precision: 0.0000
+  Context Recall: 0.4000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 10/24]
+Query: Which HBK 2255 variant should be used for evaluating workplace noise exposure ac...
+  Faithfulness: 1.0000
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 11/24]
+Query: What HBK 2255 variant is recommended for sound insulation testing in buildings?...
+  Faithfulness: 0.6667
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 12/24]
+Query: Which software module allows isolating specific noise events like barking dogs o...
+  Faithfulness: 1.0000
+  Context Precision: 0.5000
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.5000
+
+[Hybrid RAG - Query 13/24]
+Query: Which loudspeaker should be used for measuring airborne sound insulation in resi...
+  Faithfulness: 0.6667
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 14/24]
+Query: What amplifier is recommended for driving the OmniPower sound source in concert ...
+  Faithfulness: 0.8333
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 15/24]
+Query: Which amplifier version should be selected if remote control via mobile device i...
+  Faithfulness: 0.8000
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 16/24]
+Query: What sound source is suitable for ISO 3382 compliant reverberation time measurem...
+  Faithfulness: 1.0000
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 17/24]
+Query: Which B&K 2245 variant is best suited for sound power measurements in a product ...
+  Faithfulness: 0.7500
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 18/24]
+Query: What software is required on the B&K 2245 to comply with ISO 3744 for sound powe...
+  Faithfulness: 0.3333
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+[Hybrid RAG - Query 19/24]
+Query: Which B&K 2245 variant is suitable for environmental noise surveys and regulatio...
+  Faithfulness: 0.5000
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 20/24]
+Query: What variant should be used for roadside exhaust noise enforcement?...
+  Faithfulness: 1.0000
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 21/24]
+Query: Which sound level meter is best suited for a technician doing quick spot checks ...
+  Faithfulness: 0.3333
+  Context Precision: 0.3333
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 22/24]
+Query: What product variant of HBK 2255 should a small business owner choose for basic ...
+  Faithfulness: 0.7500
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+[Hybrid RAG - Query 23/24]
+Query: Which HBK 2255 variant includes both environmental noise monitoring and a calibr...
+  Faithfulness: 1.0000
+  Context Precision: 0.5000
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.6667
+
+[Hybrid RAG - Query 24/24]
+Query: What sound level meter is recommended for community noise monitoring with mobile...
+  Faithfulness: 0.8571
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.0000
+
+
+============================================================
+=== SUMMARY STATISTICS ===
+============================================================
+
+Hybrid RAG Results:
+----------------------------------------
+Faithfulness:
+  Average: 0.8267
+  Min:     0.3333
+  Max:     1.0000
+  Range:   0.6667
+
+Context Precision:
+  Average: 0.4410
+  Min:     0.0000
+  Max:     1.0000
+  Range:   1.0000
+
+Context Recall:
+  Average: 0.6000
+  Min:     0.0000
+  Max:     1.0000
+  Range:   1.0000
+
+Noise Sensitivity:
+  Average: 0.3611
+  Min:     0.0000
+  Max:     1.0000
+  Range:   1.0000
+
+
+============================================================
+=== PER-QUERY BREAKDOWN ===
+============================================================
+
+Query 1: Which solution is suitable for measuring room acoustics and ...
+  Faithfulness: 0.6000
+  Context Precision: 0.5000
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.0000
+
+Query 2: What product should be used for façade sound insulation test...
+  Faithfulness: 1.0000
+  Context Precision: 0.5833
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.5000
+
+Query 3: Which sound source is recommended for calibrated speech inte...
+  Faithfulness: 1.0000
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+Query 4: What sound source should be used for ISO 3382-compliant room...
+  Faithfulness: 1.0000
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+Query 5: Which product supports compliance with ISO 9612 for workplac...
+  Faithfulness: 1.0000
+  Context Precision: 0.5833
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+Query 6: Which product is suitable for investigating environmental no...
+  Faithfulness: 1.0000
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+Query 7: Which product is designed for measuring exhaust noise in veh...
+  Faithfulness: 1.0000
+  Context Precision: 0.5833
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+Query 8: Which product helps verify safe noise emissions from toys an...
+  Faithfulness: 1.0000
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+Query 9: Which HBK 2255 variant is best suited for long-term environm...
+  Faithfulness: 0.7500
+  Context Precision: 0.0000
+  Context Recall: 0.4000
+  Noise Sensitivity: 0.0000
+
+Query 10: Which HBK 2255 variant should be used for evaluating workpla...
+  Faithfulness: 1.0000
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+Query 11: What HBK 2255 variant is recommended for sound insulation te...
+  Faithfulness: 0.6667
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+Query 12: Which software module allows isolating specific noise events...
+  Faithfulness: 1.0000
+  Context Precision: 0.5000
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.5000
+
+Query 13: Which loudspeaker should be used for measuring airborne soun...
+  Faithfulness: 0.6667
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+Query 14: What amplifier is recommended for driving the OmniPower soun...
+  Faithfulness: 0.8333
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.0000
+
+Query 15: Which amplifier version should be selected if remote control...
+  Faithfulness: 0.8000
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+Query 16: What sound source is suitable for ISO 3382 compliant reverbe...
+  Faithfulness: 1.0000
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+Query 17: Which B&K 2245 variant is best suited for sound power measur...
+  Faithfulness: 0.7500
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+Query 18: What software is required on the B&K 2245 to comply with ISO...
+  Faithfulness: 0.3333
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 1.0000
+
+Query 19: Which B&K 2245 variant is suitable for environmental noise s...
+  Faithfulness: 0.5000
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+Query 20: What variant should be used for roadside exhaust noise enfor...
+  Faithfulness: 1.0000
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+Query 21: Which sound level meter is best suited for a technician doin...
+  Faithfulness: 0.3333
+  Context Precision: 0.3333
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.0000
+
+Query 22: What product variant of HBK 2255 should a small business own...
+  Faithfulness: 0.7500
+  Context Precision: 0.0000
+  Context Recall: 0.0000
+  Noise Sensitivity: 0.0000
+
+Query 23: Which HBK 2255 variant includes both environmental noise mon...
+  Faithfulness: 1.0000
+  Context Precision: 0.5000
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.6667
+
+Query 24: What sound level meter is recommended for community noise mo...
+  Faithfulness: 0.8571
+  Context Precision: 1.0000
+  Context Recall: 1.0000
+  Noise Sensitivity: 0.0000
+
+
+============================================================
+=== BEST & WORST QUERIES ===
+============================================================
+
+Faithfulness:
+  Best:  1.0000 - Which HBK 2255 variant includes both environmental noise mon...
+  Worst: 0.3333 - What software is required on the B&K 2245 to comply with ISO...
+
+Context Precision:
+  Best:  1.0000 - What software is required on the B&K 2245 to comply with ISO...
+  Worst: 0.0000 - Which HBK 2255 variant is best suited for long-term environm...
+
+Context Recall:
+  Best:  1.0000 - What sound level meter is recommended for community noise mo...
+  Worst: 0.0000 - Which HBK 2255 variant should be used for evaluating workpla...
+
+Noise Sensitivity:
+  Best:  1.0000 - What software is required on the B&K 2245 to comply with ISO...
+  Worst: 0.0000 - Which solution is suitable for measuring room acoustics and ...
+
+
+============================================================
+✅ Evaluation complete!
+Results saved to: hybrid_evaluation_results.txt
+Metric arrays saved to: hybrid_metric_arrays.py
+============================================================

@@ -17,7 +17,7 @@ from ragas.llms import LangchainLLMWrapper
 
 import os
 os.environ["OPENAI_API_KEY"] = "sk-ea25363437e1476fadd3e65759d42903"
-os.environ["OPENAI_API_BASE"] = "https://chat.campusai.compute.dtu.dk/api"  # or whatever DTU's endpoint is
+os.environ["OPENAI_API_BASE"] = "https://chat.campusai.compute.dtu.dk/api/v1"  # or whatever DTU's endpoint is
 
 # Output files
 output_file = "comprehensive_evaluation_results.txt"

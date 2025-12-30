@@ -1,0 +1,1280 @@
+{
+  "pipeline_info": {
+    "execution_date": "2025-12-18T13:27:50.351535",
+    "total_questions": 24,
+    "successful_questions": 24,
+    "queries_file": "C:\\Users\\nerea\\Documents\\MasterDTU\\masterThesis\\hbkAgent\\private_gpt\\gt.json",
+    "selected_file": null,
+    "chat_logs_file": "C:\\Users\\nerea\\Documents\\MasterDTU\\masterThesis\\hbkAgent\\chat_logs_hybrid.json",
+    "rag_mode": true,
+    "system_prompt_used": "query_system_prompt",
+    "fusion_config": {
+      "method": "rrf",
+      "dense_weight": 0.5,
+      "bm25_weight": 0.5
+    }
+  },
+  "summary": {
+    "performance": {
+      "avg_time": 71.68583333333333,
+      "min_time": 50.5,
+      "max_time": 107.69,
+      "total_time": 1720.46
+    },
+    "sources": {
+      "avg_per_query": 3.0,
+      "total": 72,
+      "distribution": {
+        "from_dense_only": 37,
+        "from_bm25_only": 19,
+        "from_both": 16
+      }
+    },
+    "success_rate": 100.0
+  },
+  "results": [
+    {
+      "id": "q1",
+      "question": "Which solution is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards?",
+      "reference": "DIRAC Room Acoustics Software with HBK 2255 and HBK 2755.",
+      "context": [
+        "DIRAC Room Acoustics Software is used for measuring a wide range of room acoustical parameters. It supports wireless measurements using HBK 2255 Sound Level Meter and HBK 2755 Smart Power Amplifier. It is compliant with ISO 3382, ISO 18233, and IEC 60268-16 standards.",
+        "DIRAC supports multi-channel room acoustics measurements and allows auralisation of any sound played in a room using the room’s impulse response. It enables comparisons and statistics of results and supports scale model measurements.",
+        "Speech intelligibility measurements can be carried out using Echo Speech Source Type 4720 or direct injection into a sound system, taking into account background noise."
+      ],
+      "timestamp": "2025-12-18T13:00:41.930922",
+      "hybrid_result": {
+        "response": "Based on the provided context, DIRAC supports wireless room acoustics measurements when connected to HBK 2255 Sound Level Meter as a wireless microphone, and/or HBK 2755 Smart Power Amplifier as a wireless sound source. Additionally, it can perform speech intelligibility measurements in compliance with the IEC 60268-16 standard.\n\nTherefore, DIRAC is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards (specifically IEC 60268-16).",
+        "response_with_sources": "Based on the provided context, DIRAC supports wireless room acoustics measurements when connected to HBK 2255 Sound Level Meter as a wireless microphone, and/or HBK 2755 Smart Power Amplifier as a wireless sound source. Additionally, it can perform speech intelligibility measurements in compliance with the IEC 60268-16 standard.\n\nTherefore, DIRAC is suitable for measuring room acoustics and speech intelligibility in compliance with ISO standards (specifically IEC 60268-16).\n\n<hr>Sources: \n\n\n1. Dirac_Room_Acoustics_Software_-_7841.txt (page -) [dense|512tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Dirac_Room_Acoustics_Software_-_7841.txt",
+            "page": "-",
+            "text_preview": "Based on the measurement and analysis of impulse responses, the tool supports a variety of measurement configurations.\n DIRAC supports wireless room acoustics measurements when connected to\nHBK 2255 S...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Dirac_Room_Acoustics_Software_-_7841.txt",
+            "page": "-",
+            "text_preview": "DIRAC is a valuable acoustics measurement tool for field and laboratory acoustics engineers, researchers and educational institutions. Users can compare the acoustics of one room with another, validat...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "Dirac_Room_Acoustics_Software_-_7841.txt",
+            "page": "-",
+            "text_preview": "Based on the measurement and analysis of impulse responses, the tool supports a variety of measurement configurations.\n DIRAC supports wireless room acoustics measurements when connected to\nHBK 2255 S...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 92.04,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q2",
+      "question": "What product should be used for façade sound insulation testing on a construction site?",
+      "reference": "HBK 2255 Sound Level Meter with Building Acoustics Partner.",
+      "context": [
+        "HBK 2255 Sound Level Meter with Building Acoustics Partner is designed for airborne, impact, and façade sound insulation testing. It supports simultaneous L1 and L2 measurements and integrates with mobile and PC apps for workflow automation.",
+        "The Building Acoustics Partner mobile app provides measurement planning and workflow automation, helping ensure no measurement position is missed. It supports ISO 16283 and allows low-frequency measurements down to 20 Hz.",
+        "Accessories include OmniPower Sound Source Type 4292-L and HBK 2755 Smart Power Amplifier for sound generation."
+      ],
+      "timestamp": "2025-12-18T13:02:09.665186",
+      "hybrid_result": {
+        "response": "Based on the provided context, the HBK 2255 Sound Level Meter with Building Acoustics Partner and a sound source (such as the OmniPower Sound Source Type 4292-L) is recommended for façade sound insulation testing.",
+        "response_with_sources": "Based on the provided context, the HBK 2255 Sound Level Meter with Building Acoustics Partner and a sound source (such as the OmniPower Sound Source Type 4292-L) is recommended for façade sound insulation testing.\n\n<hr>Sources: \n\n\n1. output_PRODUCT DATA - 2250 2270.txt (page -) [both|512tok] \n\n2. output_UserGuide - Building Acoustics Partner.txt (page -) [dense|512tok] \n\n3. Building_Acoustic_Partner_2255.txt (page -) [bm25|256tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "output_PRODUCT DATA - 2250 2270.txt",
+            "page": "-",
+            "text_preview": "This means that you will know on site whether \nyour construction under test fulfils the minimum requirements of \nthe local building regulations. \nFig. 9  Left: With the required data measured, final r...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "output_UserGuide - Building Acoustics Partner.txt",
+            "page": "-",
+            "text_preview": "To perform sound insulation tests as described in this documentation, you will need HBK 2255 Sound Level Meter with\nBuilding Acoustics Partner and a sound source. The sound source can be HBK 2755 Smar...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Building_Acoustic_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "Product: Building Acoustic Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2255/2255-building-acoustics\n=================================================...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 1,
+          "bm25": 1,
+          "both": 1
+        },
+        "execution_time_seconds": 87.73,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q3",
+      "question": "Which sound source is recommended for calibrated speech intelligibility measurements using DIRAC?",
+      "reference": "Echo Speech Source Type 4720.",
+      "context": [
+        "Echo Speech Source Type 4720 delivers calibrated signals for speech intelligibility measurements. It is recommended for use with DIRAC software and complies with IEC 60268-16.",
+        "The Echo delivers a calibrated signal that is used by DIRAC to calculate different speech intelligibility parameters. It also takes into account background noise levels.",
+        "It is compact, lightweight, and mounts on common tripods, making it suitable for field and lab use."
+      ],
+      "timestamp": "2025-12-18T13:03:07.117218",
+      "hybrid_result": {
+        "response": "According to the context, the Echo Speech Source Type 4720 is the preferred source for speech intelligibility measurements.",
+        "response_with_sources": "According to the context, the Echo Speech Source Type 4720 is the preferred source for speech intelligibility measurements.\n\n<hr>Sources: \n\n\n1. output_PRODUCT DATA - Dirac SW.txt (page -) [both|512tok] \n\n2. Dirac_Room_Acoustics_Software_-_7841.txt (page -) [both|512tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "output_PRODUCT DATA - Dirac SW.txt",
+            "page": "-",
+            "text_preview": "The speech source was developed \nspecifically for use with DIRAC and delivers fully calibrated \nsignals for various measurement conditions.\nEcho Speech Source features: \nFully calibrated sound levels ...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Dirac_Room_Acoustics_Software_-_7841.txt",
+            "page": "-",
+            "text_preview": "In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily. The Echo delivers a calibrated signal that is used by DIRAC to calculate diff...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Dirac_Room_Acoustics_Software_-_7841.txt",
+            "page": "-",
+            "text_preview": "In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily. The Echo delivers a calibrated signal that is used by DIRAC to calculate diff...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 0,
+          "bm25": 0,
+          "both": 3
+        },
+        "execution_time_seconds": 57.45,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q4",
+      "question": "What sound source should be used for ISO 3382-compliant room acoustics measurements?",
+      "reference": "OmniPower Sound Source Type 4292-L.",
+      "context": [
+        "OmniPower Sound Source Type 4292-L is an omnidirectional loudspeaker used for room acoustics measurements. It conforms to ISO 3382 and is compatible with DIRAC and HBK 2755.",
+        "It features a 12-loudspeaker dodecahedral configuration, lightweight design, and maximum sound power of 122 dB re 1 pW (100 – 3150 Hz).",
+        "It is used for scale model measurements and full-size room testing."
+      ],
+      "timestamp": "2025-12-18T13:04:01.379873",
+      "hybrid_result": {
+        "response": "According to the context, an omnidirectional sound source, such as OmniPower Type 4292-L, should be used for ISO 3382-compliant room acoustical parameters measurements.",
+        "response_with_sources": "According to the context, an omnidirectional sound source, such as OmniPower Type 4292-L, should be used for ISO 3382-compliant room acoustical parameters measurements.\n\n<hr>Sources: \n\n\n1. output_PRODUCT DATA - Dirac SW.txt (page -) [both|512tok] \n\n3. Dirac_Room_Acoustics_Software_-_7841.txt (page -) [bm25|256tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "output_PRODUCT DATA - Dirac SW.txt",
+            "page": "-",
+            "text_preview": "12 HBK 2755\nRT [s]\nFrequency [Hz]\nThe Sound Sources\nA loudspeaker sound source can be used instead of an impulsive \nsound source. The ISO 3382 standard requires an omnidirectional \nsound source, such ...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "output_PRODUCT DATA - Dirac SW.txt",
+            "page": "-",
+            "text_preview": "12 HBK 2755\nRT [s]\nFrequency [Hz]\nThe Sound Sources\nA loudspeaker sound source can be used instead of an impulsive \nsound source. The ISO 3382 standard requires an omnidirectional \nsound source, such ...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Dirac_Room_Acoustics_Software_-_7841.txt",
+            "page": "-",
+            "text_preview": "In combination with Echo Speech Source Type 4720, speech intelligibility measurements can be performed quickly and easily. The Echo delivers a calibrated signal that is used by DIRAC to calculate diff...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 1,
+          "bm25": 1,
+          "both": 1
+        },
+        "execution_time_seconds": 54.26,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q5",
+      "question": "Which product supports compliance with ISO 9612 for workplace noise exposure?",
+      "reference": "Work Noise Partner",
+      "context": [
+        "Work Noise Partner offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.",
+        "This SLM-based survey solution simplifies your job of ensuring standards compliance and employee safety, including the data for selecting hearing protection."
+      ],
+      "timestamp": "2025-12-18T13:05:12.159742",
+      "hybrid_result": {
+        "response": "The Work Noise Partner app, together with a B&K 2245 sound level meter, offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.",
+        "response_with_sources": "The Work Noise Partner app, together with a B&K 2245 sound level meter, offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n\n<hr>Sources: \n\n\n1. Work_Noise_Partner_2245.txt (page -) [dense|512tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Work_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Together with an B&K 2245 sound level meter, Work Noise Partner is a complete, focused toolset for measuring occupational noise-related concerns, such as noise exposure surveys and risk mitigation for...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Work_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Product: Work Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-work-noise\n================================================================...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "Work_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Mobile App\n\nTogether with an B&K 2245 sound level meter, Work Noise Partner is a complete, focused toolset for measuring occupational noise-related concerns, such as noise exposure surveys and risk mi...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 70.78,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q6",
+      "question": "Which product is suitable for investigating environmental noise complaints?",
+      "reference": "Enviro Noise Partner",
+      "context": [
+        "This solution is all you need to easily conduct and report on environmental noise surveys to investigate noise complaints.",
+        "Verifying compliance with environmental noise regulations and investigating noise complaints."
+      ],
+      "timestamp": "2025-12-18T13:06:02.662412",
+      "hybrid_result": {
+        "response": "The Enviro Noise Partner is a complete toolset for measuring and reporting on environmental noise concerns, making it suitable for investigating environmental noise complaints.",
+        "response_with_sources": "The Enviro Noise Partner is a complete toolset for measuring and reporting on environmental noise concerns, making it suitable for investigating environmental noise complaints.\n\n<hr>Sources: \n\n\n1. Enviro_Noise_Partner_2245.txt (page -) [dense|512tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Enviro_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n============================================================...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Enviro_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n============================================================...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "Enviro_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n============================================================...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 50.5,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q7",
+      "question": "Which product is designed for measuring exhaust noise in vehicles?",
+      "reference": "Exhaust Noise Partner",
+      "context": [
+        "This B&K 2245 Sound Level Meter solution is a focused toolset for measuring exhaust noise.",
+        "Whether you are performing stationary exhaust noise testing in a workshop or performing street-side spot checks for law enforcement, this task-focused solution is the ideal tool."
+      ],
+      "timestamp": "2025-12-18T13:07:19.447611",
+      "hybrid_result": {
+        "response": "The B&K 2245 Sound Level Meter solution is a focused toolset for measuring exhaust noise. It's available in five versions, each with specific features for measuring and controlling different types of noise, including exhaust noise.",
+        "response_with_sources": "The B&K 2245 Sound Level Meter solution is a focused toolset for measuring exhaust noise. It's available in five versions, each with specific features for measuring and controlling different types of noise, including exhaust noise.\n\n<hr>Sources: \n\n\n1. Exhaust_Noise_Partner_2245.txt (page -) [dense|512tok] \n\n2. B&K_2245.txt (page -) [bm25|256tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Exhaust_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "B&K 2245 is type approved by PTB and CEM.\nMobile App\nDownloading the Noise Partner app to your phone from the App Store\n®\nenables the measurement to be wirelessly controlled from a mobile device by a ...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "B&K_2245.txt",
+            "page": "-",
+            "text_preview": "This sound level meter-based product noise measurement solution combines ease of use with reliable, valid data. Controlled via smart-device apps tailored to your product noise measurement task, B&K 22...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "Exhaust_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Product: Exhaust Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-exhaust-noise\n==========================================================...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 76.79,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q8",
+      "question": "Which product helps verify safe noise emissions from toys and machinery?",
+      "reference": "Product Noise Partner",
+      "context": [
+        "Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to verifying safe noise emissions from toys according to EN 71-1.",
+        "The Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations."
+      ],
+      "timestamp": "2025-12-18T13:08:39.813911",
+      "hybrid_result": {
+        "response": "The Product Noise Partner app, together with a B&K 2245 sound level meter, helps verify safe noise emissions from toys according to EN 71-1 and from machinery.",
+        "response_with_sources": "The Product Noise Partner app, together with a B&K 2245 sound level meter, helps verify safe noise emissions from toys according to EN 71-1 and from machinery.\n\n<hr>Sources: \n\n\n1. Product_Noise_Partner_2245.txt (page -) [dense|512tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Product_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Controlled via smart-device apps tailored to your product noise measurement task, B&K 2245 with Product Noise Partner gets the job done.\n\n Together with an B&K 2245 sound level meter, Product Noise Pa...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Product_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and mor...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "Product_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "B&K 2245 sound level meter with the Product Noise Partner concept combines ease of use and operational simplicity with a complete product noise measurement toolset so that the system's potential can b...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 80.37,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q9",
+      "question": "Which HBK 2255 variant is best suited for long-term environmental noise monitoring in infrastructure projects?",
+      "reference": "2255-E-S or 2255-E-SC, as they include Enviro Noise Partner and support GPS, weatherproofing, and long-term logging.",
+      "context": [
+        "The 2255-E-S and 2255-E-SC variants include the Enviro Noise Partner software, which is designed for environmental noise assessments. These variants also support GPS tagging, weatherproofing (IP54), and long-term logging capabilities.",
+        "Enviro Noise Partner enables 1/1- or 1/3-octave band frequency analysis, logging down to 1 s intervals, and high-quality audio recordings for incident identification."
+      ],
+      "timestamp": "2025-12-18T13:09:43.779990",
+      "hybrid_result": {
+        "response": "The answer is not explicitly stated in the provided context, but based on the information given, it seems that the HBK 2255 sound level meter has a timer functionality (Timer settings group of settings) which allows you to set up the instrument to switch on and make a measurement at a specific time on a specific day. This feature is useful for long-term environmental monitoring.\n\nHowever, without more specific information about the variants of the HBK 2255, it's difficult to determine which one is best suited for this purpose.",
+        "response_with_sources": "The answer is not explicitly stated in the provided context, but based on the information given, it seems that the HBK 2255 sound level meter has a timer functionality (Timer settings group of settings) which allows you to set up the instrument to switch on and make a measurement at a specific time on a specific day. This feature is useful for long-term environmental monitoring.\n\nHowever, without more specific information about the variants of the HBK 2255, it's difficult to determine which one is best suited for this purpose.\n\n<hr>Sources: \n\n\n1. Enviro_Noise_Partner_2255.txt (page -) [dense|512tok] \n\n2. output_UserGuide-Enviro noise Partner.txt (page -) [bm25|256tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Enviro_Noise_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "Measurements can be exported to customizable Microsoft\n®\nExcel\n®\ntemplates for fast, easy and consistent reporting.\n\nUSER SCENARIOS\nAttended environmental noise surveys of noise from commerce, industr...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "output_UserGuide-Enviro noise Partner.txt",
+            "page": "-",
+            "text_preview": "l Input X-weighted: Output the frequency-weighted input signal for listening purposes.\nl LXF: Output the frequency-weighted instantaneous sound level with time weighting F as 10 mV/dB.\nl X = the frequ...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "Enviro_Noise_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "Measurements can be exported to customizable Microsoft\n®\nExcel\n®\ntemplates for fast, easy and consistent reporting.\n\nUSER SCENARIOS\nAttended environmental noise surveys of noise from commerce, industr...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 63.97,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q10",
+      "question": "Which HBK 2255 variant should be used for evaluating workplace noise exposure according to ISO 9612?",
+      "reference": "2255-W-S or 2255-W-SC",
+      "context": [
+        "Work Noise Partner is a complete toolset for occupational noise-related concerns, including task- and job-based noise exposure assessment according to ISO 9612.",
+        "The 2255-W-S and 2255-W-SC variants include the Work Noise Partner software."
+      ],
+      "timestamp": "2025-12-18T13:10:48.267245",
+      "hybrid_result": {
+        "response": "Not specified in the context. The text mentions that Work Noise Partner can be used with an HBK 2255 sound level meter, but it does not specify which variant of the meter is recommended or required for evaluating workplace noise exposure according to ISO 9612.",
+        "response_with_sources": "Not specified in the context. The text mentions that Work Noise Partner can be used with an HBK 2255 sound level meter, but it does not specify which variant of the meter is recommended or required for evaluating workplace noise exposure according to ISO 9612.\n\n<hr>Sources: \n\n\n1. Work_Noise_Partner_2255.txt (page -) [both|512tok] \n\n3. Work_Noise_Partner_2245.txt (page -) [both|512tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Work_Noise_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n Mobile App\n\nWork Noise Partner for HBK 2255 ...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Work_Noise_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "You can import measurements from the dose meter into a Work Noise Partner project and combine that data with measurements from HBK 2255 to compare and analyse as needed. A separate licence is not requ...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Work_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "To ensure that the job is done correctly, the app offers a complete implementation of task- and job-based noise exposure assessment according to ISO 9612.\n Mobile App\n\nTogether with an B&K 2245 sound ...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 0,
+          "bm25": 0,
+          "both": 3
+        },
+        "execution_time_seconds": 64.49,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q11",
+      "question": "What HBK 2255 variant is recommended for sound insulation testing in buildings?",
+      "reference": "2255-B-S or 2255-B-SC",
+      "context": [
+        "Building Acoustics Partner enables airborne, impact, and façade sound insulation testing, including reverberation time measurements.",
+        "Variants 2255-B-S and 2255-B-SC include the Building Acoustics Partner software."
+      ],
+      "timestamp": "2025-12-18T13:11:49.775673",
+      "hybrid_result": {
+        "response": "The Building Acoustics Partner license installed on the HBK 2255 Sound Level Meter is designed specifically for building acoustics measurements, including sound insulation testing. Therefore, it is recommended to use this variant (HBK 2255 with Building Acoustics Partner) for sound insulation testing in buildings.",
+        "response_with_sources": "The Building Acoustics Partner license installed on the HBK 2255 Sound Level Meter is designed specifically for building acoustics measurements, including sound insulation testing. Therefore, it is recommended to use this variant (HBK 2255 with Building Acoustics Partner) for sound insulation testing in buildings.\n\n<hr>Sources: \n\n\n1. Building_Acoustic_Partner_2255.txt (page -) [both|512tok] \n\n3. output_PRODUCT DATA - 2255.txt (page -) [bm25|256tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Building_Acoustic_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "Product: Building Acoustic Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2255/2255-building-acoustics\n=================================================...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Building_Acoustic_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "Product: Building Acoustic Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2255/2255-building-acoustics\n=================================================...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "output_PRODUCT DATA - 2255.txt",
+            "page": "-",
+            "text_preview": "Product Data  BP 2679 – 15\nPRODUCT DATA\nHBK 2255 \nSound Level Meter\nAn advanced, easy-to-use class 1 sound level meter\nWhether measuring environmental noise from a new motorway, \ndetermining the sound...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 1,
+          "bm25": 1,
+          "both": 1
+        },
+        "execution_time_seconds": 61.51,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q12",
+      "question": "Which software module allows isolating specific noise events like barking dogs or traffic during environmental surveys?",
+      "reference": "Enviro Noise Partner",
+      "context": [
+        "Enviro Noise Partner includes tools to mark events and isolate sounds, such as excluding a barking dog from a measurement.",
+        "It also supports high-speed audio playback and streaming to mobile devices."
+      ],
+      "timestamp": "2025-12-18T13:12:49.872193",
+      "hybrid_result": {
+        "response": "The Enviro Noise Partner app allows isolating specific noise events like barking dogs or traffic during environmental surveys.",
+        "response_with_sources": "The Enviro Noise Partner app allows isolating specific noise events like barking dogs or traffic during environmental surveys.\n\n<hr>Sources: \n\n\n1. Enviro_Noise_Partner_2245.txt (page -) [dense|512tok] \n\n2. output_PRODUCT DATA - 2245.txt (page -) [bm25|256tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Enviro_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Additionally, the sound level meter can make high-quality audio recordings to aid in identifying specific incidents.\n Mobile App\nOnce the Enviro Noise Partner app is downloaded to your phone from the ...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "output_PRODUCT DATA - 2245.txt",
+            "page": "-",
+            "text_preview": "A platform that helps you get the job done\nThe B&K 2245 platform includes a range of apps, each tailored to \nassist a specific job-to-do. Each instrument can be licenced for \nmore than one app, so swi...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "Enviro_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "We haved moved ${referer} to\nwww.hbkworld.com\nThis will bring together HBM, Brüel & Kjær, nCode, ReliaSoft, MicroStrain and Discom brands, helping you innovate faster for a cleaner, healthier, and mor...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 60.1,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q13",
+      "question": "Which loudspeaker should be used for measuring airborne sound insulation in residential buildings?",
+      "reference": "Type 4292-L",
+      "context": [
+        "Type 4292-L is a dodecahedral, high-power, omnidirectional loudspeaker designed to measure sound insulation and perform room acoustics measurements.",
+        "It uses 12 loudspeakers in a spherical configuration to radiate sound evenly.",
+        "Complies with ISO 16283, ISO 10140, and ISO 3382 standards for architectural acoustics.",
+        "Delivers peak performance between 100 Hz and 200 Hz, ideal for low-frequency measurements."
+      ],
+      "timestamp": "2025-12-18T13:13:51.903642",
+      "hybrid_result": {
+        "response": "The context does not specify a particular type of loudspeaker to use for measuring airborne sound insulation in residential buildings. However, it mentions that a typical airborne task setup uses a loudspeaker emitting pink noise (Fig. 3). Therefore, the answer is not in the context provided.",
+        "response_with_sources": "The context does not specify a particular type of loudspeaker to use for measuring airborne sound insulation in residential buildings. However, it mentions that a typical airborne task setup uses a loudspeaker emitting pink noise (Fig. 3). Therefore, the answer is not in the context provided.\n\n<hr>Sources: \n\n\n1. output_PRODUCT DATA - 2250 2270.txt (page -) [both|512tok] \n\n2. output_UserGuide - Building Acoustics Partner.txt (page -) [both|512tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "output_PRODUCT DATA - 2250 2270.txt",
+            "page": "-",
+            "text_preview": "Fig. 1  Hand-held Analyzer Types 2270 and 2250, respectively\nTasks in Building Acoustics\nFig. 2 shows a typical configuration for the most common task in \nbuilding acoustics measurements: airborne sou...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "output_UserGuide - Building Acoustics Partner.txt",
+            "page": "-",
+            "text_preview": "The report format must follow international and national standards.\nThere are three types of tests: airborne sound insulation, impact sound insulation and façade sound insulation.\nAirborne sound insul...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "output_PRODUCT DATA - 2250 2270.txt",
+            "page": "-",
+            "text_preview": "Fig. 1  Hand-held Analyzer Types 2270 and 2250, respectively\nTasks in Building Acoustics\nFig. 2 shows a typical configuration for the most common task in \nbuilding acoustics measurements: airborne sou...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 1,
+          "bm25": 0,
+          "both": 2
+        },
+        "execution_time_seconds": 62.03,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q14",
+      "question": "What amplifier is recommended for driving the OmniPower sound source in concert hall reverberation tests?",
+      "reference": "HBK 2755",
+      "context": [
+        "HBK 2755 Smart Power Amplifier is designed specifically for architectural acoustics and SPC measurements.",
+        "It includes a powerful signal generator preloaded with signals optimized for HBK sound sources.",
+        "Can be remotely controlled via Wi-Fi or manually operated.",
+        "Delivers up to 500 W into 4 Ω in bridged mode, suitable for large spaces."
+      ],
+      "timestamp": "2025-12-18T13:15:22.820996",
+      "hybrid_result": {
+        "response": "The HBK 2755 Smart Power Amplifier is recommended for driving the OmniPower Type 4292-L sound source in insulation measurements, and it's also optimal for DIRAC. However, I couldn't find specific information about its use in concert hall reverberation tests. The context mentions that it easily drives the OmniPower Type 4292-L for insulation measurements, but it doesn't explicitly state that it's recommended for driving the OmniPower sound source in concert hall reverberation tests.\n\nHowever, based on the provided context, it seems likely that the HBK 2755 Smart Power Amplifier would be suitable for driving the OmniPower sound source in concert hall reverberation tests as well.",
+        "response_with_sources": "The HBK 2755 Smart Power Amplifier is recommended for driving the OmniPower Type 4292-L sound source in insulation measurements, and it's also optimal for DIRAC. However, I couldn't find specific information about its use in concert hall reverberation tests. The context mentions that it easily drives the OmniPower Type 4292-L for insulation measurements, but it doesn't explicitly state that it's recommended for driving the OmniPower sound source in concert hall reverberation tests.\n\nHowever, based on the provided context, it seems likely that the HBK 2755 Smart Power Amplifier would be suitable for driving the OmniPower sound source in concert hall reverberation tests as well.\n\n<hr>Sources: \n\n\n1. output_UserGuide - Building Acoustics Partner.txt (page -) [dense|512tok] \n\n2. output_PRODUCT DATA - Dirac SW.txt (page -) [bm25|256tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "output_UserGuide - Building Acoustics Partner.txt",
+            "page": "-",
+            "text_preview": "l Build-up time = 1 second\nStabilization of sound levels should take about one second in ordinary rooms, but it can take longer in larger\nThe Source control settings for T2 measurements are enabled wh...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "output_PRODUCT DATA - Dirac SW.txt",
+            "page": "-",
+            "text_preview": "It connects to a USB \nsocket for power and interface and complies with standard USB \nclass specifications and plug-and-play architecture, allowing \ninstant use with no user-installed drivers.\nAt high ...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "output_UserGuide - Building Acoustics Partner.txt",
+            "page": "-",
+            "text_preview": "l Build-up time = 1 second\nStabilization of sound levels should take about one second in ordinary rooms, but it can take longer in larger\nThe Source control settings for T2 measurements are enabled wh...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 90.92,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q15",
+      "question": "Which amplifier version should be selected if remote control via mobile device is required?",
+      "reference": "HBK 2755",
+      "context": [
+        "HBK 2755 includes Wi-Fi, allowing configuration and control from a PC or mobile device.",
+        "HBK 2755-A does not include Wi-Fi and is only operated via front panel controls."
+      ],
+      "timestamp": "2025-12-18T13:16:23.427701",
+      "hybrid_result": {
+        "response": "The context does not mention anything about selecting an amplifier version for remote control via a mobile device. It only provides information about firmware variants and general guidelines for remote connection, but it does not specify any requirements or recommendations related to amplifiers.",
+        "response_with_sources": "The context does not mention anything about selecting an amplifier version for remote control via a mobile device. It only provides information about firmware variants and general guidelines for remote connection, but it does not specify any requirements or recommendations related to amplifiers.\n\n<hr>Sources: \n\n\n1. output_UserGuide - Noise Partner.txt (page -) [dense|512tok] \n\n2. output_PRODUCT DATA - 2245.txt (page -) [bm25|256tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "output_UserGuide - Noise Partner.txt",
+            "page": "-",
+            "text_preview": "The following includes inform-\nation about your instrument, general guidelines for the configuration of your router to enable remote connection, and\nhow to test the connection.\nl Remote connection is ...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "output_PRODUCT DATA - 2245.txt",
+            "page": "-",
+            "text_preview": "In countries where a WELMEC-\ncompliant instrument is required for legal metrology (currently \nGermany and Spain), the WELMEC firmware variant for that country \nshould be selected. For all others who r...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "output_UserGuide - Noise Partner.txt",
+            "page": "-",
+            "text_preview": "The following includes inform-\nation about your instrument, general guidelines for the configuration of your router to enable remote connection, and\nhow to test the connection.\nl Remote connection is ...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 60.61,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q16",
+      "question": "What sound source is suitable for ISO 3382 compliant reverberation time measurements in office buildings?",
+      "reference": "Type 4292-L",
+      "context": [
+        "Type 4292-L OmniPower Sound Source satisfies ISO 3382 requirements.",
+        "Radiates sound evenly in all directions for reproducible results.",
+        "Lightweight and easy to transport, ideal for field measurements."
+      ],
+      "timestamp": "2025-12-18T13:17:39.520152",
+      "hybrid_result": {
+        "response": "The context does not specify a particular sound source that is specifically suitable for ISO 3382 compliant reverberation time measurements in office buildings. However, it mentions that DIRAC can use other excitation signals such as MLS (maximum length sequence) signal, sweep or swept sine, white noise and pink noise through deconvolution to calculate the impulse response using loudspeaker sound sources.",
+        "response_with_sources": "The context does not specify a particular sound source that is specifically suitable for ISO 3382 compliant reverberation time measurements in office buildings. However, it mentions that DIRAC can use other excitation signals such as MLS (maximum length sequence) signal, sweep or swept sine, white noise and pink noise through deconvolution to calculate the impulse response using loudspeaker sound sources.\n\n<hr>Sources: \n\n\n1. output_PRODUCT DATA - 2250 2270.txt (page -) [dense|512tok] \n\n2. output_PRODUCT DATA - Dirac SW.txt (page -) [bm25|256tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "output_PRODUCT DATA - 2250 2270.txt",
+            "page": "-",
+            "text_preview": "Reverberation times from 0.1 to up to 30 seconds are \nthen measured at peak sound levels up to 143 dB. No trial \nmeasurements, no overloads, and the ‘traffic light’ clearly shows \nthe measurement stat...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "output_PRODUCT DATA - Dirac SW.txt",
+            "page": "-",
+            "text_preview": "DIRAC measures and \nsaves acoustical impulse responses and calculates acoustical \nparameters from impulse responses.\nOther Excitation Signals\nThrough the method of deconvolution, DIRAC can also calcul...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "output_PRODUCT DATA - 2250 2270.txt",
+            "page": "-",
+            "text_preview": "Reverberation times from 0.1 to up to 30 seconds are \nthen measured at peak sound levels up to 143 dB. No trial \nmeasurements, no overloads, and the ‘traffic light’ clearly shows \nthe measurement stat...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 76.09,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q17",
+      "question": "Which B&K 2245 variant is best suited for sound power measurements in a product testing lab?",
+      "reference": "2245-P-S and 2245-P-SC are best suited for sound power measurements in product testing labs.",
+      "context": [
+        "Product Noise Partner supports sound power determination according to ISO 3744 and ISO 3746.",
+        "Variants 2245-P-S and 2245-P-SC include the Product Noise Partner software.",
+        "These variants include accessories like the Type 4966 microphone and optional calibrator.",
+        "Product Noise Partner offers a 3D geometry view and pass/fail indicators for measurement accuracy."
+      ],
+      "timestamp": "2025-12-18T13:18:56.963585",
+      "hybrid_result": {
+        "response": "The context does not specify any variants of the B&K 2245 sound level meter. However, it mentions that together with an B&K 2245 sound level meter, Product Noise Partner is a complete toolset for product noise testing – from sound power determination according to international standards. Therefore, any variant of the B&K 2245 would be suitable for sound power measurements in a product testing lab.",
+        "response_with_sources": "The context does not specify any variants of the B&K 2245 sound level meter. However, it mentions that together with an B&K 2245 sound level meter, Product Noise Partner is a complete toolset for product noise testing – from sound power determination according to international standards. Therefore, any variant of the B&K 2245 would be suitable for sound power measurements in a product testing lab.\n\n<hr>Sources: \n\n\n1. Product_Noise_Partner_2245.txt (page -) [dense|512tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Product_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "The Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations and help promote a saf...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Product_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Together with an B&K 2245 sound level meter, Product Noise Partner is a complete, focused toolset for product noise testing – from sound power determination according to international standards, to ve...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "Product_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "The Product Noise Partner app measures sound power levels for machinery and equipment such as household appliances in order to comply with national and international regulations and help promote a saf...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 77.44,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q18",
+      "question": "What software is required on the B&K 2245 to comply with ISO 3744 for sound power testing?",
+      "reference": "Product Noise Partner software is required for ISO 3744-compliant sound power testing.",
+      "context": [
+        "Product Noise Partner enables ISO 3744 and ISO 3746 compliant sound power testing.",
+        "It is included in the 2245-P-S and 2245-P-SC variants."
+      ],
+      "timestamp": "2025-12-18T13:20:01.427715",
+      "hybrid_result": {
+        "response": "The context does not specify that any specific software is required on the B&K 2245 to comply with ISO 3744 for sound power testing. However, it mentions that Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting data, but this information is related to a different device (HBK 2255).",
+        "response_with_sources": "The context does not specify that any specific software is required on the B&K 2245 to comply with ISO 3744 for sound power testing. However, it mentions that Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting data, but this information is related to a different device (HBK 2255).\n\n<hr>Sources: \n\n\n1. Product_Noise_Partner_2245.txt (page -) [both|512tok] \n\n2. Product_Noise_Partner_2255.txt (page -) [both|512tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Product_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "The PC app can even be used to wirelessly control measurements with your B&K 2245. Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your da...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Product_Noise_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "The PC app can even be used to wirelessly control measurements with your HBK 2255. Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your da...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Product_Noise_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "The PC app can even be used to wirelessly control measurements with your HBK 2255. Product Noise Partner PC software is preconfigured with the tools needed for storing, reviewing and reporting your da...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 1,
+          "bm25": 0,
+          "both": 2
+        },
+        "execution_time_seconds": 64.46,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q19",
+      "question": "Which B&K 2245 variant is suitable for environmental noise surveys and regulation compliance?",
+      "reference": "2245-E-S and 2245-E-SC are suitable for environmental noise surveys and regulation compliance.",
+      "context": [
+        "Enviro Noise Partner supports environmental noise surveys and regulation compliance.",
+        "It enables 1/1- and 1/3-octave band frequency analysis, broadband statistics, and audio recording.",
+        "Variants 2245-E-S and 2245-E-SC include the Enviro Noise Partner software."
+      ],
+      "timestamp": "2025-12-18T13:20:54.485922",
+      "hybrid_result": {
+        "response": "The Enviro Noise Partner solution, which includes a B&K 2245 sound level meter, is suitable for environmental noise surveys and regulation compliance.",
+        "response_with_sources": "The Enviro Noise Partner solution, which includes a B&K 2245 sound level meter, is suitable for environmental noise surveys and regulation compliance.\n\n<hr>Sources: \n\n\n1. Enviro_Noise_Partner_2255.txt (page -) [both|512tok] \n\n3. Enviro_Noise_Partner_2245.txt (page -) [bm25|256tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Enviro_Noise_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "Measurements can be exported to customizable Microsoft\n®\nExcel\n®\ntemplates for fast, easy and consistent reporting.\n\nUSER SCENARIOS\nAttended environmental noise surveys of noise from commerce, industr...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Enviro_Noise_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "Measurements can be exported to customizable Microsoft\n®\nExcel\n®\ntemplates for fast, easy and consistent reporting.\n\nUSER SCENARIOS\nAttended environmental noise surveys of noise from commerce, industr...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Enviro_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Product: Enviro Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-enviro-noise\n============================================================...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 1,
+          "bm25": 1,
+          "both": 1
+        },
+        "execution_time_seconds": 53.06,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q20",
+      "question": "What variant should be used for roadside exhaust noise enforcement?",
+      "reference": "2245-X-I and 2245-X-LC are recommended for roadside exhaust noise enforcement.",
+      "context": [
+        "Exhaust Noise Partner supports stationary and roadside exhaust noise testing.",
+        "It complies with ISO 5130, SAE J1169, J1492, and J1287.",
+        "Variants 2245-X-I and 2245-X-LC include the Exhaust Noise Partner software."
+      ],
+      "timestamp": "2025-12-18T13:22:06.048802",
+      "hybrid_result": {
+        "response": "The B&K 2245 Sound Level Meter solution with Noise Partner PC software and mobile app is suitable for roadside exhaust noise regulation enforcement.",
+        "response_with_sources": "The B&K 2245 Sound Level Meter solution with Noise Partner PC software and mobile app is suitable for roadside exhaust noise regulation enforcement.\n\n<hr>Sources: \n\n\n1. Exhaust_Noise_Partner_2245.txt (page -) [both|512tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Exhaust_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Product: Exhaust Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-exhaust-noise\n==========================================================...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Exhaust_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Via the app interface, pictures, text and voice notes, and videos can be embedded with the measurements.\n PC App\nWhen the measurement is finished, the data can be transferred to a PC, wirelessly or wi...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Exhaust_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "PC App\nWhen the measurement is finished, the data can be transferred to a PC, wirelessly or with the supplied USB cable. Noise Partner PC software is preconfigured with the tools needed for storing, r...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 1,
+          "bm25": 1,
+          "both": 1
+        },
+        "execution_time_seconds": 71.56,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q21",
+      "question": "Which sound level meter is best suited for a technician doing quick spot checks in urban environments?",
+      "reference": "B&K 2245",
+      "context": [
+        "B&K 2245 is a task-tailored, class 1 measurement solution.",
+        "It works with mobile apps and PC software for easy reporting.",
+        "Designed for general users and technicians needing portability and ease of use.",
+        "Ideal for spot checks and quick assessments."
+      ],
+      "timestamp": "2025-12-18T13:23:50.794965",
+      "hybrid_result": {
+        "response": "Based on the provided context, I would recommend the B&K 2245 sound level meter as it is described as \"task-tailored\" and has an open API interface that allows for seamless integration with mobile apps and PC software. This suggests that it may be well-suited for quick spot checks in urban environments where ease of use and efficiency are important.\n\nAdditionally, the fact that it can work seamlessly with specially-created mobile apps implies that it may have features such as data logging, analysis, and reporting capabilities that would be useful for a technician doing quick spot checks.",
+        "response_with_sources": "Based on the provided context, I would recommend the B&K 2245 sound level meter as it is described as \"task-tailored\" and has an open API interface that allows for seamless integration with mobile apps and PC software. This suggests that it may be well-suited for quick spot checks in urban environments where ease of use and efficiency are important.\n\nAdditionally, the fact that it can work seamlessly with specially-created mobile apps implies that it may have features such as data logging, analysis, and reporting capabilities that would be useful for a technician doing quick spot checks.\n\n<hr>Sources: \n\n\n1. Sound_Level_Meters.txt (page -) [both|512tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Sound_Level_Meters.txt",
+            "page": "-",
+            "text_preview": "The most suitable type of microphone for a sound level meter is a condenser microphone, which combines precision with measurement reliability. The microphone converts the sound signal to an equivalent...",
+            "retriever_source": "both",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Sound_Level_Meters.txt",
+            "page": "-",
+            "text_preview": "At its very core, a sound level meter basically consists of a microphone, a preamplifier, a signal processing unit, and a display.\n\nThe most suitable type of microphone for a sound level meter is a co...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "Sound_Level_Meters.txt",
+            "page": "-",
+            "text_preview": "In urban environments, noise pollution - or excessive noise exposure - directly affects the people who live and work in the affected areas. To ensure noise regulations are followed, noise is measured ...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 0,
+          "both": 1
+        },
+        "execution_time_seconds": 104.75,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q22",
+      "question": "What product variant of HBK 2255 should a small business owner choose for basic environmental noise monitoring?",
+      "reference": "2255-E-S",
+      "context": [
+        "2255-E-S includes HBK 2255 and Enviro Noise Partner software.",
+        "Supports 1/1- or 1/3-octave band frequency analysis and logging down to 1s intervals.",
+        "Can stream audio and embed annotations via mobile app.",
+        "Designed for environmental noise surveys and complaint investigations."
+      ],
+      "timestamp": "2025-12-18T13:24:55.954393",
+      "hybrid_result": {
+        "response": "The context does not specify which firmware variant is best suited for \"basic environmental noise monitoring\". However, it mentions that for countries where a WELMEC-compliant instrument is required (currently Germany and Spain), the WELMEC firmware variant should be selected. For all others who require a type-approved SLM, the standard variant should be suitable.\n\nTherefore, I would recommend choosing the \"General type-approved firmware (standard)\" variant as it seems to be the default option for most users.",
+        "response_with_sources": "The context does not specify which firmware variant is best suited for \"basic environmental noise monitoring\". However, it mentions that for countries where a WELMEC-compliant instrument is required (currently Germany and Spain), the WELMEC firmware variant should be selected. For all others who require a type-approved SLM, the standard variant should be suitable.\n\nTherefore, I would recommend choosing the \"General type-approved firmware (standard)\" variant as it seems to be the default option for most users.\n\n<hr>Sources: \n\n\n1. Enviro_Noise_Partner_2255.txt (page -) [dense|512tok] \n\n2. output_PRODUCT DATA - 2255.txt (page -) [bm25|256tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Enviro_Noise_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "Measurements can be exported to customizable Microsoft\n®\nExcel\n®\ntemplates for fast, easy and consistent reporting.\n\nUSER SCENARIOS\nAttended environmental noise surveys of noise from commerce, industr...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "output_PRODUCT DATA - 2255.txt",
+            "page": "-",
+            "text_preview": "all filters\nANSI/ASA S1.11-2014/Part 1, 1/1-octave \nbands and 1/3-octave bands, class 1, group X/\nZ, all filters\n* Frequency analysis features are only available with additional software licences \nCOO...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "Enviro_Noise_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "Measurements can be exported to customizable Microsoft\n®\nExcel\n®\ntemplates for fast, easy and consistent reporting.\n\nUSER SCENARIOS\nAttended environmental noise surveys of noise from commerce, industr...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 65.16,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q23",
+      "question": "Which HBK 2255 variant includes both environmental noise monitoring and a calibrator for accurate measurements?",
+      "reference": "2255-E-SC",
+      "context": [
+        "2255-E-SC includes HBK 2255, Enviro Noise Partner, and Type 4231 Sound Calibrator.",
+        "Supports high-quality audio recordings and event marking.",
+        "Designed for compliance verification and complaint investigation."
+      ],
+      "timestamp": "2025-12-18T13:26:02.658658",
+      "hybrid_result": {
+        "response": "The variant that includes both environmental noise monitoring and a calibrator for accurate measurements is: Variant: 2255-E-SC — SLM with Enviro Noise & Calibrator.",
+        "response_with_sources": "The variant that includes both environmental noise monitoring and a calibrator for accurate measurements is: Variant: 2255-E-SC — SLM with Enviro Noise & Calibrator.\n\n<hr>Sources: \n\n\n1. Work_Noise_Partner_2255.txt (page -) [dense|512tok] \n\n2. 2255_relations.txt (page -) [bm25|256tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Work_Noise_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "You can import measurements from the dose meter into a Work Noise Partner project and combine that data with measurements from HBK 2255 to compare and analyse as needed. A separate licence is not requ...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "2255_relations.txt",
+            "page": "-",
+            "text_preview": "Variant: 2255-E-SC  — SLM with Enviro Noise & Calibrator\nHBK 2255 - Sound Level Meter: included\nSOFTWARE - BZ-7300 Noise Partner: included\nSOFTWARE - BZ-7301 Enviro Noise Partner: included\nSOFTWARE - ...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "Work_Noise_Partner_2255.txt",
+            "page": "-",
+            "text_preview": "You can import measurements from the dose meter into a Work Noise Partner project and combine that data with measurements from HBK 2255 to compare and analyse as needed. A separate licence is not requ...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 66.7,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    },
+    {
+      "id": "q24",
+      "question": "What sound level meter is recommended for community noise monitoring with mobile app support?",
+      "reference": "HBK 2255",
+      "context": [
+        "HBK 2255 works with multiple mobile apps including Noise Partner and Enviro Noise Partner.",
+        "Wireless connectivity allows remote control and annotation.",
+        "Noise Partner is suitable for general-purpose and environmental noise measurements."
+      ],
+      "timestamp": "2025-12-18T13:27:50.351535",
+      "hybrid_result": {
+        "response": "Based on the provided context, the HBK 2245 Sound Level Meter is mentioned as a task-tailored, class 1 measurement solution that works seamlessly with specially-created mobile apps, providing an entirely new level of efficiency and control. It also has wireless communication interface capabilities, allowing it to connect to mobile devices via Wi-Fi for remote operation.\n\nAdditionally, the context mentions that all iOS mobile apps are available for free download via App Store, which suggests that the HBK 2245 Sound Level Meter is a suitable option for community noise monitoring with mobile app support.",
+        "response_with_sources": "Based on the provided context, the HBK 2245 Sound Level Meter is mentioned as a task-tailored, class 1 measurement solution that works seamlessly with specially-created mobile apps, providing an entirely new level of efficiency and control. It also has wireless communication interface capabilities, allowing it to connect to mobile devices via Wi-Fi for remote operation.\n\nAdditionally, the context mentions that all iOS mobile apps are available for free download via App Store, which suggests that the HBK 2245 Sound Level Meter is a suitable option for community noise monitoring with mobile app support.\n\n<hr>Sources: \n\n\n1. Sound_Level_Meters.txt (page -) [dense|512tok] \n\n2. output_PRODUCT DATA - Noise Partner.txt (page -) [bm25|256tok] \n\n3. Product_Noise_Partner_2245.txt (page -) [dense|512tok] \n\n<hr>\n\n",
+        "sources": [
+          {
+            "file": "Sound_Level_Meters.txt",
+            "page": "-",
+            "text_preview": "In urban environments, noise pollution - or excessive noise exposure - directly affects the people who live and work in the affected areas. To ensure noise regulations are followed, noise is measured ...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          },
+          {
+            "file": "output_PRODUCT DATA - Noise Partner.txt",
+            "page": "-",
+            "text_preview": "Use the PC app to analyse data in detail, to generate reports and to \nexport data to other formats.\nAll iOS mobile apps are available for free download via App Store®.\nAll PC apps can be downloaded at...",
+            "retriever_source": "bm25",
+            "chunk_size": "256"
+          },
+          {
+            "file": "Product_Noise_Partner_2245.txt",
+            "page": "-",
+            "text_preview": "Product: Product Noise Partner\nURL: https://www.hbkworld.com/en/products/instruments/handheld/sound-level-meters/type-2245/2245-product-noise\n==========================================================...",
+            "retriever_source": "dense",
+            "chunk_size": "512"
+          }
+        ],
+        "sources_count": 3,
+        "sources_by_retriever": {
+          "dense": 2,
+          "bm25": 1,
+          "both": 0
+        },
+        "execution_time_seconds": 107.69,
+        "fusion_method": "rrf",
+        "weights": {
+          "dense": 0.5,
+          "bm25": 0.5
+        },
+        "system_prompt_used": "query_system_prompt",
+        "success": true
+      }
+    }
+  ]
+}
